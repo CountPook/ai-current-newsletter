@@ -5,21 +5,27 @@
       "date": "2026-06-17",
       "post_id": "post_16dcd8ee-e004-4eeb-b2d9-ce830f029b42",
       "title": "OpenAI Tests Models Before Launch, Zhipu Opens GLM-5.2, Google Ships June Pixel Drop",
-      "stats": {
-        "emails_sent": 12,
-        "delivered": 12,
-        "delivery_rate": 100.0,
-        "open_rate": 33.33,
-        "unique_opens": 4,
-        "click_rate": 25.0,
-        "unique_clicks": 1,
-        "unsubscribe_rate": 16.67,
-        "unsubscribes": 2,
-        "spam_reports": 0
-      },
+      "stats": {"emails_sent": 12, "delivered": 12, "delivery_rate": 100.0, "open_rate": 33.33, "unique_opens": 4, "click_rate": 25.0, "unique_clicks": 1, "unsubscribe_rate": 16.67, "unsubscribes": 2, "spam_reports": 0},
       "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$0.00"},
-      "ads": []
+      "ads": [
+        {"advertiser": "The Code", "opportunity_id": "656779a5-5956-42bb-b3ae-5bf9ae6efdd1", "slot": "primary", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "secondary", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
+      "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
+      "ads": [
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
     }
   ],
-  "ads": []
+  "ads": [
+    {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
+    {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+  ]
 }
