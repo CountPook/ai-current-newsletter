@@ -16,16 +16,33 @@
       "date": "2026-06-18",
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 100.0, "unique_clicks": 1, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$0.00"},
       "ads": [
         {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "post_id": "post_b7dfad92-303c-41fd-a3fe-50ae3cc65d47",
+      "title": "Google Swaps Gemini CLI for Antigravity, OpenAI Launches ChatGPT Health, Apple-Intel Chip Deal",
+      "target_send": "2026-06-19T14:00:00Z",
+      "ad_source": "list_ad_offers (fresh network offers; all send_by 2026-06-24, valid past target send). No direct sponsorship agreements waiting.",
+      "ads": [
+        {"advertiser": "Neo", "offer_id": "69561957", "accepted_ad_id": "341d90df-0e77-4291-a020-67d53df60199", "headline": "Smarter browsing. Your data never leaves the room.", "slot": "top (after intro)", "cpc_cents": 213, "send_by": "2026-06-24T05:50:17Z"},
+        {"advertiser": "tldr.tech", "offer_id": "69561959", "accepted_ad_id": "c5e2ca13-2b61-49aa-a269-0ad7e1df9735", "headline": "Subscriber Acquisition, June - Secondary Text-Only V2", "slot": "bottom (after stories, before sign-off)", "cpc_cents": 150, "send_by": "2026-06-24T05:50:17Z"},
+        {"advertiser": "WeAreDevelopers", "offer_id": "69561958", "accepted_ad_id": "091499db-25e1-458d-952b-4a3b817aa6b0", "headline": "The World's Biggest Dev Event Hits Silicon Valley", "slot": "bottom (after sign-off, before share button)", "cpc_cents": 150, "send_by": "2026-06-24T05:50:17Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-19", "advertiser": "Neo", "offer_id": "69561957", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-19", "advertiser": "tldr.tech", "offer_id": "69561959", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-19", "advertiser": "WeAreDevelopers", "offer_id": "69561958", "slot_position": 3, "cpc_cents": 150}
   ]
 }

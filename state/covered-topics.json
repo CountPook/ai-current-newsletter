@@ -12,6 +12,11 @@
     {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
     {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
     {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"},
+    {"date": "2026-06-19", "title": "Google retires the Gemini CLI, completes migration to Antigravity CLI", "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/"},
+    {"date": "2026-06-19", "title": "OpenAI launches ChatGPT Health", "url": "https://openai.com/index/introducing-chatgpt-health/"},
+    {"date": "2026-06-19", "title": "Trump says Apple will design and build chips with Intel in the US", "url": "https://www.cbsnews.com/news/intel-intc-shares-trump-apple-chip-agreement/"},
+    {"date": "2026-06-19", "title": "Nvidia and Coherent break ground on Texas optical-interconnect plant ($2B, CHIPS LOI)", "url": "https://www.techtimes.com/articles/318659/20260618/nvidia-coherent-break-ground-texas-ai-optical-bottleneck-fix-2b-bet-backed-chips-act.htm"},
+    {"date": "2026-06-19", "title": "Anthropic commits $150M to Claude Corps training program", "url": "https://thenonprofittimes.com/npt_articles/anthropic-launches-claude-corps-with-150m-pledge/"}
   ]
 }

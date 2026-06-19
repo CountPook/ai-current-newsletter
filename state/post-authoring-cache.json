@@ -15,6 +15,7 @@
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
     "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "_note_advertisement_kind": "Do NOT hardcode data-advertisement-kind=\"primary\" on advertisementOpportunity nodes — on 2026-06-19 save_post rejected this with 'No primary ad slot is available in this post'. Omit data-advertisement-kind so beehiiv auto-selects the available creative. data-id can be the numeric offer id from list_ad_offers; beehiiv claims it and returns the accepted ad id in the save_post response's 'advertisements' array."
   }
 }
