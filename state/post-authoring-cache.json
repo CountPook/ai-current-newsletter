@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-06-20",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -8,13 +8,15 @@
     "link_color": "#0C4A6E"
   },
   "established_template": {
-    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners. Story sections use h2 headings (Models & Research, Industry & Business). Sign-off + Share button at the end. Sponsor slots use advertisementOpportunity nodes labeled 'A word from our sponsor' only when offers/agreements exist.",
+    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners. Story sections use h2 headings (Product & Platform, Industry & Infrastructure, AI & Society). Sign-off + Share button at the end. Sponsor slots use advertisementOpportunity nodes labeled 'A WORD FROM OUR SPONSOR' only when offers/agreements exist.",
     "section_attrs": "data-background-color=#222222 data-color=#FFFFFF data-padding-*=20 data-type=section class=node-section",
-    "cover_image_radius": 30
+    "cover_image_radius": 30,
+    "ad_placement": "One ad after the intro (top); two ads near the bottom separated by the sign-off (before sign-off + after sign-off, before the Share button) so they are never stacked."
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
     "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "note": "OMIT data-advertisement-kind to let beehiiv auto-select the creative. Setting data-advertisement-kind=\"primary\" was REJECTED on 2026-06-20 for offers whose primary (with-logo) creative was unavailable ('No primary ad slot is available'). Auto-select is the safe default for unattended runs."
   }
 }

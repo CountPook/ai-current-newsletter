@@ -21,11 +21,40 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-19",
+      "post_id": "post_b7dfad92-303c-41fd-a3fe-50ae3cc65d47",
+      "title": "Google Swaps Gemini CLI for Antigravity, OpenAI Launches ChatGPT Health, Apple-Intel Chip Deal",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 40.0, "unique_opens": 4, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$4.48"},
+      "ads": [
+        {"advertiser": "Neo (Norton Neo)", "opportunity_id": "341d90df-0e77-4291-a020-67d53df60199", "slot": "top (after intro)", "kind": "secondary"},
+        {"advertiser": "tldr.tech", "opportunity_id": "c5e2ca13-2b61-49aa-a269-0ad7e1df9735", "slot": "near end (before sign-off)", "kind": "secondary"},
+        {"advertiser": "WeAreDevelopers", "opportunity_id": "091499db-25e1-458d-952b-4a3b817aa6b0", "slot": "after sign-off (before share)", "kind": "primary"}
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "post_id": "post_e01ef093-16e4-42bd-9ed4-1a7786ce7582",
+      "title": "Databricks Scales Enterprise AI Agents, Grok Comes to Microsoft Office, Anthropic Export Standoff Continues",
+      "yesterday_graded": {"post_id": "post_b7dfad92-303c-41fd-a3fe-50ae3cc65d47", "open_rate": 40.0, "click_rate": 0.0, "unsubscribes": 0},
+      "ads": [
+        {"advertiser": "Neo", "offer_id": "69984223", "opportunity_id": "57ceebea-37bd-4fec-8820-467f56c70a02", "headline": "Fast browsing. Faster thinking.", "slot": "top (after intro)", "cpc_cents": 213, "send_by": "2026-06-25T05:49:54Z"},
+        {"advertiser": "TigerData", "offer_id": "69984226", "opportunity_id": "e387d2a2-940c-4257-b7e6-81c87a7bb688", "headline": "Postgres Didn't Fail You. Your Architecture Did.", "slot": "near end (before sign-off)", "cpc_cents": 150, "send_by": "2026-06-25T05:49:54Z"},
+        {"advertiser": "Ghost", "offer_id": "69984227", "opportunity_id": "e4d65cff-5854-46f3-9346-880061883230", "headline": "Ghost MCP", "slot": "after sign-off (before share)", "cpc_cents": 150, "send_by": "2026-06-25T05:49:55Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-19", "advertiser": "Neo (Norton Neo)", "opportunity_id": "341d90df-0e77-4291-a020-67d53df60199", "slot_position": 1},
+    {"date": "2026-06-19", "advertiser": "tldr.tech", "opportunity_id": "c5e2ca13-2b61-49aa-a269-0ad7e1df9735", "slot_position": 2},
+    {"date": "2026-06-19", "advertiser": "WeAreDevelopers", "opportunity_id": "091499db-25e1-458d-952b-4a3b817aa6b0", "slot_position": 3},
+    {"date": "2026-06-20", "advertiser": "Neo", "offer_id": "69984223", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-20", "advertiser": "TigerData", "offer_id": "69984226", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-20", "advertiser": "Ghost", "offer_id": "69984227", "slot_position": 3, "cpc_cents": 150}
   ]
 }
