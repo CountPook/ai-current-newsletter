@@ -21,11 +21,41 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-20",
+      "post_id": "post_e01ef093-16e4-42bd-9ed4-1a7786ce7582",
+      "title": "Databricks Scales Enterprise AI Agents, Grok Comes to Microsoft Office, Anthropic Export Standoff Continues",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 100.0, "unique_clicks": 1, "raw_clicks": 12, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$4.48"},
+      "_note": "State was not committed for the June 19 and June 20 runs; June 20 stats backfilled this run. June 20 ads (from post body): Norton Neo (primary, top), TigerData (secondary, before sign-off), Ghost (secondary, after sign-off).",
+      "ads": [
+        {"advertiser": "Norton Neo", "opportunity_id": "57ceebea-37bd-4fec-8820-467f56c70a02", "slot": "top", "kind": "primary"},
+        {"advertiser": "TigerData", "opportunity_id": "e387d2a2-940c-4257-b7e6-81c87a7bb688", "slot": "before sign-off", "kind": "secondary"},
+        {"advertiser": "Ghost", "opportunity_id": "e4d65cff-5854-46f3-9346-880061883230", "slot": "after sign-off", "kind": "secondary"}
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "post_id": "post_1661c9c8-9851-419c-879e-ed534c7d45f7",
+      "title": "Amazon Plans to Sell Its AI Chips, Baseten Nears $1.5B Round, Alibaba Launches Robot AI Models",
+      "target_send": "2026-06-21T14:00:00Z",
+      "ads": [
+        {"advertiser": "Mavsource", "offer_id": 70235341, "agreement_item_id": "29cec9a7-3fed-4843-b008-3dac796b41d8", "headline": "Not just another AI newsletter", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-06-26T05:41:56Z"},
+        {"advertiser": "Neo", "offer_id": 70235343, "agreement_item_id": "49a6e0bb-1498-4327-a04f-ef302c1a0cc8", "headline": "Smarter browsing. Your data never leaves the room.", "slot": "mid (before sign-off)", "kind": "secondary", "cpc_cents": 213, "send_by": "2026-06-26T05:41:56Z"},
+        {"advertiser": "Forward Future AI", "offer_id": 70235342, "agreement_item_id": "aee08385-e0ce-43a6-88d5-3270e0216257", "headline": "Wake Up Smarter About AI.", "slot": "near end (after sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-06-26T05:41:56Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-20", "advertiser": "Norton Neo", "opportunity_id": "57ceebea-37bd-4fec-8820-467f56c70a02", "slot_position": 1, "kind": "primary"},
+    {"date": "2026-06-20", "advertiser": "TigerData", "opportunity_id": "e387d2a2-940c-4257-b7e6-81c87a7bb688", "slot_position": 2, "kind": "secondary"},
+    {"date": "2026-06-20", "advertiser": "Ghost", "opportunity_id": "e4d65cff-5854-46f3-9346-880061883230", "slot_position": 3, "kind": "secondary"},
+    {"date": "2026-06-21", "advertiser": "Mavsource", "offer_id": 70235341, "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-06-21", "advertiser": "Neo", "offer_id": 70235343, "slot_position": 2, "cpc_cents": 213},
+    {"date": "2026-06-21", "advertiser": "Forward Future AI", "offer_id": 70235342, "slot_position": 3, "cpc_cents": 150}
   ]
 }
