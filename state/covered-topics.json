@@ -12,6 +12,23 @@
     {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
     {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
     {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"},
+    {"date": "2026-06-19", "title": "Google swaps Gemini CLI for Antigravity (June 19 issue)", "url": "https://www.ai-current.org/"},
+    {"date": "2026-06-19", "title": "OpenAI launches ChatGPT Health (June 19 issue)", "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/"},
+    {"date": "2026-06-19", "title": "Apple-Intel chip deal (June 19 issue)", "url": "https://www.ai-current.org/"},
+    {"date": "2026-06-20", "title": "Databricks scales enterprise AI agents (June 20 issue)", "url": "https://www.ai-current.org/"},
+    {"date": "2026-06-20", "title": "Grok comes to Microsoft Office (June 20 issue)", "url": "https://docs.x.ai/developers/release-notes"},
+    {"date": "2026-06-20", "title": "Anthropic export standoff continues (June 20 issue)", "url": "https://www.ai-current.org/"},
+    {"date": "2026-06-21", "title": "Amazon in talks to sell Trainium AI chips beyond AWS", "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"},
+    {"date": "2026-06-21", "title": "AI-inference startup Baseten reportedly raising ~$1.5B", "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"},
+    {"date": "2026-06-21", "title": "OpenAI rolls out batch of ChatGPT updates (incl. Codex Record & Replay)", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"},
+    {"date": "2026-06-21", "title": "xAI makes Grok Imagine Video 1.5 generally available", "url": "https://docs.x.ai/developers/release-notes"},
+    {"date": "2026-06-21", "title": "Alibaba's Qwen team introduces robotics model suite", "url": "https://gigazine.net/gsc_news/en/20260617-qwen-robot-suite"},
+    {"date": "2026-06-21", "title": "EU picks EUROPA consortium for open-source frontier model", "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"},
+    {"date": "2026-06-22", "title": "Anthropic broadens Claude Fable 5 access; moves to usage credits June 23", "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever"},
+    {"date": "2026-06-22", "title": "NVIDIA researchers detail SpatialClaw, a training-free spatial-reasoning agent", "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"},
+    {"date": "2026-06-22", "title": "Cisco AI introduces FAPO for automated prompt optimization", "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/"},
+    {"date": "2026-06-22", "title": "Nobel laureate John Jumper leaves Google DeepMind for Anthropic", "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html"},
+    {"date": "2026-06-22", "title": "Reliance unveils Jio Call Agent and JioHealthIQ/LearnIQ/KrishiIQ/AI Vyapar suite", "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"}
   ]
 }

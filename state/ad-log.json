@@ -21,11 +21,39 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-21",
+      "post_id": "post_1661c9c8-9851-419c-879e-ed534c7d45f7",
+      "title": "Amazon Plans to Sell Its AI Chips, Baseten Nears $1.5B Round, Alibaba Launches Robot AI Models",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 100.0, "unique_clicks": 1, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 2, "net": -2, "earnings": "$4.48"},
+      "note": "Stats captured during the 2026-06-22 run; June 19/20 issues published but not separately logged here.",
+      "ads": [
+        {"advertiser": "Forward Future AI", "opportunity_id": "aee08385-e0ce-43a6-88d5-3270e0216257", "slot": "primary (top)", "cpc_cents": 150},
+        {"advertiser": "Neo", "opportunity_id": "49a6e0bb-1498-4327-a04f-ef302c1a0cc8", "slot": "secondary (mid)", "cpc_cents": 213},
+        {"advertiser": "Forward Future AI", "opportunity_id": "aee08385-e0ce-43a6-88d5-3270e0216257", "slot": "secondary (near end)", "cpc_cents": 150}
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "post_id": "post_2a9a734f-b80a-4657-8799-18d60c73734b",
+      "title": "Anthropic Widens Fable 5 Access, Nobel Laureate Joins Anthropic, Reliance Debuts Jio AI Agent",
+      "target_send": "2026-06-22T14:00:00Z (7:00 AM America/Los_Angeles)",
+      "ad_source": "list_ad_offers available_offers (direct sponsorships: 0 waiting)",
+      "ads": [
+        {"advertiser": "Neo", "offer_id": 70529903, "opportunity_id": "49bcf659-565d-4e84-b7f7-65b66a0d8a1f", "headline": "Fast browsing. Faster thinking.", "slot": "top (after intro)", "creative": "primary", "cpc_cents": 213, "send_by": "2026-06-27T05:42:15Z"},
+        {"advertiser": "Forward Future AI", "offer_id": 70529904, "opportunity_id": "6f519b22-a052-4817-940c-46820127671d", "headline": "Wake Up Smarter About AI.", "slot": "bottom (after sign-off)", "creative": "secondary", "cpc_cents": 150, "send_by": "2026-06-27T05:42:15Z"},
+        {"advertiser": "TigerData", "offer_id": 70529907, "opportunity_id": "3771586e-5aae-4eba-89a1-6e33921c87c1", "headline": "The #1 Time-Series Database Built on Postgres.", "slot": "bottom (after sign-off)", "creative": "secondary", "cpc_cents": 150, "send_by": "2026-06-27T05:42:15Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-22", "advertiser": "Neo", "offer_id": 70529903, "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-22", "advertiser": "Forward Future AI", "offer_id": 70529904, "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-22", "advertiser": "TigerData", "offer_id": 70529907, "slot_position": 3, "cpc_cents": 150}
   ]
 }
