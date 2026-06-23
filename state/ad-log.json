@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "post_id": "post_2a9a734f-b80a-4657-8799-18d60c73734b",
+      "title": "Anthropic Widens Fable 5 Access, Nobel Laureate Joins Anthropic, Reliance Debuts Jio AI Agent",
+      "graded_on": "2026-06-23",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 40.0, "unique_opens": 4, "click_rate": 25.0, "unique_clicks": 1, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 2, "net": -2, "earnings": "$4.48"},
+      "note": "State was behind (last recorded run 2026-06-18); issues for 06-19..06-22 shipped but were not logged here. June 22 graded as yesterday's published post for the 2026-06-23 run."
+    },
+    {
+      "date": "2026-06-23",
+      "post_id": "post_2a2dfd9b-a574-468b-9869-c613f86d40b9",
+      "title": "OpenAI Expands AI Cyber Defenses, SpaceX Backs Reflection AI With $6.3B in Compute, Oracle Cuts 21,000 Jobs",
+      "ads": [
+        {"advertiser": "Neo", "offer_id": "71023564", "headline": "Fast browsing. Faster thinking.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 213, "send_by": "2026-06-28T05:45:33Z"},
+        {"advertiser": "Kalshi", "offer_id": "71023563", "slot": "bottom 1 (before share)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-06-28T05:45:33Z"},
+        {"advertiser": "Forward Future AI", "offer_id": "71023565", "headline": "Wake Up Smarter About AI.", "slot": "bottom 2 (before share)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-06-28T05:45:33Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-23", "advertiser": "Neo", "offer_id": "71023564", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-23", "advertiser": "Kalshi", "offer_id": "71023563", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-23", "advertiser": "Forward Future AI", "offer_id": "71023565", "slot_position": 3, "cpc_cents": 150}
   ]
 }
