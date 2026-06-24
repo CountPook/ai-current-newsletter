@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "post_id": "post_2a9a734f-b80a-4657-8799-18d60c73734b",
+      "title": "Anthropic Widens Fable 5 Access, Nobel Laureate Joins Anthropic, Reliance Debuts Jio AI Agent",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 40.0, "unique_opens": 4, "click_rate": 25.0, "unique_clicks": 1, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 2, "net": -2, "earnings": "$4.48"},
+      "note": "Newest published issue as of 2026-06-24. The 2026-06-23 draft (post_2a2dfd9b) was created by the routine but never scheduled/sent."
+    },
+    {
+      "date": "2026-06-24",
+      "post_id": "post_bb8b7206-fa15-484e-8b4f-d0f6c02f0b60",
+      "title": "Meta Launches $299 AI Glasses, Anthropic Puts Claude in Slack, Qualcomm Nears $4B Modular Deal",
+      "ads": [
+        {"advertiser": "Neo", "opportunity_id": "29840bf0-7cb8-422f-9439-35ba70eee568", "headline": "Fast browsing. Faster thinking.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 213, "send_by": "2026-06-29T05:55:50Z"},
+        {"advertiser": "Forward Future AI", "opportunity_id": "9147ab2f-5d31-4c4d-ad0d-b9a6d87a1814", "headline": "Wake Up Smarter About AI.", "slot": "bottom 1 (after sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-06-29T05:55:50Z"},
+        {"advertiser": "tldr.tech", "opportunity_id": "31448d7b-1396-4fc1-a181-7672a0e16927", "headline": "Subscriber Acquisition, June - Secondary Text-Only V2", "slot": "bottom 2 (before share button)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-06-29T05:55:50Z"}
+      ],
+      "note": "Ad-network cap on concurrent unsent accepted opportunities blocked placement until the 3 stale ads on the abandoned 2026-06-23 draft were released via edit_post_content."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-24", "advertiser": "Neo", "opportunity_id": "29840bf0-7cb8-422f-9439-35ba70eee568", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-24", "advertiser": "Forward Future AI", "opportunity_id": "9147ab2f-5d31-4c4d-ad0d-b9a6d87a1814", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-24", "advertiser": "tldr.tech", "opportunity_id": "31448d7b-1396-4fc1-a181-7672a0e16927", "slot_position": 3, "cpc_cents": 150}
   ]
 }

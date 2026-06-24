@@ -12,6 +12,26 @@
     {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
     {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
     {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"},
+    {"date": "2026-06-19", "title": "Google swaps Gemini CLI for Antigravity", "url": "https://www.ai-current.org/p/google-swaps-gemini-cli-for-antigravity-openai-launches-chatgpt-health-apple-intel-chip-deal"},
+    {"date": "2026-06-19", "title": "OpenAI launches ChatGPT Health", "url": "https://www.ai-current.org/p/google-swaps-gemini-cli-for-antigravity-openai-launches-chatgpt-health-apple-intel-chip-deal"},
+    {"date": "2026-06-19", "title": "Apple–Intel chip deal", "url": "https://www.ai-current.org/p/google-swaps-gemini-cli-for-antigravity-openai-launches-chatgpt-health-apple-intel-chip-deal"},
+    {"date": "2026-06-20", "title": "Databricks scales enterprise AI agents", "url": "https://www.ai-current.org/p/databricks-scales-enterprise-ai-agents-grok-comes-to-microsoft-office-anthropic-export-standoff-continues"},
+    {"date": "2026-06-20", "title": "Grok comes to Microsoft Office", "url": "https://www.ai-current.org/p/databricks-scales-enterprise-ai-agents-grok-comes-to-microsoft-office-anthropic-export-standoff-continues"},
+    {"date": "2026-06-20", "title": "Anthropic US export standoff continues", "url": "https://www.ai-current.org/p/databricks-scales-enterprise-ai-agents-grok-comes-to-microsoft-office-anthropic-export-standoff-continues"},
+    {"date": "2026-06-21", "title": "Amazon plans to sell its AI chips externally", "url": "https://www.ai-current.org/p/amazon-plans-to-sell-its-ai-chips-baseten-nears-1-5b-round-alibaba-launches-robot-ai-models"},
+    {"date": "2026-06-21", "title": "Baseten nears $1.5B round", "url": "https://www.ai-current.org/p/amazon-plans-to-sell-its-ai-chips-baseten-nears-1-5b-round-alibaba-launches-robot-ai-models"},
+    {"date": "2026-06-21", "title": "Alibaba launches robot AI models", "url": "https://www.ai-current.org/p/amazon-plans-to-sell-its-ai-chips-baseten-nears-1-5b-round-alibaba-launches-robot-ai-models"},
+    {"date": "2026-06-22", "title": "Anthropic widens Fable 5 access", "url": "https://www.ai-current.org/p/anthropic-widens-fable-5-access-nobel-laureate-joins-anthropic-reliance-debuts-jio-ai-agent"},
+    {"date": "2026-06-22", "title": "Nobel laureate joins Anthropic", "url": "https://www.ai-current.org/p/anthropic-widens-fable-5-access-nobel-laureate-joins-anthropic-reliance-debuts-jio-ai-agent"},
+    {"date": "2026-06-22", "title": "Reliance debuts Jio AI agent", "url": "https://www.ai-current.org/p/anthropic-widens-fable-5-access-nobel-laureate-joins-anthropic-reliance-debuts-jio-ai-agent"},
+    {"date": "2026-06-23", "title": "OpenAI expands Daybreak with GPT-5.5-Cyber and Patch the Planet (draft, not sent)", "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"},
+    {"date": "2026-06-23", "title": "SpaceX–Reflection AI ~$6.3B compute deal (draft, not sent)", "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html"},
+    {"date": "2026-06-23", "title": "Oracle ties ~21,000 job cuts to AI (draft, not sent)", "url": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000"},
+    {"date": "2026-06-24", "title": "Meta launches own-brand AI smart glasses starting at $299", "url": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html"},
+    {"date": "2026-06-24", "title": "Anthropic launches Claude Tag, an always-on Claude in Slack channels", "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"},
+    {"date": "2026-06-24", "title": "Sakana AI releases Fugu and Fugu Ultra multi-agent orchestration system", "url": "https://sakana.ai/fugu/"},
+    {"date": "2026-06-24", "title": "Qualcomm in advanced talks to acquire Modular for ~$4B", "url": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular"},
+    {"date": "2026-06-24", "title": "Superhuman acquires AI-detection startup GPTZero", "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"}
   ]
 }
