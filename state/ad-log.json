@@ -26,6 +26,26 @@
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
-  ]
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-25", "advertiser": "Neo", "offer_id": "71953169", "placement_id": "b78f6f1d-254f-40f3-ab77-cfc5ae5c9ed8", "slot_position": 1, "creative_kind": "primary", "cpc_cents": 213},
+    {"date": "2026-06-25", "advertiser": "Gauntlet AI", "offer_id": "71953164", "placement_id": "f5e8d78e-293e-4550-b9f5-a9e48b285c05", "slot_position": 2, "creative_kind": "secondary", "cpc_cents": 225},
+    {"date": "2026-06-25", "advertiser": "Wispr Flow", "offer_id": "71953166", "placement_id": "bb4aac5e-8fad-450e-9e14-23619e59d243", "slot_position": 3, "creative_kind": "secondary", "cpc_cents": 187}
+  ],
+  "graded": [
+    {
+      "graded_on": "2026-06-25",
+      "post_id": "post_bb8b7206-fa15-484e-8b4f-d0f6c02f0b60",
+      "send_date": "2026-06-24",
+      "title": "Meta Launches $299 AI Glasses, Anthropic Puts Claude in Slack, Qualcomm Nears $4B Modular Deal",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "note": "per-post open/click likely not yet synced at run time; 7-day publication aggregate showed 17.14% open / 41.67% click / $4.48 earnings"},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$4.48"}
+    }
+  ],
+  "run_2026_06_25": {
+    "date": "2026-06-25",
+    "post_id": "post_c00b2395-6a4a-4c0d-abb3-c7eeb5152c62",
+    "title": "OpenAI's First Custom AI Chip, ByteDance's 30-Second Video Model, Qualcomm's $3.9B Modular Deal",
+    "target_send_local": "2026-06-25 07:00 America/Los_Angeles (2026-06-25T14:00Z)",
+    "note": "Ranked by payout_per_click desc: Gauntlet 225 > Neo 213 > Wispr 187. Post allows only one primary-kind slot, so the top slot used Neo (highest CPC offer with a primary/logo creative); Gauntlet has only a secondary creative and took a bottom slot. No repeat advertisers vs prior runs, so no realized-CTR blend applied. No direct sponsorship agreements (waiting=0). All offers send_by 2026-06-30, after target send, so none expired."
+  }
 }
