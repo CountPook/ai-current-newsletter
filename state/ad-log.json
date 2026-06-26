@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "post_id": "post_c00b2395-6a4a-4c0d-abb3-c7eeb5152c62",
+      "title": "OpenAI's First Custom AI Chip, ByteDance's 30-Second Video Model, Qualcomm's $3.9B Modular Deal",
+      "note": "Yesterday's published issue, graded in the 2026-06-26 run. Gap in state: runs for 2026-06-19 through 2026-06-24 were not logged by prior runs.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 20.0, "click_rate": 28.57, "earnings": "$4.48"},
+      "orders_since_last_run": 0
+    },
+    {
+      "date": "2026-06-26",
+      "post_id": "post_a1bed4c1-9369-45fd-a447-a177283a3794",
+      "title": "White House Staggers OpenAI's GPT-5.6, Gemini 3.5 Flash Gains Computer Use, Amazon Adds $13B in India",
+      "ads": [
+        {"advertiser": "Wispr Flow", "offer_id": "72454408", "ad_id": "6912ec9e-8467-4f24-8bfc-99a95a800a5c", "slot": "top (after intro)", "cpc_cents": 187, "send_by": "2026-06-30T23:59:59Z"},
+        {"advertiser": "Kalshi", "offer_id": "72454409", "ad_id": "fe98f636-8f24-4157-95db-7a9d67f7c631", "slot": "bottom (before share)", "cpc_cents": 150, "send_by": "2026-07-01T05:47:31Z"},
+        {"advertiser": "tldr.tech", "offer_id": "72454412", "ad_id": "9e490afd-f04f-491d-8ea6-e415b5c82ea4", "slot": "bottom (before share)", "cpc_cents": 150, "send_by": "2026-07-01T05:47:31Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-26", "advertiser": "Wispr Flow", "offer_id": "72454408", "ad_id": "6912ec9e-8467-4f24-8bfc-99a95a800a5c", "headline": "The best prompt engineers aren't typing. They're talking.", "slot": "top (after intro, primary/with logo)", "slot_position": 1, "cpc_cents": 187, "send_by": "2026-06-30T23:59:59Z"},
+    {"date": "2026-06-26", "advertiser": "Kalshi", "offer_id": "72454409", "ad_id": "fe98f636-8f24-4157-95db-7a9d67f7c631", "headline": "Short BTC. Long ETH. Hold as Long as You Want.", "slot": "bottom (before share, secondary)", "slot_position": 2, "cpc_cents": 150, "send_by": "2026-07-01T05:47:31Z"},
+    {"date": "2026-06-26", "advertiser": "tldr.tech", "offer_id": "72454412", "ad_id": "9e490afd-f04f-491d-8ea6-e415b5c82ea4", "headline": "Subscriber Acquisition, June - Secondary Text-Only V2", "slot": "bottom (before share, secondary)", "slot_position": 3, "cpc_cents": 150, "send_by": "2026-07-01T05:47:31Z"}
   ]
 }
