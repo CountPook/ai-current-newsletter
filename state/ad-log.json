@@ -21,11 +21,37 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "post_id": "post_a1bed4c1-9369-45fd-a447-a177283a3794",
+      "title": "White House Staggers OpenAI's GPT-5.6, Gemini 3.5 Flash Gains Computer Use, Amazon Adds $13B in India",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "note": "Per-post open/click pixels not yet matured at run time (~17h post-send). Publication 7-day rollup shows 15.71% open, 36.36% click."},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 15.71, "click_rate": 36.36, "earnings": "$4.48"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "unknown (network)", "data_id": "6912ec9e-8467-4f24-8bfc-99a95a800a5c", "slot": "top (after intro)", "kind": "primary"},
+        {"advertiser": "unknown (network)", "data_id": "fe98f636-8f24-4157-95db-7a9d67f7c631", "slot": "near end (before sign-off)", "kind": "secondary"},
+        {"advertiser": "unknown (network)", "data_id": "9e490afd-f04f-491d-8ea6-e415b5c82ea4", "slot": "near end (before sign-off)", "kind": "secondary"}
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "post_id": "post_f6f53d77-d540-4380-b858-f992c3a0e90a",
+      "title": "OpenAI Eyes 2027 IPO as SoftBank Drops $38B, Perplexity Launches Legal AI, Google Backs A24 With $75M",
+      "ads": [
+        {"advertiser": "Neo", "offer_id": "72951671", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 213, "send_by": "2026-06-30T23:59:59Z"},
+        {"advertiser": "Wispr Flow", "offer_id": "72951672", "slot": "near end (before sign-off)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-06-30T23:59:59Z"},
+        {"advertiser": "Kalshi", "offer_id": "72951670", "slot": "near end (before sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-02T05:42:21Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-27", "advertiser": "Neo", "offer_id": "72951671", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-27", "advertiser": "Wispr Flow", "offer_id": "72951672", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-06-27", "advertiser": "Kalshi", "offer_id": "72951670", "slot_position": 3, "cpc_cents": 150}
   ]
 }
