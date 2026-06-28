@@ -21,11 +21,40 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "post_id": "post_f6f53d77-d540-4380-b858-f992c3a0e90a",
+      "title": "OpenAI Eyes 2027 IPO as SoftBank Drops $38B, Perplexity Launches Legal AI, Google Backs A24 With $75M",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 14.29, "click_rate": 30.0, "earnings": "$0.00"},
+      "ads": [
+        {"advertiser": "Neo", "opportunity_id": "e85028be-3f28-40da-abf3-5346f79b6c0e", "slot": "primary (top)", "cpc_cents": 213},
+        {"advertiser": "Wispr Flow", "opportunity_id": "0db0165d-c785-4271-be58-ae8701c8aaaa", "slot": "secondary (bottom)", "cpc_cents": 187},
+        {"advertiser": "Kalshi", "opportunity_id": "352ca5e7-da05-4e8f-ab46-680fe960bbaf", "slot": "secondary (bottom)", "cpc_cents": 150}
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "post_id": "post_f8c6afad-315d-44a3-bf17-9d3d9db30678",
+      "title": "xAI Brings Grok 4.3 to AWS Bedrock, OpenAI Previews GPT-5.6 and Retires GPT-4.5, Qualcomm Enters AI Data-Center Chips",
+      "target_send": "2026-06-28T14:00:00Z",
+      "ads": [
+        {"advertiser": "Wispr Flow", "offer_id": 73224427, "opportunity_id": "b01d830c-246d-41a8-9b03-c68c60a34e60", "headline": "The best prompt engineers aren't typing. They're talking.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-06-30T23:59:59Z"},
+        {"advertiser": "TigerData", "offer_id": 73224430, "opportunity_id": "3db3a959-c677-49cf-9238-4803661ac1ca", "headline": "The #1 Time-Series Database Built on Postgres.", "slot": "near end (before share)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-03T05:51:00Z"},
+        {"advertiser": "tldr.tech", "offer_id": 73224431, "opportunity_id": "44a54766-2e4a-47f0-93cb-95dcfb775183", "headline": "Subscriber Acquisition, June - Secondary Text-Only V2", "slot": "near end (before share)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-03T05:51:00Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-27", "advertiser": "Neo", "opportunity_id": "e85028be-3f28-40da-abf3-5346f79b6c0e", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-06-27", "advertiser": "Wispr Flow", "opportunity_id": "0db0165d-c785-4271-be58-ae8701c8aaaa", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-06-27", "advertiser": "Kalshi", "opportunity_id": "352ca5e7-da05-4e8f-ab46-680fe960bbaf", "slot_position": 3, "cpc_cents": 150},
+    {"date": "2026-06-28", "advertiser": "Wispr Flow", "opportunity_id": "b01d830c-246d-41a8-9b03-c68c60a34e60", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-06-28", "advertiser": "TigerData", "opportunity_id": "3db3a959-c677-49cf-9238-4803661ac1ca", "slot_position": 2, "cpc_cents": 150},
+    {"date": "2026-06-28", "advertiser": "tldr.tech", "opportunity_id": "44a54766-2e4a-47f0-93cb-95dcfb775183", "slot_position": 3, "cpc_cents": 150}
   ]
 }
