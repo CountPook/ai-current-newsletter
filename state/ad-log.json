@@ -1,5 +1,5 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. NOTE: this file was last maintained on 2026-06-18 and resumed on 2026-06-30; runs for 2026-06-19 through 2026-06-28 were not logged here (drafts were still produced/published daily per beehiiv).",
   "runs": [
     {
       "date": "2026-06-17",
@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "post_id": "post_b20ebb89-360c-43ae-9572-e4b4ce378234",
+      "title": "Mistral Ships Self-Hosted OCR 4, Google DeepMind Loses Four Top Researchers, Micron Posts Record AI-Memory Quarter",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 8.57, "click_rate": 16.67, "earnings": "$0.00"},
+      "note": "Opens/clicks read as 0 for this post as of 2026-06-30; either tracking had not settled or recipients did not engage. Publication 7-day open rate 8.57%, click rate 16.67%."
+    },
+    {
+      "date": "2026-06-30",
+      "post_id": "post_805733fb-91b8-414e-81f2-4fa4a51624f3",
+      "title": "Gemini 3.5 Pro Cleared for July Launch, Anthropic Maps Claude's Daily Usage, Meta Builds an AI Prediction Market",
+      "ads": [
+        {"advertiser": "Masterworks", "offer_id": "74179517", "placement_id": "dcc403cf-768e-4351-af17-c58d9d5e4e30", "headline": "Investors see ANOTHER return from Masterworks (!!!!)", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-07-05T05:49:57Z"},
+        {"advertiser": "EnergyX", "offer_id": "74179518", "placement_id": "1cd90edd-fc2d-4005-a4ec-023042c59fe4", "headline": "The Lithium Boom is Heating Up", "slot": "bottom (before share)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-07-05T05:49:57Z"},
+        {"advertiser": "beehiiv", "offer_id": "74179519", "placement_id": "4b96e28c-02a5-4752-aa3b-e8dfbc961baf", "headline": "You're gonna want to see this live", "slot": "bottom (before share)", "kind": "secondary", "cpc_cents": 200, "send_by": "2026-07-05T05:49:57Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-06-30", "advertiser": "Masterworks", "offer_id": "74179517", "slot_position": 1, "kind": "primary", "cpc_cents": 225},
+    {"date": "2026-06-30", "advertiser": "EnergyX", "offer_id": "74179518", "slot_position": 2, "kind": "secondary", "cpc_cents": 225},
+    {"date": "2026-06-30", "advertiser": "beehiiv", "offer_id": "74179519", "slot_position": 3, "kind": "secondary", "cpc_cents": 200}
   ]
 }
