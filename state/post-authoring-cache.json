@@ -1,7 +1,7 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-07-01",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
-  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs. Ad node: <div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\" data-show-options-initially=\"true\"></div>. list_ad_offers numeric offer IDs embed cleanly and are auto-claimed into accepted opportunities on save_post. Publication is free-only (list_tiers=0); recipients set to free on web+email.",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},

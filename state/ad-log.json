@@ -21,11 +21,34 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-06-30-GRADE",
+      "note": "Yesterday's published issue graded during the 2026-07-01 run (state files on this branch had a gap; issues were published daily through 2026-06-30).",
+      "post_id": "post_805733fb-91b8-414e-81f2-4fa4a51624f3",
+      "title": "Gemini 3.5 Pro Cleared for July Launch, Anthropic Maps Claude's Daily Usage, Meta Builds an AI Prediction Market",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+    },
+    {
+      "date": "2026-07-01",
+      "post_id": "post_ae647393-e063-4699-99d3-a5d8c0cd8b41",
+      "title": "Anthropic Launches Claude Sonnet 5, CoreWeave Debuts an AI Research Agent, South Korea Commits $1 Trillion to Chips",
+      "target_send": "2026-07-01T14:00:00Z",
+      "ad_source": "list_ad_offers (fresh network offers, send_by 2026-07-06); no direct sponsorship agreements; no repeat advertisers so no realized-CTR blend applied",
+      "ads": [
+        {"advertiser": "Masterworks", "offer_id": "74799398", "opportunity_id": "113c700a-a50e-4152-9b49-5f05e5f9e843", "headline": "Investors see ANOTHER return from Masterworks (!!!!)", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-07-06T05:50:40Z"},
+        {"advertiser": "Attio", "offer_id": "74799396", "opportunity_id": "e5880881-d82c-418f-be6d-28da66de3384", "headline": "The CRM Behind Every Win", "slot": "near end (before Share)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-07-06T05:50:40Z"},
+        {"advertiser": "Viktor", "offer_id": "74799397", "opportunity_id": "268db608-fb15-43fb-81d6-f7a12d4d4273", "headline": "Hampton took $440K in planned hires off the calendar", "slot": "near end (before Share)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-06T05:50:40Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-01", "advertiser": "Masterworks", "opportunity_id": "113c700a-a50e-4152-9b49-5f05e5f9e843", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-07-01", "advertiser": "Attio", "opportunity_id": "e5880881-d82c-418f-be6d-28da66de3384", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-07-01", "advertiser": "Viktor", "opportunity_id": "268db608-fb15-43fb-81d6-f7a12d4d4273", "slot_position": 3, "cpc_cents": 187}
   ]
 }
