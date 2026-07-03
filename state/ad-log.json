@@ -1,5 +1,5 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. NOTE: state was not updated between 2026-06-18 and 2026-07-02 even though the newsletter published daily; runs for that gap are not recorded here.",
   "runs": [
     {
       "date": "2026-06-17",
@@ -21,11 +21,39 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+      "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+      "note": "Yesterday's published issue, graded during the 2026-07-03 run (Step 1). State had been dormant since 2026-06-18.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 12.86, "click_rate": 0.0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "Masterworks", "opportunity_id": "a7fcbde1-27a7-44fb-b35f-f51fbfc69d06", "slot": "primary", "cpc_cents": 225},
+        {"advertiser": "Fin", "opportunity_id": "dc909141-0e06-417f-9406-6df04759fea3", "slot": "secondary", "cpc_cents": 225},
+        {"advertiser": "Oyster", "opportunity_id": "b1d2c6ca-8b22-4c53-8870-0c4baebed3f5", "slot": "secondary", "cpc_cents": 187}
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "post_id": "post_a8630ed6-a639-4f8e-b365-9ac848cb8784",
+      "title": "Anthropic Launches Claude Science for Drug Discovery, Microsoft Bets $2.5B on AI Deployment, Meta Plans a Cloud",
+      "target_send": "2026-07-03T14:00:00Z (7:00 AM America/Los_Angeles)",
+      "ads": [
+        {"advertiser": "Viktor", "offer_id": "76053009", "opportunity_id": "94c745c1-dcd3-4128-9c32-1847d08574a2", "headline": "Six people doing the work. Your headcount is one.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-07-08T05:52:02Z"},
+        {"advertiser": "Oyster", "offer_id": "76053010", "opportunity_id": "b7137dfd-3cdf-4ca2-b091-84c05f86c9aa", "headline": "What is an EOR—and why are companies using it?", "slot": "mid (before sign-off)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-08T05:52:02Z"},
+        {"advertiser": "Proton", "offer_id": "76053013", "opportunity_id": "3b34f8e8-5c9b-44c2-ae57-c96699a105b6", "headline": "Privacy-first email. Built for real protection.", "slot": "near end (after sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-08T05:52:02Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-03", "advertiser": "Viktor", "offer_id": "76053009", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-03", "advertiser": "Oyster", "offer_id": "76053010", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-03", "advertiser": "Proton", "offer_id": "76053013", "slot_position": 3, "cpc_cents": 150}
   ]
 }
