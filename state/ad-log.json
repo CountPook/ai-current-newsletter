@@ -17,15 +17,36 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "post_id": "post_ab2dc5a5-4018-46c4-930d-3e4c9464031e",
+      "title": "Together AI Raises $800M, Microsoft Bets $2.5B on AI Deployment, Nvidia Debuts Revenue-Sharing Cloud Financing",
+      "yesterday_graded": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "date": "2026-07-02",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Viktor", "opportunity_id": "94c745c1-dcd3-4128-9c32-1847d08574a2", "headline": "Six people doing the work. Your headcount is one.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-07-08T05:52:02Z"},
+        {"advertiser": "Oyster", "opportunity_id": "b7137dfd-3cdf-4ca2-b091-84c05f86c9aa", "headline": "What is an EOR—and why are companies using it?", "slot": "mid (before sign-off)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-08T05:52:02Z"},
+        {"advertiser": "Proton", "opportunity_id": "3b34f8e8-5c9b-44c2-ae57-c96699a105b6", "headline": "Privacy-first email. Built for real protection.", "slot": "near end (after sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-08T05:52:02Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-04", "advertiser": "Viktor", "opportunity_id": "94c745c1-dcd3-4128-9c32-1847d08574a2", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-04", "advertiser": "Oyster", "opportunity_id": "b7137dfd-3cdf-4ca2-b091-84c05f86c9aa", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-04", "advertiser": "Proton", "opportunity_id": "3b34f8e8-5c9b-44c2-ae57-c96699a105b6", "slot_position": 3, "cpc_cents": 150}
   ]
 }
