@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+      "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+      "note": "Most recent PUBLISHED issue as of the 2026-07-05 run. July 3 and July 4 drafts were created but never scheduled/published. State files were last committed 2026-06-18, so runs for 2026-06-19 through 2026-07-04 are not recorded here.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "open_rate": 18.0, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+    },
+    {
+      "date": "2026-07-05",
+      "post_id": "post_3c846cc8-8366-4b22-b863-06feeddb8750",
+      "title": "OpenAI Offers Washington a 5% Stake, Anthropic Proposes an AI Jailbreak Severity Scale, Mirendil Raises $200M",
+      "ads": [
+        {"advertiser": "Viktor", "offer_id": "76804860", "embedded_opportunity_id": "dd62bd01-9f70-4749-9365-5b87631b842e", "headline": "You've seen the AI demos. Viktor does it without you watching.", "slot": "top (after intro)", "creative": "primary", "cpc_cents": 187, "send_by": "2026-07-10T05:46:16Z"},
+        {"advertiser": "Oyster", "offer_id": "76804861", "embedded_opportunity_id": "ca875e49-1ca8-4d7c-88ad-535346cfb895", "headline": "What is an EOR—and why are companies using it?", "slot": "bottom 1 (before sign-off)", "creative": "secondary", "cpc_cents": 187, "send_by": "2026-07-10T05:46:16Z"},
+        {"advertiser": "The AI Report", "offer_id": "76804859", "embedded_opportunity_id": "edfcd1ad-a562-4a21-a099-597e1f739992", "headline": "37 Free Claude Prompts With The AI Report", "slot": "bottom 2 (after sign-off)", "creative": "secondary", "cpc_cents": 150, "send_by": "2026-07-10T05:46:16Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-05", "advertiser": "Viktor", "offer_id": "76804860", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-05", "advertiser": "Oyster", "offer_id": "76804861", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-05", "advertiser": "The AI Report", "offer_id": "76804859", "slot_position": 3, "cpc_cents": 150}
   ]
 }
