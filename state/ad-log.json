@@ -1,5 +1,5 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. Note: runs between 2026-06-19 and 2026-07-05 were produced but not logged to this file (state was not committed); resumed logging 2026-07-06.",
   "runs": [
     {
       "date": "2026-06-17",
@@ -17,15 +17,38 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "post_id": "post_6350b6b2-0b01-4c6b-88b6-7d0abb3b7cb6",
+      "title": "UN Opens Its First Global AI Governance Dialogue, Tesla Caps Staff AI Spending, Mistral Ships an Open Theorem-Prover",
+      "graded_yesterday": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "published": "2026-07-02",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 17.5, "click_rate": 0.0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "Viktor", "opportunity_id": "dd62bd01-9f70-4749-9365-5b87631b842e", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-07-10T05:49:45Z"},
+        {"advertiser": "Oyster", "opportunity_id": "ca875e49-1ca8-4d7c-88ad-535346cfb895", "slot": "bottom-1 (after story sections)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-10T05:49:45Z"},
+        {"advertiser": "The AI Report", "opportunity_id": "edfcd1ad-a562-4a21-a099-597e1f739992", "slot": "bottom-2 (after sign-off)", "kind": "secondary", "cpc_cents": 150, "send_by": "2026-07-10T05:49:45Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-06", "advertiser": "Viktor", "opportunity_id": "dd62bd01-9f70-4749-9365-5b87631b842e", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-06", "advertiser": "Oyster", "opportunity_id": "ca875e49-1ca8-4d7c-88ad-535346cfb895", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-06", "advertiser": "The AI Report", "opportunity_id": "edfcd1ad-a562-4a21-a099-597e1f739992", "slot_position": 3, "cpc_cents": 150}
   ]
 }
