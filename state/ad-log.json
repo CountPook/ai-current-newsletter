@@ -21,11 +21,34 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-11",
+      "graded_post": {
+        "date": "2026-07-02",
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "note": "Most recent PUBLISHED issue. Daily drafts July 3-10 were created but never scheduled/sent (still drafts).",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_3a96a655-aa85-48ea-af00-1c0f99126fbe",
+      "title": "Meta Opens a Paid Agentic Model API, China Weighs Nvidia H200 Sales, DeepSeek Builds Its Own Chip",
+      "ads_target_slots": 3,
+      "ads_filled": 2,
+      "shortfall_note": "3rd slot unfilled: ad network returned 'can not accept any more opportunities' for both Forward Future AI ($1.50) and Harmonic Security ($1.35). Global cap reached because 8 unsent drafts (July 3-10) are each holding ~3 claimed opportunities. Not an expiration/value issue; valid offers existed.",
+      "ads": [
+        {"advertiser": "Wispr Flow", "offer_id": 80206920, "opportunity_id": "acac67c0-8d54-4f48-8e45-0b11da88dbf1", "headline": "Write docs 4x faster. Without hating every second.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-07-16T05:56:51Z"},
+        {"advertiser": "Mindstream", "offer_id": 80206924, "opportunity_id": "b3788c27-648b-4628-ad6f-9db845af8900", "headline": "Master Claude AI (Free Guide)", "slot": "near end (before sign-off)", "kind": "secondary", "cpc_cents": 168, "send_by": "2026-07-16T05:57:04Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-11", "advertiser": "Wispr Flow", "offer_id": 80206920, "opportunity_id": "acac67c0-8d54-4f48-8e45-0b11da88dbf1", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-11", "advertiser": "Mindstream", "offer_id": 80206924, "opportunity_id": "b3788c27-648b-4628-ad6f-9db845af8900", "slot_position": 2, "cpc_cents": 168}
   ]
 }
