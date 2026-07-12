@@ -21,11 +21,36 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-12",
+      "post_id": "post_ff700442-3c05-41bc-8c71-6657417349fb",
+      "title": "OpenAI's Sol Ultra Claims a 50-Year Math Proof, Anthropic Launches Claude Reflect, Blackstone Bets $30B on Japan AI Data Centers",
+      "note": "Most recent PUBLISHED post before this run was post_86b8db6c (2026-07-02). Daily drafts July 3-11 were created by the routine but never scheduled/sent by hand, so no send stats exist for July 3-11. Graded July 2 published post below.",
+      "last_published_grade": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "sent_at": "2026-07-02T18:42:52Z",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "web_views": 0
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "Oyster", "opportunity_id": "2e38f875-0308-49a9-94fb-428c4afd49b4", "headline": "What is an EOR—and why are companies using it?", "slot": "top (after intro)", "cpc_cents": 187, "send_by": "2026-07-15T05:50:45Z"},
+        {"advertiser": "Viktor", "opportunity_id": "db00a44d-dd96-4e33-b674-a98ed118e0a0", "headline": "You've seen the AI demos. Viktor does it without you watching.", "slot": "bottom 1 (before sign-off)", "cpc_cents": 187, "send_by": "2026-07-15T05:50:45Z"},
+        {"advertiser": "The AI Report", "opportunity_id": "fb37fccb-88cd-42ae-85a2-ab1df30ad4b0", "headline": "37 Free Claude Prompts With The AI Report", "slot": "bottom 2 (after sign-off, before Share)", "cpc_cents": 150, "send_by": "2026-07-15T05:50:45Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-12", "advertiser": "Oyster", "opportunity_id": "2e38f875-0308-49a9-94fb-428c4afd49b4", "slot_position": 1, "cpc_cents": 187},
+    {"date": "2026-07-12", "advertiser": "Viktor", "opportunity_id": "db00a44d-dd96-4e33-b674-a98ed118e0a0", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-12", "advertiser": "The AI Report", "opportunity_id": "fb37fccb-88cd-42ae-85a2-ab1df30ad4b0", "slot_position": 3, "cpc_cents": 150}
   ]
 }

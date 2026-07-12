@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-07-12",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -16,5 +16,7 @@
   "ad_nodes": {
     "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
     "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
-  }
+  },
+  "ad_placement_lesson": "As of 2026-07-12 the ad account is at its acceptance cap: embedding a raw list_ad_offers offer id (numeric) fails save_post with 'can not accept any more opportunities' because the offer must be auto-claimed. Prefer already-ACCEPTED opportunity UUIDs from list_ad_opportunities(status=accepted) with send_by AFTER the target send timestamp; those embed without a new claim. Omit data-advertisement-kind to let beehiiv auto-select the creative and avoid a kind-mismatch rejection.",
+  "production_template_note": "The live production/template layout (July drafts) puts the first cover section WITHOUT data-color; content sections carry data-color #FFFFFF. Sections used this run: cover -> intro -> sponsor(ad) -> h2 'Models & Research' -> h2 'Products & Platforms' -> h2 'Industry & Infrastructure' -> sponsor(ad) -> sign-off -> sponsor(ad) -> Share AI Current button."
 }
