@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "post_id": "post_66156c26-83e7-4a8a-be94-389a94c109fd",
+      "title": "Apple Sues OpenAI, SK Hynix Raises $26.5B in Record Nasdaq Debut, Anthropic Adds a Browser to Claude Code",
+      "graded_post": {
+        "note": "No AI Current issue has been published since 2026-07-02. Yesterday's (2026-07-12) issue is still a draft. Newest PUBLISHED post graded below.",
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "published_date": "2026-07-02",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+      },
+      "ads_planned": [
+        {"advertiser": "Wispr Flow", "offer_id": "80575535", "slot": "top (after intro)", "cpc_cents": 187, "send_by": "2026-07-18T05:42:27Z"},
+        {"advertiser": "Shoptin", "offer_id": "80575540", "slot": "bottom (before sign-off)", "cpc_cents": 168, "send_by": "2026-07-18T05:42:27Z"},
+        {"advertiser": "Harmonic Security", "offer_id": "80575539", "slot": "bottom (after sign-off)", "cpc_cents": 135, "send_by": "2026-07-18T05:42:27Z"}
+      ],
+      "ads_placed": [],
+      "ad_shortfall": "0 of 3 slots filled. All three offers were valid and non-expired (send_by 2026-07-18, past the 2026-07-13 14:00 UTC / 7am PT target send), but beehiiv's ad network rejected every placement with 'can not accept any more opportunities' — an account-level cap on outstanding accepted opportunities, saturated by the ~10 daily drafts (2026-07-03..2026-07-12) that were built with ads but never published, so their claimed opportunities remain outstanding. Direct sponsorship agreements (status=waiting): 0."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-13", "advertiser": "(none placed — ad network cap reached)", "opportunity_id": null, "slot_position": null, "cpc_cents": null}
   ]
 }
