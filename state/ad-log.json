@@ -21,6 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "post_id": "post_4e16e0ae-860e-4588-98eb-68d68b59b69b",
+      "title": "TSMC Posts a Record Quarter on AI Demand, Neko Health Raises $700M, Anthropic and Blackstone Launch Ode",
+      "graded_published_post": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "published_at": "2026-07-02",
+        "note": "Most recent PUBLISHED post; nothing has been published since 2026-07-02 despite daily drafts being generated.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "orders_since_last_run": 0}
+      },
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "beehiiv ad network returned 'can not accept any more opportunities' on every placement attempt (tested Viktor 187cpc, Wispr Flow 187cpc, tldr.tech 150cpc, and a single-ad insert). No waiting direct sponsorship agreements existed. Likely cause: ~13 unpublished daily drafts (2026-07-03..2026-07-15) are each holding claimed ad opportunities, saturating the publication's concurrent-opportunity cap. Ran zero ads rather than force placements (Step 3d).",
+        "candidate_ranking_at_run": [
+          {"advertiser": "Viktor", "cpc_cents": 187},
+          {"advertiser": "Wispr Flow", "cpc_cents": 187},
+          {"advertiser": "tldr.tech", "cpc_cents": 150},
+          {"advertiser": "Pulley.com", "cpc_cents": 150},
+          {"advertiser": "Unblocked", "cpc_cents": 131},
+          {"advertiser": "The Rundown AI", "cpc_cents": 131}
+        ]
+      }
     }
   ],
   "ads": [
