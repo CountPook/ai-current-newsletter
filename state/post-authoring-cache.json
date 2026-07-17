@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-07-17",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -8,13 +8,19 @@
     "link_color": "#0C4A6E"
   },
   "established_template": {
-    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners. Story sections use h2 headings (Models & Research, Industry & Business). Sign-off + Share button at the end. Sponsor slots use advertisementOpportunity nodes labeled 'A word from our sponsor' only when offers/agreements exist.",
+    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and (for text blocks) data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners in a section with NO data-color. Story sections use h2 headings (e.g. Model Releases, Agents & Products, Funding & Deals, Policy & Governance). Intro paragraph section after cover; sign-off paragraph + full-width 'Share AI Current' button ({{rp_referral_hub_url}}) at the end. Source links use <a target=_blank rel=noopener class=link>(Source)</a> at the end of each item.",
     "section_attrs": "data-background-color=#222222 data-color=#FFFFFF data-padding-*=20 data-type=section class=node-section",
     "cover_image_radius": 30
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
+    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\"></div>",
     "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+  },
+  "ad_placement_learnings": {
+    "primary_slot_limit": "A post supports only ONE 'primary' (hero, with-logo) ad slot. Placing data-advertisement-kind=primary on more than one ad fails with 'No primary ad slot is available'. Use data-advertisement-kind=secondary for all additional ads.",
+    "accepted_opportunity_cap": "The ad network caps accepted opportunities (~3). If 3 are already 'accepted' (status via list_ad_opportunities), placing a NEW offer from list_ad_offers fails with 'can not accept any more opportunities'. In that case place the already-accepted opportunities (list_ad_opportunities status=accepted) rather than accepting new offers. The daily pipeline pre-accepts 3 opportunities dated for the current send window.",
+    "email_settings_keys": "Use email_subject_line and email_preview_text (NOT subject_line/preview_text) in save_post/edit_post email_settings; wrong keys are silently ignored and default to title/subtitle.",
+    "audience": "Publication has NO paid tiers (list_tiers returns 0). Omit recipients on save_post to default to free tier on web + email, matching all prior posts."
   }
 }

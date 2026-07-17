@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+      "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+      "note": "Most recent PUBLISHED/sent issue. Daily drafts July 3-16 were created but never scheduled/sent (see report). Graded this run as the newest available sent post.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+    },
+    {
+      "date": "2026-07-17",
+      "post_id": "post_cc5d77c8-5541-4c72-9cfb-973a826620e5",
+      "title": "Thinking Machines Opens Inkling, Moonshot Ships Kimi K3, and 29 Nations Sign an AI Governance Pact",
+      "ads": [
+        {"advertiser": "Attio", "opportunity_id": "4c1519e7-0b5d-4d6c-a721-1b72eee2941f", "headline": "Introducing The First Agentic CRM", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-07-20T05:51:50Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "37ec87a0-982d-44c3-9ea9-8de3b687aa06", "headline": "Dictate code. Wispr tags the files.", "slot": "bottom (after Funding & Deals)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-20T05:51:50Z"},
+        {"advertiser": "Viktor", "opportunity_id": "5d42a14f-39e6-468d-8660-f37234e8764a", "headline": "Chess.com (David Joerg), July - Text-Only", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-20T05:51:50Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-17", "advertiser": "Attio", "opportunity_id": "4c1519e7-0b5d-4d6c-a721-1b72eee2941f", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-07-17", "advertiser": "Wispr Flow", "opportunity_id": "37ec87a0-982d-44c3-9ea9-8de3b687aa06", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-17", "advertiser": "Viktor", "opportunity_id": "5d42a14f-39e6-468d-8660-f37234e8764a", "slot_position": 3, "cpc_cents": 187}
   ]
 }
