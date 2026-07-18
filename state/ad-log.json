@@ -21,11 +21,25 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "post_id": "post_b2b6899e-13bc-453e-a1de-6948bd2782b5",
+      "title": "Nvidia Ships a Physical-AI World Model, Google Turns NotebookLM Into Gemini Notebook, Fireworks AI Raises $1.5B",
+      "target_send": "2026-07-18T14:00:00Z",
+      "ads": [
+        {"advertiser": "Neo", "opportunity_id": "ddfa13c9-3956-4014-bf0c-b9b26b9dbe5f", "offer_id": 85686519, "headline": "AI help, without the trust tax.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 213, "send_by": "2026-07-23T05:50:36Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "09e14a68-f8a0-444a-ac60-b90f14bef3c1", "offer_id": 85686509, "headline": "10x the context. Half the time.", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 187, "send_by": "2026-07-23T05:50:44Z"}
+      ],
+      "shortfall": "AD_SLOTS=3 but only 2 placed. Third slot could not be filled: beehiiv returned 'can not accept any more opportunities' (account-level ad-network cap). Attempted Porkbun (offer 85686515) and Mindstream (offer 85686514); both rejected. Likely cause: ~15 unsent daily drafts (Jul 3-17) still hold accepted ad opportunities. Not an expiration/low-value drop.",
+      "note": "No sent-issue to grade for 'yesterday' — last actually-published/sent post was 2026-07-02 (post_86b8db6c). Everything Jul 3-17 sits unpublished as drafts."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-18", "advertiser": "Neo", "opportunity_id": "ddfa13c9-3956-4014-bf0c-b9b26b9dbe5f", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-07-18", "advertiser": "Wispr Flow", "opportunity_id": "09e14a68-f8a0-444a-ac60-b90f14bef3c1", "slot_position": 2, "cpc_cents": 187}
   ]
 }
