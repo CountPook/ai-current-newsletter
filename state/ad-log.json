@@ -21,6 +21,21 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-19",
+      "post_id": "post_316c2753-28ed-41c3-8bbe-b5be6d681697",
+      "title": "Google Delays Gemini 3.5 Pro, China's WAIC Debuts New Models and Chips, Databricks Hits $188B",
+      "graded_last_published": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "scheduled_at": "2026-07-02T18:42:52Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_shortfall": "0 of 3 slots filled. Ad-network refused all placements: 'can not accept any more opportunities' (account-level acceptance cap). Root cause: 16 unpublished daily drafts (Jul 3-18) each hold accepted ad opportunities, exhausting the cap. Inventory was healthy (16 available offers, none expired). Top-ranked distinct offers that could not be placed: Neo $2.13 (86273171), Wispr Flow $1.87 (86273159), Porkbun $1.87 (86273166)."
     }
   ],
   "ads": [
