@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-20",
+      "post_id": "post_7f4f3f78-891d-4e1e-ab04-8a92f8863da7",
+      "title": "Alibaba Previews a 2.4-Trillion-Parameter Model, Anthropic Eyes $10B in Meta Compute, Agility Opens a Humanoid Plant",
+      "graded_last_published": {
+        "note": "No issue has been PUBLISHED since 2026-07-02; daily drafts (Jul 3-19) were created but never scheduled/sent. Graded the last published post below.",
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "published": "2026-07-02",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$21.27"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Neo", "opportunity_id": "b08ba9a4-e34e-41ee-8236-931ecc7c2890", "offer_id": 86973298, "headline": "Smarter browsing. Your data never leaves the room.", "slot": "top (after intro)", "cpc_cents": 213, "send_by": "2026-07-25T05:57:44Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "cd659396-8f8c-4b8c-8965-ad819e29ad11", "offer_id": 86973287, "headline": "PRDs by voice. Bug reports by voice. Ship faster.", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-07-25T05:57:44Z"},
+        {"advertiser": "True Gold Republic", "opportunity_id": "7e38a238-c369-49ae-a233-d6e9c8b578d2", "offer_id": 86973299, "headline": "Your Retirement Has a Vulnerability Most Advisors Never Mention.", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-07-25T05:57:44Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-20", "advertiser": "Neo", "opportunity_id": "b08ba9a4-e34e-41ee-8236-931ecc7c2890", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-07-20", "advertiser": "Wispr Flow", "opportunity_id": "cd659396-8f8c-4b8c-8965-ad819e29ad11", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-20", "advertiser": "True Gold Republic", "opportunity_id": "7e38a238-c369-49ae-a233-d6e9c8b578d2", "slot_position": 3, "cpc_cents": 187}
   ]
 }
