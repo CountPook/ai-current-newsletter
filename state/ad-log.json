@@ -27,5 +27,36 @@
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+  ],
+  "grading": [
+    {
+      "graded_on": "2026-07-21",
+      "note": "First run since 2026-06-18. Publishing has stalled: newest PUBLISHED post is 2026-07-02, but daily drafts were generated through 2026-07-20 without being scheduled/sent.",
+      "last_published_post": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "published": "2026-07-02",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0},
+      "earnings_last_4_weeks": {"total": "$21.27", "ad_network": "$21.27", "direct_sponsorship": "$0.00", "paid_subscription": "$0.00"},
+      "orders_since_last_run": 0
+    }
+  ],
+  "runs_meta": [
+    {
+      "date": "2026-07-21",
+      "post_id": "post_fb3a82af-0ce4-407b-9dd7-e32188a02d60",
+      "title": "CuspAI Raises $450M for AI-Designed Materials, Chip Stocks Enter a Bear Market, New York Pauses New Data Centers",
+      "ads_placed": 0,
+      "ads_attempted": [
+        {"advertiser": "Neo", "offer_id": 88187002, "cpc_cents": 213, "intended_slot": "top (after intro)"},
+        {"advertiser": "Hubspot", "offer_id": 88186998, "cpc_cents": 206, "intended_slot": "bottom 1 (before sign-off)"},
+        {"advertiser": "BELAY", "offer_id": 88187006, "cpc_cents": 206, "intended_slot": "bottom 2 (before sign-off)"}
+      ],
+      "shortfall_reason": "beehiiv ad network rejected all placements: 'can not accept any more opportunities'. Account ad inventory appears saturated by ~18 unpublished daily drafts (Jul 3-20) that each hold 3 claimed ad opportunities. No expired offers were involved (earliest send_by 2026-07-23, after the 2026-07-21T14:00:00Z target send). Fix: publish/schedule or delete the backlog of drafts to free ad slots."
+    }
   ]
 }
