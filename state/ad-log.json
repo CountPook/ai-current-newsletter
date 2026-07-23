@@ -5,11 +5,38 @@
       "date": "2026-06-17",
       "post_id": "post_16dcd8ee-e004-4eeb-b2d9-ce830f029b42",
       "title": "OpenAI Tests Models Before Launch, Zhipu Opens GLM-5.2, Google Ships June Pixel Drop",
-      "stats": {"emails_sent": 12, "delivered": 12, "delivery_rate": 100.0, "open_rate": 33.33, "unique_opens": 4, "click_rate": 25.0, "unique_clicks": 1, "unsubscribe_rate": 16.67, "unsubscribes": 2, "spam_reports": 0},
-      "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$0.00"},
+      "stats": {
+        "emails_sent": 12,
+        "delivered": 12,
+        "delivery_rate": 100.0,
+        "open_rate": 33.33,
+        "unique_opens": 4,
+        "click_rate": 25.0,
+        "unique_clicks": 1,
+        "unsubscribe_rate": 16.67,
+        "unsubscribes": 2,
+        "spam_reports": 0
+      },
+      "publication_7d": {
+        "active_subscribers": 10,
+        "new_subscribers": 1,
+        "churned": 2,
+        "net": -1,
+        "earnings": "$0.00"
+      },
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "656779a5-5956-42bb-b3ae-5bf9ae6efdd1", "slot": "primary", "cpc_cents": 150},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "secondary", "cpc_cents": 131}
+        {
+          "advertiser": "The Code",
+          "opportunity_id": "656779a5-5956-42bb-b3ae-5bf9ae6efdd1",
+          "slot": "primary",
+          "cpc_cents": 150
+        },
+        {
+          "advertiser": "I Hate It Here",
+          "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87",
+          "slot": "secondary",
+          "cpc_cents": 131
+        }
       ]
     },
     {
@@ -17,15 +44,121 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {
+          "advertiser": "The Code",
+          "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05",
+          "headline": "Learn how to code faster with AI in 5 mins a day",
+          "slot": "top (after intro)",
+          "cpc_cents": 150,
+          "send_by": "2026-06-22T02:03:54Z"
+        },
+        {
+          "advertiser": "Lazarus",
+          "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b",
+          "headline": "Find your balance this spring (free gummies!)",
+          "slot": "mid (between sections)",
+          "cpc_cents": 150,
+          "send_by": "2026-06-22T02:03:54Z"
+        },
+        {
+          "advertiser": "I Hate It Here",
+          "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87",
+          "headline": "The free newsletter making HR less lonely",
+          "slot": "near end (before sign-off)",
+          "cpc_cents": 131,
+          "send_by": "2026-06-22T10:08:42Z"
+        }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "post_id": "post_89e8dd2f-b4c6-443e-aa48-c14df107c917",
+      "title": "OpenAI's Test Models Breach Hugging Face, AMD Invests $5B in Anthropic, Alphabet Lifts AI Capex to $205B",
+      "yesterday_grading": {
+        "note": "Newest PUBLISHED post is post_86b8db6c (July 2). No issue has been scheduled/published since July 2 despite daily drafts through July 22.",
+        "last_published_post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "last_published_date": "2026-07-02",
+        "last_published_stats": {
+          "emails_sent": 10,
+          "delivered": 10,
+          "delivery_rate": 100.0,
+          "open_rate": 10.0,
+          "unique_opens": 1,
+          "click_rate": 0.0,
+          "unique_clicks": 0,
+          "unsubscribe_rate": 0.0,
+          "unsubscribes": 0,
+          "spam_reports": 0
+        },
+        "publication_7d": {
+          "active_subscribers": 10,
+          "new_subscribers": 0,
+          "churned": 0,
+          "net": 0,
+          "open_rate": 0.0,
+          "click_rate": 0.0,
+          "earnings": "$21.27"
+        },
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {
+          "advertiser": "Genstore",
+          "opportunity_id": "f0385e6a-a709-4a85-8f6b-6daa666d0610",
+          "headline": "One AI. Every Tool Your Store Actually Needs.",
+          "slot": "top (after intro)",
+          "cpc_cents": 206,
+          "send_by": "2026-07-28T05:57:35Z",
+          "status": "accepted"
+        },
+        {
+          "advertiser": "Oyster",
+          "opportunity_id": "d4652fc4-18f0-45c1-aece-234f9fec9cb2",
+          "headline": "Hiring in a new country? Read this first.",
+          "slot": "bottom (before sign-off)",
+          "cpc_cents": 187,
+          "send_by": "2026-07-28T05:57:50Z",
+          "status": "accepted"
+        }
+      ],
+      "ad_shortfall": "3 slots targeted (1 top + 2 bottom); only 2 placed. Third placement (Porkbun, 187c) rejected by ad network with 'can not accept any more opportunities' — publication appears capped at 2 newly-accepted ad-network opportunities per run. Not forced."
     }
   ],
   "ads": [
-    {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {
+      "date": "2026-06-18",
+      "advertiser": "The Code",
+      "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05",
+      "slot_position": 1,
+      "cpc_cents": 150
+    },
+    {
+      "date": "2026-06-18",
+      "advertiser": "Lazarus",
+      "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b",
+      "slot_position": 2,
+      "cpc_cents": 150
+    },
+    {
+      "date": "2026-06-18",
+      "advertiser": "I Hate It Here",
+      "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87",
+      "slot_position": 3,
+      "cpc_cents": 131
+    },
+    {
+      "date": "2026-07-23",
+      "advertiser": "Genstore",
+      "opportunity_id": "f0385e6a-a709-4a85-8f6b-6daa666d0610",
+      "slot_position": 1,
+      "cpc_cents": 206
+    },
+    {
+      "date": "2026-07-23",
+      "advertiser": "Oyster",
+      "opportunity_id": "d4652fc4-18f0-45c1-aece-234f9fec9cb2",
+      "slot_position": 2,
+      "cpc_cents": 187
+    }
   ]
 }

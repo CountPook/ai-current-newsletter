@@ -14,7 +14,8 @@
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-show-options-initially=\"true\"></div>",
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "notes": "Use data-id from list_ad_offers plus data-show-options-initially=true and OMIT data-advertisement-kind (setting kind='primary' fails with 'No primary ad slot available'). Insert ads ONE AT A TIME via edit_post_content; batching multiple ad nodes in one save_post/edit trips 'can not accept any more opportunities' and fails atomically. This publication appears capped at ~2 newly-accepted ad-network opportunities per run."
   }
 }
