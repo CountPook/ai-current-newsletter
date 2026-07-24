@@ -21,6 +21,36 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-24",
+      "post_id": "post_bc8fdc73-a9a0-4da6-86bd-bc7aab6fe886",
+      "title": "White House Accuses Moonshot of Copying Anthropic's Fable, OpenAI Launches Presence, DeepSeek Completes Its V4 Shift",
+      "graded_yesterday": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "sent_at": "2026-07-02",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "note": "Most recent PUBLISHED post; publishing paused since 2026-07-02 despite daily drafts through 2026-07-23."
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$21.27"},
+      "orders_since_last_run": 0,
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3, "slots_filled": 0,
+        "reason": "beehiiv ad network returned 'can not accept any more opportunities' on every placement attempt (batch of 3 and single-offer retries with Levanta id 91492731 and The AI Report id 91492720). Account-wide cap on accepted ad opportunities, not offer-specific — likely tied to the backlog of ~25 unsent drafts holding accepted opportunities.",
+        "candidates_ranked": [
+          {"advertiser": "Levanta", "offer_id": 91492731, "cpc_cents": 225},
+          {"advertiser": "Neo", "offer_id": 91492730, "cpc_cents": 213},
+          {"advertiser": "Wispr Flow", "offer_id": 91492724, "cpc_cents": 187},
+          {"advertiser": "Oyster", "offer_id": 91492721, "cpc_cents": 187},
+          {"advertiser": "Harmonic Security", "offer_id": 91492732, "cpc_cents": 135}
+        ],
+        "all_offers_send_by": "2026-07-29T05:43:16Z",
+        "direct_sponsorships_waiting": 0
+      }
     }
   ],
   "ads": [
