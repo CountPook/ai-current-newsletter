@@ -14,7 +14,8 @@
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary\" data-show-options-initially=\"true\"></div>",
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "note_2026-07-27": "list_ad_offers returns integer offer ids; use them as data-id. Placement can fail with 'can not accept any more opportunities' when the publication is at its accepted-opportunity cap (e.g. many unsent drafts each holding 3 accepted opportunities). Freeing capacity requires deleting/clearing ads from stale drafts."
   }
 }
