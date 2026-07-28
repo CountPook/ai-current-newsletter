@@ -21,11 +21,29 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "post_id": "post_8031ce4a-4ad5-428b-9dad-285ecf270b8f",
+      "title": "Nvidia Weighs a $250B Backstop for OpenAI's Ohio Data Center, White House Puts $5B Into AI for Science, Samsung Enters Humanoid Robots",
+      "_note": "Newest PUBLISHED post at run time was July 2 (post_86b8db6c). Daily drafts were created July 3-27 but never scheduled/sent; last actual send was July 2. Yesterday-grading below uses the July 2 published post.",
+      "graded_post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+      "graded_stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "AutoSEO", "opportunity_id": "f11cb533-6d1b-4122-8603-3964d5a43fc8", "headline": "What if ChatGPT recommends your competitor first?", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-07-31T05:53:30Z", "source": "already-accepted opportunity"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "7dd82b95-d444-4f8b-a8bf-630ab2ba7fd4", "headline": "Your prompts are leaving out 80% of what you're thinking.", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-07-31T05:53:30Z", "source": "already-accepted opportunity"},
+        {"advertiser": "Oyster", "opportunity_id": "fcccf2c1-99ae-49ae-b869-7c9c31f75a94", "headline": "Hiring in a new country? Read this first.", "slot": "bottom (after sign-off)", "cpc_cents": 187, "send_by": "2026-07-31T05:53:30Z", "source": "already-accepted opportunity"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-28", "advertiser": "AutoSEO", "opportunity_id": "f11cb533-6d1b-4122-8603-3964d5a43fc8", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-07-28", "advertiser": "Wispr Flow", "opportunity_id": "7dd82b95-d444-4f8b-a8bf-630ab2ba7fd4", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-28", "advertiser": "Oyster", "opportunity_id": "fcccf2c1-99ae-49ae-b869-7c9c31f75a94", "slot_position": 3, "cpc_cents": 187}
   ]
 }
