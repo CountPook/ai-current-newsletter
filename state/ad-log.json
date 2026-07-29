@@ -21,11 +21,39 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "post_id": "post_011fdb18-a39b-4681-bb49-9158562ecd3c",
+      "title": "Nvidia Leads a 30-Company AI Security Alliance, MCP Ships a Leaner Spec, Meshy Raises $400M",
+      "graded_prior_published": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "sent_date": "2026-07-02",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "note": "Most recent ACTUAL send was 2026-07-02. Drafts have been created daily since but never scheduled/sent by hand, so no engagement data exists for 2026-07-03..2026-07-28."
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "Neo", "offer_id": "95736829", "opportunity_id": "0994846b-b2de-49a4-9fa9-6c4b359c06b3", "headline": "AI help, without the trust tax.", "slot": "top (after intro)", "cpc_cents": 213, "send_by": "2026-08-01T23:59:59Z"},
+        {"advertiser": "Oyster", "offer_id": "95736817", "opportunity_id": "cf03086a-6b26-4268-80e5-562d268f29a4", "headline": "Hiring in a new country? Read this first.", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-08-03T05:50:52Z"}
+      ],
+      "ad_shortfall": {
+        "slots_target": 3, "slots_filled": 2,
+        "unfilled": "second bottom slot (after sign-off)",
+        "attempted": "Wispr Flow (offer 95736821, 187 cpc)",
+        "reason": "Ad network rejected a 3rd new placement: 'can not accept any more opportunities'. Account/publication outstanding-opportunity cap reached, likely because ~26 daily drafts (2026-07-03..2026-07-28) were created but never sent and still hold claimed ad opportunities."
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-29", "advertiser": "Neo", "opportunity_id": "0994846b-b2de-49a4-9fa9-6c4b359c06b3", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-07-29", "advertiser": "Oyster", "opportunity_id": "cf03086a-6b26-4268-80e5-562d268f29a4", "slot_position": 2, "cpc_cents": 187}
   ]
 }
