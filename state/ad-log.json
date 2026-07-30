@@ -21,11 +21,28 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "post_id": "post_0e76e00f-1660-4752-ac8a-be44db5d18a9",
+      "title": "OpenAI Opens ChatGPT to 100,000 Researchers, Anthropic's AI Finds Cryptographic Flaws, Meta Lifts AI Capex Above $130B",
+      "grading_note": "No issue was actually SENT since the 2026-07-02 published post; drafts July 3-29 were created but never scheduled. Most-recent-published stats below are for post_86b8db6c (2026-07-02).",
+      "last_published_stats": {"post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a", "date": "2026-07-02", "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "orders_since_last_run": 0},
+      "ads": [
+        {"advertiser": "Neo", "opportunity_id": "0994846b-b2de-49a4-9fa9-6c4b359c06b3", "headline": "AI help, without the trust tax.", "slot": "top (after intro)", "cpc_cents": 213, "send_by": "2026-08-01T23:59:59Z", "source": "already-accepted opportunity"},
+        {"advertiser": "Oyster", "opportunity_id": "cf03086a-6b26-4268-80e5-562d268f29a4", "headline": "Hiring in a new country? Read this first.", "slot": "bottom (after last section)", "cpc_cents": 187, "send_by": "2026-08-03T05:50:52Z", "source": "already-accepted opportunity"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "7dd82b95-d444-4f8b-a8bf-630ab2ba7fd4", "headline": "Your prompts are leaving out 80% of what you're thinking.", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-07-31T05:53:30Z", "source": "already-accepted opportunity"}
+      ],
+      "ad_note": "Fresh list_ad_offers (BELAY 206, Wispr Flow/Oyster 187, etc.) could NOT be placed: the ad network rejected accepting any new opportunity ('can not accept any more opportunities') because the ~27 unpublished daily drafts each hold accepted opportunities (57 accepted total), saturating the cap. Filled all 3 slots from the only still-valid already-accepted opportunities (send_by after the 2026-07-30T14:00Z target send). Neo and Oyster were previously embedded in the 2026-07-29 draft and were moved into today's active issue; Wispr Flow came from an earlier draft's slot."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-07-30", "advertiser": "Neo", "opportunity_id": "0994846b-b2de-49a4-9fa9-6c4b359c06b3", "slot_position": 1, "cpc_cents": 213},
+    {"date": "2026-07-30", "advertiser": "Oyster", "opportunity_id": "cf03086a-6b26-4268-80e5-562d268f29a4", "slot_position": 2, "cpc_cents": 187},
+    {"date": "2026-07-30", "advertiser": "Wispr Flow", "opportunity_id": "7dd82b95-d444-4f8b-a8bf-630ab2ba7fd4", "slot_position": 3, "cpc_cents": 187}
   ]
 }
