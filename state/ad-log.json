@@ -21,6 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "post_id": "post_2ba99958-42e0-4104-b4f3-33b6e3081c91",
+      "title": "Google's Gemini Robotics 2 Runs Whole Humanoids, xAI Speeds Up Grok Voice, Amazon Lifts AI Capex to $220B",
+      "graded_post": {
+        "note": "Last actually-published/sent issue was post_86b8db6c (July 2, 2026). Daily drafts July 3-30 were created but never scheduled/sent by hand.",
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "graded_title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "Ad network returned 'can not accept any more opportunities' on save_post and on edit_post_content. The ~20 daily drafts created since July 3 were never scheduled/sent and still hold their placed ad opportunities against the account's acceptance cap. No new ads could be placed today.",
+        "selected_but_unplaceable": [
+          {"advertiser": "AutoSEO", "offer_id": 97694417, "cpc_cents": 225, "intended_slot": "top (after intro)"},
+          {"advertiser": "Oyster", "offer_id": 97694405, "cpc_cents": 187, "intended_slot": "bottom 1"},
+          {"advertiser": "Wispr Flow", "offer_id": 97694409, "cpc_cents": 187, "intended_slot": "bottom 2"}
+        ],
+        "direct_sponsorships_waiting": 0
+      }
     }
   ],
   "ads": [
