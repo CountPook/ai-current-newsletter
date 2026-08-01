@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "post_id": "post_3aed3842-2a5c-4f8b-9a0d-fd28ebc1851c",
+      "title": "OpenAI Cuts GPT-5.6 Prices Up to 80%, DeepSeek Ships V4-Flash, Anthropic Says Its AI Breached Three Companies",
+      "graded_last_sent": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "sent_date": "2026-07-02",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "note": "Last issue that actually mailed. Drafts July 3-31 were generated but never scheduled/published."
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "Catch Agent", "offer_id": "98544859", "opportunity_id": "faeb8476-c59b-446d-8b6f-766178374e9e", "headline": "The AI Agent You Can Trust", "slot": "top (after intro)", "cpc_cents": 262, "send_by": "2026-08-06T05:53:11Z"},
+        {"advertiser": "BELAY", "offer_id": "98544870", "opportunity_id": "7ecbbcd8-09fd-4bc1-9807-e1ffeab8559c", "headline": "Learn How to Stay Visible in the AI Era", "slot": "bottom 1 (after last section)", "cpc_cents": 206, "send_by": "2026-08-06T05:53:24Z"},
+        {"advertiser": "Oyster", "offer_id": "98544857", "opportunity_id": "c681b471-3977-47a4-8e54-0ccdb2eb006e", "headline": "What is an EOR—and why are companies using it?", "slot": "bottom 2 (after sign-off)", "cpc_cents": 187, "send_by": "2026-08-06T05:53:32Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-01", "advertiser": "Catch Agent", "opportunity_id": "faeb8476-c59b-446d-8b6f-766178374e9e", "slot_position": 1, "cpc_cents": 262},
+    {"date": "2026-08-01", "advertiser": "BELAY", "opportunity_id": "7ecbbcd8-09fd-4bc1-9807-e1ffeab8559c", "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-01", "advertiser": "Oyster", "opportunity_id": "c681b471-3977-47a4-8e54-0ccdb2eb006e", "slot_position": 3, "cpc_cents": 187}
   ]
 }
