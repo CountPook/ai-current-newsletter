@@ -1,5 +1,6 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-02",
+  "ad_placement_note": "The ad network caps how many opportunities can be ACCEPTED at once. As of 2026-08-02 there were 56 accepted opportunities (from many unsent daily drafts), so placing a NEW offer id from list_ad_offers fails with 'can not accept any more opportunities'. Workaround: embed already-accepted opportunity ids from list_ad_opportunities(status=accepted) with a valid future send_by — these need no new claim and place fine. Filter accepted opps by send_by > target-send timestamp.",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
