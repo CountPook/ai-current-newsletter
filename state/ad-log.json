@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "post_id": "post_2f2fd9a4-8163-4b53-ad12-0404313a6e74",
+      "title": "OpenAI's Astra Solves Decade-Old Math Problems, California's AI Labeling Law Takes Effect, Arm Posts a Record Quarter",
+      "yesterday_grade": {
+        "note": "No post has been sent since 2026-07-02; all daily runs 2026-07-03 through 2026-08-02 created drafts that were never scheduled/published. No 'yesterday' send to grade.",
+        "last_published_post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "last_published_date": "2026-07-02",
+        "last_published_stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "BELAY", "offer_id": 99555031, "opportunity_id": "02c6f00e-6d19-447b-b176-07eff3a3bb62", "headline": "The New Rules of Online Visibility", "slot": "top (after intro)", "cpc_cents": 206, "send_by": "2026-08-08T05:53:19Z"},
+        {"advertiser": "Oyster", "offer_id": 99555017, "opportunity_id": "c9e16c33-0c42-4ae6-aa68-03458b4ce470", "headline": "What is an EOR—and why are companies using it?", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-08-08T05:53:40Z"}
+      ],
+      "shortfall": "AD_SLOTS=3 requested (1 top + 2 bottom). Ad network capped this publication at 2 concurrent accepted opportunities; a 3rd offer (Wispr Flow, 187c, offer 99555021) was rejected with 'can not accept any more opportunities'. Ran 2 ads (1 top + 1 bottom)."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-03", "advertiser": "BELAY", "offer_id": 99555031, "opportunity_id": "02c6f00e-6d19-447b-b176-07eff3a3bb62", "slot_position": 1, "cpc_cents": 206},
+    {"date": "2026-08-03", "advertiser": "Oyster", "offer_id": 99555017, "opportunity_id": "c9e16c33-0c42-4ae6-aa68-03458b4ce470", "slot_position": 2, "cpc_cents": 187}
   ]
 }
