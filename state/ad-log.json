@@ -21,6 +21,22 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "post_id": "post_0c3249fc-cee2-4c0e-a4cd-68c507bf1f0f",
+      "title": "Alibaba's Qwen3.8-Max Debuts, xAI Ships Faster Grok Voice, Anthropic Names Its First Policy Chief",
+      "graded_yesterday": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "scheduled_at": "2026-07-02T18:42:52Z",
+        "note": "Most recent PUBLISHED post is 2026-07-02; daily drafts since then (through 2026-08-04) were created but never scheduled/sent.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_note": "0 of 3 slots filled. list_sponsorship_agreement_items(status=waiting)=0. list_ad_offers returned 15 valid available_offers (all send_by 2026-08-10, none expired for the 2026-08-05 14:00 UTC target send). Ranked by CPC: Levanta 225c (101745169), Mode Mobile 225c (101745170), Oyster 187c (101745157) were selected. BOTH the atomic save_post with ads AND single-ad edit_post_content attempts were rejected by the ad network with: 'can not accept any more opportunities'. This is a publication-wide acceptance cap, not an offer-specific problem (a different opportunity UUID appeared each attempt). Likely cause: unpublished daily drafts (2026-07-16..2026-08-04) each hold accepted ad opportunities, exhausting the cap. Draft was saved without ads to preserve it."
     }
   ],
   "ads": [
