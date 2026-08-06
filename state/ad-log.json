@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "post_id": "post_c3baf43d-dd52-4a38-bf20-51ed0f8e71d9",
+      "title": "AMD's Data-Center Revenue Doubles, Anthropic Builds Its Own AI Chip, Perplexity Beats Amazon in Court",
+      "graded_post": {
+        "note": "No post was published on 2026-08-05; newest published post is post_86b8db6c (2026-07-02). Daily drafts have been created but not scheduled/sent since 2026-07-02.",
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "date": "2026-07-02",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Oyster", "opportunity_id": "c9e16c33-0c42-4ae6-aa68-03458b4ce470", "headline": "What is an EOR—and why are companies using it?", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 187, "send_by": "2026-08-08T05:53:40Z"},
+        {"advertiser": "BELAY", "opportunity_id": "02c6f00e-6d19-447b-b176-07eff3a3bb62", "headline": "The New Rules of Online Visibility", "slot": "bottom-1 (before sign-off)", "kind": "primary", "cpc_cents": 206, "send_by": "2026-08-08T05:53:19Z"},
+        {"advertiser": "Mesh API", "opportunity_id": "46e85900-fb86-4881-aa4e-14a772d5e5b6", "offer_id": "102781406", "headline": "Know Exactly Who's Spending Your AI Budget.", "slot": "bottom-2 (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-08-11T05:54:23Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-06", "advertiser": "Oyster", "opportunity_id": "c9e16c33-0c42-4ae6-aa68-03458b4ce470", "slot_position": 1, "kind": "primary", "cpc_cents": 187},
+    {"date": "2026-08-06", "advertiser": "BELAY", "opportunity_id": "02c6f00e-6d19-447b-b176-07eff3a3bb62", "slot_position": 2, "kind": "primary", "cpc_cents": 206},
+    {"date": "2026-08-06", "advertiser": "Mesh API", "opportunity_id": "46e85900-fb86-4881-aa4e-14a772d5e5b6", "slot_position": 3, "kind": "secondary", "cpc_cents": 225}
   ]
 }
