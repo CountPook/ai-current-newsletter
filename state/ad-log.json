@@ -17,15 +17,39 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "note": "Routine resumed after a gap (last state update 2026-06-18). Draft NOT scheduled/sent by routine.",
+      "graded_last_published": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "published_date": "2026-07-02",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0,
+        "operational_flag": "No post has been PUBLISHED since 2026-07-02; daily drafts through 2026-08-07 were created but never scheduled/sent."
+      },
+      "post_id": "post_efb1ee74-76da-4620-810a-4b2d851fef38",
+      "title": "Hadrian Raises $1.37B for AI-Run Factories, Horizon3 Hits a $2B Valuation for Autonomous Security, Mistral Open-Sources a Safety Model",
+      "target_send": "2026-08-08T14:00:00Z (7:00 AM America/Los_Angeles)",
+      "ads": [
+        {"advertiser": "Mode Mobile", "offer_id": 104606799, "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "kind": "primary", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-08-13T05:54:28Z"},
+        {"advertiser": "Hubspot", "offer_id": 104606798, "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "kind": "secondary", "slot": "bottom (before sign-off)", "cpc_cents": 206, "send_by": "2026-08-12T23:59:59Z"},
+        {"advertiser": "Oyster", "offer_id": 104606786, "opportunity_id": "299bbd40-b4ec-490c-a374-a9a00948e94a", "kind": "secondary", "slot": "bottom (before sign-off)", "cpc_cents": 187, "send_by": "2026-08-13T05:54:52Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-08", "advertiser": "Mode Mobile", "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-08", "advertiser": "Hubspot", "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-08", "advertiser": "Oyster", "opportunity_id": "299bbd40-b4ec-490c-a374-a9a00948e94a", "slot_position": 3, "cpc_cents": 187}
   ]
 }

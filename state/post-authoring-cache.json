@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-08",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -14,7 +14,12 @@
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
+    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\" data-show-options-initially=\"true\"></div>",
     "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+  },
+  "ad_placement_learnings": {
+    "max_primary_slots_per_post": 1,
+    "note": "A post accepts only ONE 'primary' (with-logo) ad slot; additional ads must be 'secondary'. list_ad_offers ids are NUMERIC and ROTATE (a new batch is issued roughly each run) — always fetch fresh ids immediately before placing. Robust pattern: save_post with NO ad nodes first (always succeeds), then add ads one at a time via edit_post_content using current offer ids; this isolates any slot/cap failure so one bad ad can't kill the whole draft.",
+    "layout_used_2026-08-08": "1 primary top (after intro) + 2 secondary bottom (before sign-off), matching the established daily format."
   }
 }
