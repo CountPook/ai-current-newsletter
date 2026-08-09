@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-09",
+      "graded_last_published": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "published_at": "2026-07-02",
+        "note": "Newest PUBLISHED post as of the 2026-08-09 run. Nothing has been published since 2026-07-02 despite daily drafts being created; publishing/scheduling is a manual step that appears to have lapsed.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_d7c4d6c0-4e28-4780-89ea-7a0767221902",
+      "title": "xAI Ships Grok 4.6, OpenAI Makes ChatGPT's Free Tier Unlimited, Google Overhauls DeepMind Leadership",
+      "ads": [
+        {"advertiser": "Mode Mobile", "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "headline": "The Next Breakout Might Be in Your Pocket", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-08-13T05:54:28Z"},
+        {"advertiser": "Mesh API", "opportunity_id": "46e85900-fb86-4881-aa4e-14a772d5e5b6", "headline": "Know Exactly Who's Spending Your AI Budget.", "slot": "bottom (after last section)", "cpc_cents": 225, "send_by": "2026-08-11T05:54:23Z"},
+        {"advertiser": "Hubspot", "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "headline": "The GTM Playbook Behind Warmly's Acquisition", "slot": "bottom (after sign-off, before share button)", "cpc_cents": 206, "send_by": "2026-08-12T23:59:59Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-09", "advertiser": "Mode Mobile", "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-09", "advertiser": "Mesh API", "opportunity_id": "46e85900-fb86-4881-aa4e-14a772d5e5b6", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-08-09", "advertiser": "Hubspot", "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "slot_position": 3, "cpc_cents": 206}
   ]
 }
