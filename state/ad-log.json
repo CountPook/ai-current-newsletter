@@ -21,11 +21,34 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "yesterday_graded": {
+        "post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+        "title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B",
+        "published_at": "2026-07-02",
+        "note": "Most recent published issue; publication has not sent since 2026-07-02 (drafts built daily but not scheduled).",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_05500be6-f492-4862-9d31-10a2a3aa1d2f",
+      "title": "Nvidia Rallies $500B for AI Infrastructure, OpenAI Ships an Offense-Grade Cyber Model, Anthropic Watermarks Claude",
+      "target_send": "2026-08-12T14:00:00Z",
+      "ads": [
+        {"advertiser": "Mode Mobile", "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "headline": "The Next Breakout Might Be in Your Pocket", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-08-13T05:54:28Z"},
+        {"advertiser": "Hubspot", "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "headline": "The GTM Playbook Behind Warmly's Acquisition", "slot": "bottom 1 (before sign-off)", "cpc_cents": 206, "send_by": "2026-08-12T23:59:59Z"},
+        {"advertiser": "Oyster", "opportunity_id": "299bbd40-b4ec-490c-a374-a9a00948e94a", "headline": "What is an EOR—and why are companies using it?", "slot": "bottom 2 (after sign-off)", "cpc_cents": 187, "send_by": "2026-08-13T05:54:52Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-12", "advertiser": "Mode Mobile", "opportunity_id": "e29830b6-0c01-4a32-80c3-9cdf72bc7863", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-12", "advertiser": "Hubspot", "opportunity_id": "7d947341-ec81-4135-9152-0fbd9674ce1a", "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-12", "advertiser": "Oyster", "opportunity_id": "299bbd40-b4ec-490c-a374-a9a00948e94a", "slot_position": 3, "cpc_cents": 187}
   ]
 }
