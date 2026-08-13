@@ -17,15 +17,33 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "graded_post_id": "post_86b8db6c-1f85-4b98-b256-7e548028e03a",
+      "graded_post_title": "Google Ships a Faster, Cheaper Image Model, Grok Gets an Autonomous Coding Mode, MGX Raises $49B (published 2026-07-02, most recent published issue)",
+      "graded_stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "orders": 0},
+      "note": "Daily drafts have been generated Jul 3-Aug 12 but never scheduled/published by hand; last actually-sent issue was 2026-07-02. No new performance data since then.",
+      "post_id": "post_c415cbf6-efb1-4606-89e1-904d69a8bfd8",
+      "title": "Google Debuts an Agentic Gemini on the Pixel 11, OpenAI Tests Ads in ChatGPT, Cognition Eyes a $40B Valuation",
+      "ads": [
+        {"advertiser": "Mode Mobile", "offer_id": 108457394, "placement_id": "65819357-27cc-4a92-8145-71cc8eeb3295", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-08-14T23:59:59Z"},
+        {"advertiser": "BELAY", "offer_id": 108457389, "placement_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot": "bottom #1 (after Security)", "cpc_cents": 206, "send_by": "2026-08-18T05:52:56Z"},
+        {"advertiser": "Wispr Flow", "offer_id": 108457386, "placement_id": "bf6c587b-26a8-4821-b5cd-4d201f8c38f6", "slot": "bottom #2 (before share button)", "cpc_cents": 187, "send_by": "2026-08-18T05:52:56Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-13", "advertiser": "Mode Mobile", "offer_id": 108457394, "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-13", "advertiser": "BELAY", "offer_id": 108457389, "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-13", "advertiser": "Wispr Flow", "offer_id": 108457386, "slot_position": 3, "cpc_cents": 187}
   ]
 }
