@@ -17,15 +17,43 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "post_id": "post_05500be6-f492-4862-9d31-10a2a3aa1d2f",
+      "title": "Nvidia Rallies $500B for AI Infrastructure, OpenAI Ships an Offense-Grade Cyber Model, Anthropic Watermarks Claude",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "total_opens": 13, "click_rate": 100.0, "unique_clicks": 1, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "bounce_rate": 0.0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "ads": [
+        {"advertiser": "Mode Mobile", "opportunity_id": "65819357-27cc-4a92-8145-71cc8eeb3295", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225},
+        {"advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot": "mid (before sign-off)", "kind": "secondary", "cpc_cents": 206},
+        {"advertiser": "Wispr Flow", "opportunity_id": "bf6c587b-26a8-4821-b5cd-4d201f8c38f6", "slot": "near end (after sign-off)", "kind": "secondary", "cpc_cents": 187}
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "post_id": "post_8427751e-2bb3-467b-8e63-a80f98f0d7b1",
+      "title": "Google Ships Gemini 3.7 Flash, DeepSeek and Z.ai Push New Models, Anthropic Eyes a $6B Video Deal",
+      "ads": [
+        {"advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-08-19T22:46:30Z"},
+        {"advertiser": "Levanta", "opportunity_id": "612b38a0-d86e-42d1-8575-ce4add5ca5a9", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-08-19T22:46:30Z"},
+        {"advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot": "bottom (after sign-off)", "kind": "secondary", "cpc_cents": 206, "send_by": "2026-08-18T05:52:56Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-14", "advertiser": "Mode Mobile", "opportunity_id": "65819357-27cc-4a92-8145-71cc8eeb3295", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-14", "advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-14", "advertiser": "Wispr Flow", "opportunity_id": "bf6c587b-26a8-4821-b5cd-4d201f8c38f6", "slot_position": 3, "cpc_cents": 187},
+    {"date": "2026-08-15", "advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-15", "advertiser": "Levanta", "opportunity_id": "612b38a0-d86e-42d1-8575-ce4add5ca5a9", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-08-15", "advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot_position": 3, "cpc_cents": 206}
   ]
 }
