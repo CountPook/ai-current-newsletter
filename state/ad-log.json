@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-15",
+      "post_id": "post_9f449c7b-1788-4f41-9ceb-36ca98b9f859",
+      "title": "DeepSeek Ships Its V4-Pro Agent Model, Nvidia Rallies $500B for AI Compute, OpenAI Previews a 14x-Faster ChatGPT",
+      "note": "Yesterday's published issue, graded during the 2026-08-16 run. State files had not been updated since 2026-06-18 despite daily drafts/publishes continuing; this run resumes memory tracking.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 30.0, "unique_opens": 3, "click_rate_verified": 66.67, "unique_clicks_verified": 2, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+    },
+    {
+      "date": "2026-08-16",
+      "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+      "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+      "target_send": "2026-08-16T14:00:00Z",
+      "ads": [
+        {"advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "headline": "Stop making AI decisions in the dark.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-08-19T22:46:30Z"},
+        {"advertiser": "Particle", "opportunity_id": "73bd8fc4-c7b0-4334-9ee2-d3faa2866d5e", "offer_id": 110828881, "headline": "Search podcasts by meaning, not just keywords.", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-08-21T05:52:55Z"},
+        {"advertiser": "Levanta", "opportunity_id": "16eb8643-1609-47f4-82b6-1a65d9f9f880", "headline": "Holiday Creator Calendars Are Filling Up. Q4 Panic Is Optional.", "slot": "bottom (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-08-20T23:20:58Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-16", "advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-16", "advertiser": "Particle", "opportunity_id": "73bd8fc4-c7b0-4334-9ee2-d3faa2866d5e", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-08-16", "advertiser": "Levanta", "opportunity_id": "16eb8643-1609-47f4-82b6-1a65d9f9f880", "slot_position": 3, "cpc_cents": 225}
   ]
 }
