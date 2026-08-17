@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "post_id": "post_8632c94c-963d-4b5e-85bb-d612175e63e9",
+      "title": "Alibaba Open-Sources Qwen3.8-27B, OpenAI Cuts ChatGPT Prices, Anthropic Signs a $9.1B Texas Compute Deal",
+      "graded_yesterday": {
+        "post_id": "post_8427751e-2bb3-467b-8e63-a80f98f0d7b1",
+        "title": "Google Ships Gemini 3.7 Flash, DeepSeek and Z.ai Push New Models, Anthropic Eyes a $6B Video Deal",
+        "scheduled_at": "2026-08-16T14:00:00Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "open_rate": 13.33, "click_rate": 100.0, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Levanta", "opportunity_id": "612b38a0-d86e-42d1-8575-ce4add5ca5a9", "headline": "Free Guide, Aug - Text", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 225, "send_by": "2026-08-19T22:46:30Z"},
+        {"advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "headline": "Stop making AI decisions in the dark.", "slot": "bottom 1 (after last section)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-08-19T22:46:30Z"},
+        {"advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "headline": "Make Tax Season Simple", "slot": "bottom 2 (before sign-off)", "kind": "secondary", "cpc_cents": 206, "send_by": "2026-08-18T05:52:56Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-17", "advertiser": "Levanta", "opportunity_id": "612b38a0-d86e-42d1-8575-ce4add5ca5a9", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-17", "advertiser": "Harmonic Security", "opportunity_id": "75f8482f-6114-4c1b-b063-e1b5613134fd", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-08-17", "advertiser": "BELAY", "opportunity_id": "03be6ee0-0cd6-4413-9a76-e8071527aea1", "slot_position": 3, "cpc_cents": 206}
   ]
 }
