@@ -1,20 +1,17 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-18",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
-  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
-  "theme_defaults": {
-    "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
-    "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
-    "link_color": "#0C4A6E"
-  },
+  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs. The live account template evolved since June; the current established template mirrors the most recent published posts (e.g. post_3869bf49, 2026-08-17).",
   "established_template": {
-    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners. Story sections use h2 headings (Models & Research, Industry & Business). Sign-off + Share button at the end. Sponsor slots use advertisementOpportunity nodes labeled 'A word from our sponsor' only when offers/agreements exist.",
-    "section_attrs": "data-background-color=#222222 data-color=#FFFFFF data-padding-*=20 data-type=section class=node-section",
-    "cover_image_radius": 30
+    "description": "AI Current dark theme. Each block is a node-section div with data-background-color #222222; text sections add data-color #FFFFFF; padding 20 (ad sections use padding-top/bottom 12). Cover is a 16:9 imageBlock figure with 30px rounded corners and data-is-uploaded=true. Inline story images are imageBlock figures with 0 radius. Story sections use bold h2 headings (Models & Research, Products & Launches, Industry & Business). Structure: cover -> intro paragraph -> top ad (primary/with logo) -> grouped sections with inline images between them -> secondary ad -> sign-off -> secondary ad -> 'Share the newsletter' button. Sponsor blocks are labeled 'TOGETHER WITH OUR SPONSOR' (bold p) above the ad node.",
+    "cover_image_radius": 30,
+    "section_padding": {"text": 20, "ad": 12}
   },
-  "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
-  "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
-  }
+  "ad_node": {
+    "html": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\" data-show-options-initially=\"true\"></div>",
+    "notes": "data-id accepts an ad-network offer id (integer, from list_ad_offers available_offers) or an accepted opportunity UUID (from list_ad_opportunities). Embedding an available offer id auto-claims it and converts it to an accepted opportunity on save. data-advertisement-kind picks the creative variation: primary=with logo, secondary=no logo. Established layout uses primary for the top slot and secondary for the two bottom slots.",
+    "requires_setting": "ad_network (enabled for this publication)"
+  },
+  "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{publication_alphanumeric_id}}"],
+  "recipients_note": "Publication has no active paid tier (list_tiers empty; ~10 free subscribers). Posts send to free on web + email. Set recipients {web:{tier_ids:[free]}, email:{tier_ids:[free]}} or omit to default to free."
 }
