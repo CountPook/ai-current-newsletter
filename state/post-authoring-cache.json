@@ -1,7 +1,8 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-19",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
-  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs. Sponsor slots are labeled with a bold 'TOGETHER WITH OUR SPONSOR' paragraph above the advertisementOpportunity node (padding 12 top/bottom, 20 sides). Ads: place 1 top (after intro) + 2 bottom (around the sign-off), never stacked.",
+  "ad_placement_lesson": "To embed an ad, use the already-ACCEPTED opportunity UUID from list_ad_opportunities(status=accepted), NOT the integer offer id from list_ad_offers. Embedding an integer offer id tries to claim a NEW opportunity and the API rejects it with 'can not accept any more opportunities' once the cycle's offers are already accepted. Each daily run typically has 3 fresh accepted opportunities (created that morning) with a send_by ~5 days out — those are the current inventory.",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
