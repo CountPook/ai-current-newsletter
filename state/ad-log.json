@@ -21,6 +21,30 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "post_id": "post_5d35bc0b-3268-44b4-88ba-286dec848e73",
+      "title": "Grok 4.6 Comes to AWS Bedrock, Meta AI Launches a Mac App, and Google Gives Workspace Admins Gemini",
+      "graded_yesterday": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17T19:12:08Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "total_opens": 3, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "beehiiv ad-network returned 'can not accept any more opportunities' on every placement attempt (tried Oyster 187cpc, Wispr Flow 187cpc, The Code 150cpc). Publication has ~100+ outstanding accepted ad opportunities from prior unpublished daily drafts (Aug 1-19), which appears to have saturated the acceptance cap. No direct sponsorship agreements were waiting. Draft was created ad-free; ads must be added manually in the beehiiv editor once the cap clears (e.g., after old drafts are published or removed).",
+        "top_available_offers_at_run": [
+          {"advertiser": "Oyster", "offer_id": 114229493, "cpc_cents": 187, "send_by": "2026-08-25T05:51:44Z"},
+          {"advertiser": "Wispr Flow", "offer_id": 114229495, "cpc_cents": 187, "send_by": "2026-08-25T05:51:44Z"},
+          {"advertiser": "The Code", "offer_id": 114229502, "cpc_cents": 150, "send_by": "2026-08-25T05:51:44Z"}
+        ]
+      }
     }
   ],
   "ads": [
