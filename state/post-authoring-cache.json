@@ -1,5 +1,6 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-23",
+  "ad_node_note": "advertisementOpportunity data-id accepts a numeric list_ad_offers offer id (placing it auto-accepts the opportunity) OR an already-accepted opportunity UUID. Placing multiple new offers in one save_post can trip a global 'can not accept any more opportunities' cap; add ads one at a time via edit_post_content.",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {

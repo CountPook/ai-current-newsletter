@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "graded_yesterday": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "total_opens": 3, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "open_rate": 5.0, "click_rate": 0.0, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_2e034977-b862-4c7c-9b0a-25fbc28cbd83",
+      "title": "Claude Designs Working Proteins, ChatGPT Reads Your iMessages, and Cursor Takes On GitHub",
+      "target_send": "2026-08-23T14:00:00Z",
+      "ads": [
+        {"advertiser": "Levanta", "offer_id": 116510573, "opportunity_id": "46282d35-5aac-49ec-be1e-0bdea254487f", "headline": "Holiday Creator Calendars Are Filling Up. Q4 Panic Is Optional.", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-08-28T05:54:06Z"},
+        {"advertiser": "Hubspot", "offer_id": 116510572, "opportunity_id": "47597500-09ee-477b-ad20-180bc54aef98", "headline": "No follow-up questions required", "slot": "bottom (before sign-off)", "cpc_cents": 206, "send_by": "2026-08-28T05:54:21Z"}
+      ],
+      "ad_shortfall": {"slots_target": 3, "slots_filled": 2, "reason": "Ad-network global acceptance cap reached ('can not accept any more opportunities'); a third distinct offer (Oyster 116510563, 187cpc; also retried Wispr 116510565, 187cpc) was rejected. Likely because the unpublished 2026-08-18..2026-08-22 daily drafts still hold unfulfilled ad placements consuming the acceptance quota."}
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-23", "advertiser": "Levanta", "opportunity_id": "46282d35-5aac-49ec-be1e-0bdea254487f", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-23", "advertiser": "Hubspot", "opportunity_id": "47597500-09ee-477b-ad20-180bc54aef98", "slot_position": 2, "cpc_cents": 206}
   ]
 }
