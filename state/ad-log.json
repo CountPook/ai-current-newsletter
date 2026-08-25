@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "post_id": "post_40b73ef9-0b3a-49fb-96b2-79f190d7e155",
+      "title": "Alibaba Launches the Wan3.0 AI Video Model, XPeng's Robotics Arm Raises $900M, and Nvidia Eyes Perplexity",
+      "graded_post": {
+        "note": "Newest published post at run time was post_3869bf49 (2026-08-17). No issue was published Aug 18-24 (drafts only), so publication last_7_days shows zero engagement.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "total_opens": 3, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "bounce_rate": 0.0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "KodeKloud", "opportunity_id": "8fca68d1-6505-4930-9ee9-09e5b3803e6e", "headline": "Build. Break. Fix. Learn.", "slot": "top (after intro), primary", "cpc_cents": 225, "send_by": "2026-08-29T05:53:12Z"},
+        {"advertiser": "Hubspot", "opportunity_id": "a78fbedf-4e7a-4103-9b7b-cd0a8161b44e", "headline": "No follow-up questions required", "slot": "bottom 1, secondary", "cpc_cents": 206, "send_by": "2026-08-29T05:53:12Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "4163ba63-5936-45ac-a45c-f16b8e0c46d1", "headline": "Slack replies in seconds. Not minutes.", "slot": "bottom 2, secondary", "cpc_cents": 187, "send_by": "2026-08-29T05:53:12Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-25", "advertiser": "KodeKloud", "opportunity_id": "8fca68d1-6505-4930-9ee9-09e5b3803e6e", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-25", "advertiser": "Hubspot", "opportunity_id": "a78fbedf-4e7a-4103-9b7b-cd0a8161b44e", "slot_position": 2, "cpc_cents": 206},
+    {"date": "2026-08-25", "advertiser": "Wispr Flow", "opportunity_id": "4163ba63-5936-45ac-a45c-f16b8e0c46d1", "slot_position": 3, "cpc_cents": 187}
   ]
 }

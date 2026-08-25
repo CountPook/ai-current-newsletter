@@ -1,17 +1,10 @@
 {
-  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2.",
+  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2. NOTE: memory was not updated between 2026-06-18 and 2026-08-25; dedup for the 2026-08-25 run was done manually against recent draft titles (Aug 11-24).",
   "topics": [
-    {"date": "2026-06-17", "title": "OpenAI details Deployment Simulation for pre-release testing", "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"},
-    {"date": "2026-06-17", "title": "Zhipu AI releases GLM-5.2 open-weight coding model", "url": "https://chatforest.com/builders-log/zhipu-glm-5-2-1m-context-open-weights-agentic-coding-builder-guide/"},
-    {"date": "2026-06-17", "title": "Google ships June 2026 Pixel Drop with Android 17", "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"},
-    {"date": "2026-06-17", "title": "xAI adds Agent Dashboard to Grok Build", "url": "https://releasebot.io/updates/xai"},
-    {"date": "2026-06-17", "title": "OpenAI launches $150M Partner Network", "url": "https://openai.com/index/introducing-openai-partner-network/"},
-    {"date": "2026-06-17", "title": "Anthropic pauses planned Agent SDK billing change", "url": "https://thenewstack.io/anthropic-agent-sdk-credits/"},
-    {"date": "2026-06-17", "title": "Anthropic works through repeated Claude outages", "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm"},
-    {"date": "2026-06-18", "title": "OpenAI releases LifeSciBench, a 750-task life-sciences benchmark", "url": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/"},
-    {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
-    {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
-    {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-08-25", "title": "Alibaba fully launches Wan3.0 AI video model (30s, 1080p, audio, Omni-Reference)", "url": "https://thenextweb.com/news/alibaba-wan3-video-model-after-share-sale"},
+    {"date": "2026-08-25", "title": "OpenAI brings the ChatGPT desktop app to Linux (Aug 22 release notes)", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"},
+    {"date": "2026-08-25", "title": "XPeng's robotics unit raises >$900M at >$6.3B valuation for IRON humanoid", "url": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/"},
+    {"date": "2026-08-25", "title": "Nvidia reportedly in talks to invest in Perplexity at >$30B valuation", "url": "https://www.benzinga.com/markets/tech/26/08/61374579/nvidia-perplexity-30-billion-valuation-750-million-revenue-bezos"},
+    {"date": "2026-08-25", "title": "Anthropic works through another Claude outage (Aug 24)", "url": "https://cybersecuritynews.com/claude-ai-suffers-outage/"}
   ]
 }
