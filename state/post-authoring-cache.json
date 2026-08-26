@@ -1,10 +1,19 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-08-26",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
-    "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
-    "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
+    "paragraph": {
+      "font_family": "inter",
+      "font_size": "16px",
+      "color": "#374151"
+    },
+    "h2": {
+      "font_family": "instrument sans",
+      "font_size": "20px",
+      "font_weight": "700",
+      "color": "#111827"
+    },
     "link_color": "#0C4A6E"
   },
   "established_template": {
@@ -12,9 +21,16 @@
     "section_attrs": "data-background-color=#222222 data-color=#FFFFFF data-padding-*=20 data-type=section class=node-section",
     "cover_image_radius": 30
   },
-  "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
+  "key_merge_tags": [
+    "{{rp_referral_hub_url}}",
+    "{{unsubscribe_url}}",
+    "{{subscriber_preferences_url}}",
+    "{{publication_name}}",
+    "{{current_date_full}}"
+  ],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "ad_network_offer_or_opportunity": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\" data-show-options-initially=\"true\"></div>",
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "note": "Wrap each ad node in its own dark section (padding 12) with a '<strong>TOGETHER WITH OUR SPONSOR</strong>' label above it. Placing (claiming) a NEW offer from list_ad_offers can fail with 'can not accept any more opportunities' when the publication is at the ad-network acceptance cap; already-accepted opportunities (list_ad_opportunities status=accepted) embed without re-accepting."
   }
 }
