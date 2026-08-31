@@ -17,15 +17,36 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "post_id": "post_4c8ac21c-01e1-4aa2-8c9c-166c519010f0",
+      "title": "OpenAI Buys Tens of Thousands of Macs, Anthropic Warns of Claude Account Hijacks, Alibaba Previews Qwen4",
+      "graded_yesterday": {
+        "note": "Newest PUBLISHED post was 2026-08-17; drafts 2026-08-18 through 2026-08-30 were created but never scheduled/sent.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 10.0, "unique_opens": 1, "total_opens": 3, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Caelith.ai", "opportunity_id": "b228ddeb-b65d-4fbe-9ea0-453c2ba6e56a", "headline": "Stop Paying for 10 Tools. One AI Does It All.", "slot": "top (after intro)", "cpc_cents": 225, "send_by": "2026-09-03T05:53:01Z"},
+        {"advertiser": "Apollo", "opportunity_id": "6881f5d2-45bf-45e0-af56-56a9349057e1", "headline": "Stop prospecting. Start closing.", "slot": "bottom (before sign-off, 1 of 2)", "cpc_cents": 225, "send_by": "2026-09-03T05:53:14Z"},
+        {"advertiser": "Levanta", "opportunity_id": "9a7ff54e-c3ac-42da-a585-32b740ee7546", "headline": "Free Guide, Aug - Text", "slot": "bottom (before sign-off, 2 of 2)", "cpc_cents": 225, "send_by": "2026-09-03T05:53:24Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-08-31", "advertiser": "Caelith.ai", "opportunity_id": "b228ddeb-b65d-4fbe-9ea0-453c2ba6e56a", "slot_position": 1, "cpc_cents": 225},
+    {"date": "2026-08-31", "advertiser": "Apollo", "opportunity_id": "6881f5d2-45bf-45e0-af56-56a9349057e1", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-08-31", "advertiser": "Levanta", "opportunity_id": "9a7ff54e-c3ac-42da-a585-32b740ee7546", "slot_position": 3, "cpc_cents": 225}
   ]
 }
