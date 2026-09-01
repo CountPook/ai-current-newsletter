@@ -1,7 +1,8 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-09-01",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "ad_placement_lesson": "2026-09-01: save_post rejected unclaimed list_ad_offers with 'can not accept any more opportunities' — the ad account has a concurrent-acceptance cap. Prefer embedding already-ACCEPTED, in-window opportunities from list_ad_opportunities(status=accepted) whose send_by is after the target send timestamp; those embed without re-accepting. Ad node: <div class=\"node-advertisementOpportunity\" data-id=\"<opportunity_uuid>\" data-advertisement-kind=\"primary|secondary\"></div> (omit kind to let the server pick a creative). Publication default theme is LIGHT, so apply save_post_theme per-post (background_color/content_background_color #222222, paragraph_color + h*_font_color #FFFFFF, inline_link_color #7DD3FC) to get the dark AI Current look.",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
