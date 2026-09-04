@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-09-04",
+      "post_id": "post_7b9ea1a4-459e-4b35-907f-5ff93a37f736",
+      "title": "OpenAI Launches GPT-6 Astra, Meta Ships Muse Spark 1.3, and Anthropic Adds Enterprise AI Safeguards",
+      "graded_yesterday": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "total_opens": 4, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+        "orders_since_last_run": 0,
+        "note": "Most recent PUBLISHED post; the daily routine has produced drafts through 2026-09-03 that were never scheduled/sent (see handoff note in report)."
+      },
+      "ads": [
+        {"advertiser": "Attio", "opportunity_id": "601da769-6661-4462-aa93-ae67e91b13bc", "headline": "Granola Runs Revenue On Attio", "slot": "top (after intro), primary", "cpc_cents": 300, "send_by": "2026-09-08T05:53:05Z"},
+        {"advertiser": "Hubspot", "opportunity_id": "b1a88eba-eb7d-4c0c-8e3b-c3a659972a53", "headline": "No follow-up questions required", "slot": "bottom (before sign-off), secondary", "cpc_cents": 243, "send_by": "2026-09-08T05:53:05Z"},
+        {"advertiser": "Caelith.ai", "opportunity_id": "2c07cb35-2dcf-43a0-9f41-7325d279a26c", "headline": "Stop Paying for 6 Tools. One AI Does It All.", "slot": "bottom (after sign-off), secondary", "cpc_cents": 225, "send_by": "2026-09-08T05:53:05Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-09-04", "advertiser": "Attio", "opportunity_id": "601da769-6661-4462-aa93-ae67e91b13bc", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-09-04", "advertiser": "Hubspot", "opportunity_id": "b1a88eba-eb7d-4c0c-8e3b-c3a659972a53", "slot_position": 2, "cpc_cents": 243},
+    {"date": "2026-09-04", "advertiser": "Caelith.ai", "opportunity_id": "2c07cb35-2dcf-43a0-9f41-7325d279a26c", "slot_position": 3, "cpc_cents": 225}
   ]
 }
