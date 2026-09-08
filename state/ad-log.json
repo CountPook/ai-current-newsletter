@@ -27,5 +27,19 @@
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
-  ]
+  ],
+  "run_2026_09_08": {
+    "date": "2026-09-08",
+    "graded_post": {
+      "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+      "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+      "published_at": "2026-08-17",
+      "note": "Most recent PUBLISHED post. No issue has been published since 2026-08-17; daily drafts have been created but not scheduled/sent.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+      "publication_4w": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 15.0, "click_rate": 66.67, "earnings": "$0.00"}
+    },
+    "orders_since_last_run": 0,
+    "ads_placed": [],
+    "ad_shortfall": "0 of 3 slots filled. Ad-selection tools (list_sponsorship_agreement_items, list_ad_offers, list_ad_opportunities) are plan-gated on the current beehiiv plan and returned 'not available on your current plan'. No ad could be selected or verified, so none were placed."
+  }
 }

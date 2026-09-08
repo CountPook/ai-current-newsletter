@@ -1,17 +1,21 @@
 {
-  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2.",
+  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2. NOTE: entries dated 2026-08-26..2026-09-04 are backfilled from beehiiv drafts (the daily routine created drafts but did not update this file between 2026-06-18 and 2026-09-08); they are recorded here so future runs dedup correctly.",
   "topics": [
-    {"date": "2026-06-17", "title": "OpenAI details Deployment Simulation for pre-release testing", "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"},
-    {"date": "2026-06-17", "title": "Zhipu AI releases GLM-5.2 open-weight coding model", "url": "https://chatforest.com/builders-log/zhipu-glm-5-2-1m-context-open-weights-agentic-coding-builder-guide/"},
-    {"date": "2026-06-17", "title": "Google ships June 2026 Pixel Drop with Android 17", "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"},
-    {"date": "2026-06-17", "title": "xAI adds Agent Dashboard to Grok Build", "url": "https://releasebot.io/updates/xai"},
-    {"date": "2026-06-17", "title": "OpenAI launches $150M Partner Network", "url": "https://openai.com/index/introducing-openai-partner-network/"},
-    {"date": "2026-06-17", "title": "Anthropic pauses planned Agent SDK billing change", "url": "https://thenewstack.io/anthropic-agent-sdk-credits/"},
-    {"date": "2026-06-17", "title": "Anthropic works through repeated Claude outages", "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm"},
-    {"date": "2026-06-18", "title": "OpenAI releases LifeSciBench, a 750-task life-sciences benchmark", "url": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/"},
-    {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
-    {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
-    {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-08-26", "title": "Apple's first 2nm chip, OpenAI custom inference chip, Claude unified memory", "url": "https://app.beehiiv.com/posts/9ba89879-fda6-4878-9a88-3100b854e1a2/edit"},
+    {"date": "2026-08-27", "title": "Z.ai open-sources GLM-5.3-Flash, GPT-5.6 comes to AWS Kiro, Amazon shuts down Mechanical Turk", "url": "https://app.beehiiv.com/posts/a9b9f143-a251-4be3-8729-bfb0f3811e60/edit"},
+    {"date": "2026-08-28", "title": "Nvidia nears $13B Hugging Face deal, records a quarter, Salesforce puts CRM inside Claude", "url": "https://app.beehiiv.com/posts/ef314073-af3f-4bb0-82ba-b558d4a1def8/edit"},
+    {"date": "2026-08-29", "title": "Anthropic hardware standard, a16z $1.1B hardware fund, Grok 4.6 on Microsoft Foundry", "url": "https://app.beehiiv.com/posts/1ba79abe-f104-48bc-be22-cbffb4b9316c/edit"},
+    {"date": "2026-08-30", "title": "Z.AI open-sources GLM-5.3, OpenAI adds WebMCP to ChatGPT, judge overturns Pentagon's Anthropic ban", "url": "https://app.beehiiv.com/posts/0c493882-393a-4cb2-b8ad-c1cd4279cd69/edit"},
+    {"date": "2026-08-31", "title": "OpenAI buys tens of thousands of Macs, Anthropic warns of Claude account hijacks, Alibaba previews Qwen4", "url": "https://app.beehiiv.com/posts/4c8ac21c-01e1-4aa2-8c9c-166c519010f0/edit"},
+    {"date": "2026-09-01", "title": "Google DeepMind ships Gemini 3.5 Transcribe, Pentagon adds ChatGPT and Grok, Stability AI raises $76M", "url": "https://app.beehiiv.com/posts/4a3c9267-e700-445e-9fd6-879a60c937e3/edit"},
+    {"date": "2026-09-02", "title": "Anthropic ships Claude Fable 5.1, ChatGPT Health adds Epic records, Europe orders a EUR388M AI supercomputer", "url": "https://app.beehiiv.com/posts/ea6fe06e-2ab2-4f51-90a0-81499d739181/edit"},
+    {"date": "2026-09-03", "title": "Google ships Gemini 3.8 Flash and Flash Cyber, Wonderful raises $550M, HiddenLayer nabs $100M", "url": "https://app.beehiiv.com/posts/55f4560c-e01f-49b1-b45a-9f2e9cb2fab1/edit"},
+    {"date": "2026-09-04", "title": "OpenAI launches GPT-6 Astra, Meta ships Muse Spark 1.3, Anthropic adds Enterprise Frontier Safeguards; Nvidia/Equinix/Together AI; Guardio raises $40M", "url": "https://app.beehiiv.com/posts/7b9ea1a4-459e-4b35-907f-5ff93a37f736/edit"},
+    {"date": "2026-09-08", "title": "Anthropic says Claude produced the first computer-checked proof of Fermat's Last Theorem in Lean", "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"},
+    {"date": "2026-09-08", "title": "OpenAI confirms its 'wiki incident' and pledges a misalignment-disclosure framework", "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"},
+    {"date": "2026-09-08", "title": "New York City bars classroom AI for pre-K through eighth grade in 2026-27", "url": "https://www.cnn.com/2026/09/02/tech/new-york-city-classroom-ai-ban"},
+    {"date": "2026-09-08", "title": "TCS unit HyperVault to invest up to $7.4B in a 1 GW AI data center in Telangana, India", "url": "https://www.thestar.com.my/tech/tech-news/2026/09/05/india039s-tcs-unit-to-invest-up-to-74-billion-in-ai-data-center-campus"},
+    {"date": "2026-09-08", "title": "NSF establishes a $35M NAIRR Operations Center (SDSC + TACC)", "url": "https://www.nsf.gov/cise/updates/nsf-establishes-operations-center-national-artificial"},
+    {"date": "2026-09-08", "title": "Anthropic prepares a potential record IPO; prospectus expected late September", "url": "https://www.fool.com/investing/2026/09/03/anthropic-planning-unveil-ipo-details-labor-day/"}
   ]
 }
