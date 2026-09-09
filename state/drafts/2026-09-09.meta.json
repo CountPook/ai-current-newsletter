@@ -1,0 +1,36 @@
+{
+  "_comment": "Ready-to-post draft for 2026-09-09. The beehiiv write API (save_post, duplicate_post, edit_post, edit_post_content) is gated off on the current plan, so this draft could NOT be created automatically. HTML body is in 2026-09-09.html. When the plan is restored, a single save_post(publication_id, title, html_content=<file>, ...) call with the fields below recreates the intended draft.",
+  "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
+  "html_body_file": "state/drafts/2026-09-09.html",
+  "title": "OpenAI Claims a Navier-Stokes Proof, DeepMind Maps 9 Billion DNA Variants, and Mistral Raises €3B",
+  "subtitle": "Plus: China plans to more than quadruple its AI computing by 2030, and Alibaba Cloud and Cambricon join the PyTorch Foundation.",
+  "email_subject_line": "OpenAI's Navier-Stokes claim, DeepMind's 9-billion-variant DNA atlas, Mistral's €3B round",
+  "email_preview_text": "AI takes on a Millennium Prize problem and every human DNA variant, plus Europe's biggest tech round and China's compute push.",
+  "seo_default_title": "OpenAI's Navier-Stokes Proof, DeepMind's 9B-Variant DNA Atlas, Mistral's €3B Round",
+  "seo_default_description": "OpenAI says an AI model proved a forced Navier-Stokes variant, Google DeepMind's AlphaGenome Atlas predicts effects for 9 billion DNA variants, Mistral raises €3B, China plans to quadruple AI compute, and Alibaba Cloud and Cambricon join the PyTorch Foundation.",
+  "content_tags": ["AI", "Newsletter"],
+  "social_share": "none",
+  "recipients": {
+    "web": {"tier_ids": ["free"], "include_segment_ids": [], "exclude_segment_ids": []},
+    "email": {"tier_ids": ["free"], "include_segment_ids": [], "exclude_segment_ids": []}
+  },
+  "thumbnail_image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b7f88b5-b985-4c56-a1f6-fba1c1bb366c/ai_generated_c5c9ce6d94670e19.jpg?t=1788241743",
+  "images": {
+    "cover_asset_id": "4b7f88b5-b985-4c56-a1f6-fba1c1bb366c",
+    "research_section_asset_id": "c136a1fe-649a-4c10-bb94-5319a1e453a8",
+    "infrastructure_section_asset_id": "672688d9-240d-41ee-afc1-95a447f418ac",
+    "note": "Reused existing publication-owned AI-generated abstract images because generate_image is gated off on the current plan. None are third-party copyrighted."
+  },
+  "stories": [
+    {"section": "Research & Science", "title": "OpenAI says an AI model produced a Navier-Stokes proof (with caveats)", "date": "2026-09-08", "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/"},
+    {"section": "Research & Science", "title": "Google DeepMind releases AlphaGenome Atlas predicting effects of 9 billion DNA variants", "date": "2026-09-08", "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"},
+    {"section": "Industry & Infrastructure", "title": "China's MIIT plans to more than quadruple AI computing capacity to 9,800 EFLOPS by 2030", "date": "2026-09-07", "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push"},
+    {"section": "Industry & Infrastructure", "title": "Mistral raises €3B Series D at >€21B valuation, Samsung-led", "date": "2026-09-08", "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"},
+    {"section": "Industry & Infrastructure", "title": "Alibaba Cloud and Cambricon join the PyTorch Foundation as Platinum members", "date": "2026-09-08", "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/"}
+  ],
+  "ads": {
+    "slots_target": 3,
+    "slots_filled": 0,
+    "reason": "list_ad_offers, list_ad_opportunities, and list_sponsorship_agreement_items are all gated off on the current plan, so no ad or sponsorship could be sourced or verified. No ad nodes were embedded."
+  }
+}

@@ -21,6 +21,27 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "post_id": null,
+      "title": "OpenAI Claims a Navier-Stokes Proof, DeepMind Maps 9 Billion DNA Variants, and Mistral Raises €3B",
+      "draft_created": false,
+      "draft_blocked_reason": "beehiiv write API (save_post, duplicate_post, edit_post, edit_post_content) is gated off on the current plan; draft could not be created. Ready-to-post content saved to state/drafts/2026-09-09.html + .meta.json.",
+      "latest_published_post_stats": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 20.0, "unique_opens": 2, "total_opens": 4,
+        "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "note": "Newest PUBLISHED post. No post has been scheduled/sent since 2026-08-17; daily drafts (through 2026-09-04) were created but never published."
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "open_rate_7d": 0.0, "click_rate_7d": 0.0},
+      "orders_since_last_run": 0,
+      "ads": [],
+      "ads_shortfall": {"slots_target": 3, "slots_filled": 0, "reason": "list_ad_offers, list_ad_opportunities, and list_sponsorship_agreement_items are all gated off on the current plan; no ad/sponsorship could be sourced or verified."}
     }
   ],
   "ads": [
