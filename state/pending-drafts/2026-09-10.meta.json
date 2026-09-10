@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-10",
+  "status": "NOT_CREATED_IN_BEEHIIV",
+  "reason": "beehiiv plan downgraded: save_post, edit_post_content (write path), duplicate_post, generate_image, learn_post_authoring, learn_post_metadata, and all ad tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) returned 'not available on your current plan'. The draft could not be created via the API. HTML body is preserved in 2026-09-10.html for manual paste into the beehiiv editor.",
+  "title": "OpenAI Claims a Millennium Prize Math Proof, DeepSeek Ships V4.1 Flash, and Mistral Raises €3B",
+  "subtitle": "Plus: Google DeepMind maps 9 billion DNA mutations, Cognition raises $2B at $48B, and a US advisory names six Chinese AI firms over model distillation.",
+  "subject_line": "OpenAI claims a Millennium Prize math proof; DeepSeek ships V4.1 Flash; Mistral raises €3B",
+  "preview_text": "Plus DeepMind maps 9B DNA mutations, Cognition raises $2B, and a US advisory names six Chinese AI firms.",
+  "content_tags": ["AI", "Newsletter"],
+  "audience": "free tier, web + email (publication has no paid tiers)",
+  "thumbnail_asset_id": "18a0c2c9-7ea4-4b04-bbad-a6dc27ae03ba",
+  "images_reused_from_library": [
+    {"role": "cover", "asset_id": "18a0c2c9-7ea4-4b04-bbad-a6dc27ae03ba", "note": "models-and-speed abstract, 30px rounded"},
+    {"role": "models_section", "asset_id": "8882f2ca-fbb1-43ed-bfd8-a1e297d6c2dc", "note": "research knowledge-graph abstract"},
+    {"role": "industry_section", "asset_id": "7d5206ee-bf03-4b99-8d2a-88625421424d", "note": "funding/capital abstract"}
+  ],
+  "ads": {"slots_target": 3, "slots_filled": 0, "reason": "all ad-network tools plan-gated; no offers/opportunities/agreements could be listed or verified, so none placed (Step 3d shortfall)"},
+  "template": "Replicates 'Template Newsletter' (post_c0cde14a) + established daily format: #222222 sections, #FFFFFF text, 16:9 cover rounded 30px, h2 story sections with inline images, Share button. Ad slots (1 top / 2 bottom) intentionally omitted this run."
+}

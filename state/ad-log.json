@@ -21,6 +21,22 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "post_id": null,
+      "title": "OpenAI Claims a Millennium Prize Math Proof, DeepSeek Ships V4.1 Flash, and Mistral Raises €3B",
+      "graded_post": {
+        "note": "Most recent PUBLISHED post was 2026-08-17 (post_3869bf49); newer daily drafts were created but never scheduled/sent by hand.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "date": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_4w": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 15.0, "click_rate": 66.67, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_note": "0 of 3 slots filled. All ad-network / sponsorship tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are plan-gated ('not available on your current plan'), so no offers/agreements could be listed, ranked, or verified against the target send timestamp (2026-09-10T14:00:00Z). Per Step 3d, ran with fewer ads rather than forcing expired/unverifiable placements.",
+      "draft_note": "Draft could NOT be created in beehiiv: save_post, edit_post_content, duplicate_post, generate_image also plan-gated. Prepared HTML saved to state/pending-drafts/2026-09-10.html for manual paste."
     }
   ],
   "ads": [
