@@ -21,6 +21,26 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "post_id": null,
+      "title": "DeepSeek Open-Sources V4.1-Flash, Apple Unveils Its First Foldable iPhone, and Cognition Raises $2B",
+      "graded_yesterday": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe (published 2026-08-17, most recent published issue)",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "beehiiv ad-network + sponsorship tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are all locked on the current plan ('not available on your current plan'). No valid, unexpired offer IDs could be retrieved, so no ads were placed. Placing stale IDs from prior runs was declined to avoid expired/incorrect ads (per Step 3d)."
+      },
+      "draft_created": false,
+      "draft_blocker": "save_post, duplicate_post, generate_image, learn_post_metadata and all ad tools are plan-locked. Draft could not be created via the API. Full issue HTML saved to state/drafts/2026-09-11.html for manual paste into beehiiv."
     }
   ],
   "ads": [

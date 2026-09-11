@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-11",
+  "status": "NOT created in beehiiv - API write tools plan-locked. Paste HTML manually.",
+  "title": "DeepSeek Open-Sources V4.1-Flash, Apple Unveils Its First Foldable iPhone, and Cognition Raises $2B",
+  "subtitle_preview": "DeepSeek's open multimodal model, Apple's foldable iPhone and on-device AI push, and a $2B AI-coding megaround — plus Meta's Stilla.ai buy and fresh funding for UniPat and Lightfield.",
+  "email_subject_line": "DeepSeek open-sources V4.1-Flash; Apple's foldable iPhone; Cognition raises $2B",
+  "email_preview_text": "Plus: Meta buys Stilla.ai, and Alibaba backs model-tester UniPat AI.",
+  "content_tags": ["AI", "Newsletter"],
+  "recipients": "free tier on web + email (publication has no paid tier), matching prior issues",
+  "cover_image_asset_id": "c74b56bd-9a90-4b4d-8177-d02dd646f3cf",
+  "cover_image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c74b56bd-9a90-4b4d-8177-d02dd646f3cf/ai_generated_6cd0d251dc44b977.jpg?t=1788241740",
+  "images_used_from_library": [
+    {"role": "cover", "asset_id": "c74b56bd-9a90-4b4d-8177-d02dd646f3cf", "desc": "multimodal core"},
+    {"role": "models section", "asset_id": "7998cfd8-9623-4f9c-9907-6c7751e91f88", "desc": "open-weight modular blocks"},
+    {"role": "products section", "asset_id": "16649363-d6a2-4cd3-a262-dce5ccac70fa", "desc": "two app windows / shared memory"},
+    {"role": "funding section", "asset_id": "672688d9-240d-41ee-afc1-95a447f418ac", "desc": "rising light bars"}
+  ],
+  "images_note": "generate_image is plan-locked; reused the publication's own existing abstract, non-copyrighted AI-generated library images from prior issues.",
+  "html_file": "state/drafts/2026-09-11.html",
+  "stories": [
+    {"section": "Models & Research", "title": "DeepSeek open-sources V4.1-Flash", "date": "2026-09-10", "source": "https://time.news/deepseek-launches-v4-1-flash-a-faster-multimodal-mixture-of-experts-model/"},
+    {"section": "Products & Platforms", "title": "Apple foldable iPhone Duo + A20 Pro on-device AI (Sept 9 event)", "date": "2026-09-09", "source": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/"},
+    {"section": "Products & Platforms", "title": "Meta acquires Stilla.ai", "date": "2026-09-09", "source": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai"},
+    {"section": "Funding & Deals", "title": "Cognition raises $2B at $48B", "date": "2026-09-08", "source": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/"},
+    {"section": "Funding & Deals", "title": "Alibaba to lead $300M in UniPat AI at $2.5B", "date": "2026-09-10", "source": "https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value"},
+    {"section": "Funding & Deals", "title": "Lightfield raises $47M Series A", "date": "2026-09-09", "source": "https://www.prnewswire.com/news-releases/lightfield-raises-47-million-series-a-to-build-the-crm-for-companies-that-run-on-agents-302874024.html"}
+  ],
+  "ads": "0 of 3 slots filled - ad-network tools plan-locked (see report and ad-log.json)."
+}
