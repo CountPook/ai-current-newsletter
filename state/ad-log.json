@@ -26,6 +26,26 @@
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-09-15", "advertiser": null, "note": "No ads placed: list_ad_offers / list_ad_opportunities / list_sponsorship_agreement_items all plan-gated ('not available on your current plan'). 3 slots unfilled."}
+  ],
+  "post_performance": [
+    {
+      "graded_on": "2026-09-15",
+      "note": "STEP 1 grade. Most recent PUBLISHED post is 2026-08-17; nothing has been published since (drafts through 2026-09-04 exist but were never scheduled/sent). No orders/revenue since 2026-06-18 (list_orders = 0).",
+      "latest_published_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "scheduled_at": "2026-08-17T19:12:08Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0}
+      },
+      "prior_published_post": {
+        "post_id": "post_8427751e-2bb3-467b-8e63-a80f98f0d7b1",
+        "title": "Google Ships Gemini 3.7 Flash, DeepSeek and Z.ai Push New Models, Anthropic Eyes a $6B Video Deal",
+        "scheduled_at": "2026-08-16T14:00:00Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "open_rate": 0.0, "unique_opens": 0, "click_rate": 0.0, "unique_clicks": 0, "unsubscribes": 0, "spam_reports": 0}
+      },
+      "publication_last_7d": {"active_subscribers": 10, "open_rate": 0.0, "click_rate": 0.0, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+    }
   ]
 }
