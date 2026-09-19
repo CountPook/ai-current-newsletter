@@ -26,6 +26,21 @@
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
-  ]
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-09-19", "advertiser": null, "opportunity_id": null, "slot_position": null, "cpc_cents": null, "note": "No ads placed. Ad-network + sponsorship tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are plan-gated ('not available on your current plan'), so no offers could be enumerated or embedded. 0 of 3 slots filled."}
+  ],
+  "runs_2026_09_19": {
+    "date": "2026-09-19",
+    "draft_created": false,
+    "reason": "beehiiv post-authoring write surface is plan-gated (save_post, edit_post, duplicate_post, generate_image all return 'not available on your current plan'). No draft could be created via API this run. Full paste-ready HTML/copy saved to state/drafts/2026-09-19/.",
+    "graded_post": {
+      "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+      "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+      "published_at": "2026-08-17",
+      "note": "Most recent PUBLISHED post; there was no post published on 2026-09-18. Daily drafts exist through 2026-09-04 but were never scheduled/sent.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "open_rate_7d": 0.0, "click_rate_7d": 0.0},
+      "orders_since_last_run": 0
+    }
+  }
 }
