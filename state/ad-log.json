@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "post_id": null,
+      "title": "Cheaper GPT-6 and Claude Models, Xiaomi's Open 1T MiMo, and Google's Open-Source Robotics Stack",
+      "draft_created": false,
+      "note": "beehiiv save_post is unavailable on the current plan (plan downgrade). Draft could not be created via API; built HTML saved to state/drafts/2026-09-24.html for manual posting.",
+      "last_published_grade": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "sent_date": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0,
+        "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$16.48"},
+      "orders_since_last_run": 0,
+      "ads": [],
+      "ad_shortfall": "0 of 3 slots filled. Ad-network (list_ad_offers/list_ad_opportunities) and sponsorship (list_sponsorship_agreement_items) tools are all unavailable on the current plan; no valid, unexpired ad IDs could be retrieved. Stale June opportunity IDs (send_by 2026-06-22) are long expired and were not reused."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-09-24", "advertiser": null, "opportunity_id": null, "slot_position": null, "note": "no ads placed — ad tools plan-gated"}
   ]
 }
