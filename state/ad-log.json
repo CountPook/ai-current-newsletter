@@ -26,6 +26,25 @@
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-09-26", "advertiser": null, "note": "0 ads placed. Ad/sponsorship tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are gated on the current beehiiv plan and returned 'not available on your current plan'. No offer IDs could be retrieved, so no slots were filled."}
+  ],
+  "runs2": [
+    {
+      "date": "2026-09-26",
+      "post_id": null,
+      "draft_created": false,
+      "blocker": "Entire beehiiv authoring/mutation surface is plan-gated (save_post, edit_post_content, duplicate_post, generate_image, learn_post_authoring, learn_post_metadata, list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items all return 'not available on your current plan'). Issue fully composed and saved to outbox/2026-09-26/ for manual entry.",
+      "graded_post": {
+        "note": "No post published 'yesterday'. Most recent published post is 2026-08-17. Graded that one.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0}
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings_7d": "$16.48"},
+      "earnings_3mo": {"total": "$37.75", "ad_network": "$37.75", "recommendations": "$0.00", "direct_sponsorship": "$0.00", "paid_subscription": "$0.00", "digital_product": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": []
+    }
   ]
 }
