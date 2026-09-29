@@ -2,6 +2,7 @@
   "cached_at": "2026-06-18",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "plan_status_2026-09-29": "PLAN DOWNGRADED — write/create beehiiv tools are gated: save_post, edit_post, edit_post_content, duplicate_post, generate_image, learn_post_authoring, learn_post_metadata, list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items all return 'not available on your current plan'. Read tools still work (list_posts, get_post_*, get_publication_stats, list_orders, list_tiers, list_assets). Until the plan is restored, drafts must be built as HTML files in state/drafts/ and created manually in beehiiv. The template HTML shape below was captured from the live Aug 17 published post and is confirmed correct.",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
