@@ -2,6 +2,23 @@
   "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
   "runs": [
     {
+      "date": "2026-09-30",
+      "post_id": null,
+      "title": "OpenAI Debuts GPT-6.1 Sol and Always-On 'Dots' Agents, Anthropic Ships a Faster Claude Sonnet 5.5, and the US Launches America.gov",
+      "draft_created": false,
+      "note": "Draft NOT created via API: the beehiiv write path is plan-gated this run (save_post, edit_post_content, duplicate_post, generate_image, learn_post_authoring all return 'not available on your current plan'). Composed body saved to state/drafts/2026-09-30-ai-current.html for manual paste.",
+      "yesterday_graded": {
+        "graded_post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "graded_post_title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "graded_post_sent": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_note": "0 ads placed. list_ad_offers, list_ad_opportunities, and list_sponsorship_agreement_items are all plan-gated (unavailable) this run, so no valid ad inventory could be fetched. Per Step 3(d), ran fewer rather than force expired/invalid ad IDs."
+    },
+    {
       "date": "2026-06-17",
       "post_id": "post_16dcd8ee-e004-4eeb-b2d9-ce830f029b42",
       "title": "OpenAI Tests Models Before Launch, Zhipu Opens GLM-5.2, Google Ships June Pixel Drop",

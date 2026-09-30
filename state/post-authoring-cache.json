@@ -2,6 +2,7 @@
   "cached_at": "2026-06-18",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "plan_status_2026-09-30": "WRITE/AI TOOLS PLAN-GATED. As of 2026-09-30, save_post, edit_post, edit_post_content, duplicate_post, generate_image, learn_post_authoring, learn_post_metadata, list_ad_offers, list_ad_opportunities, and list_sponsorship_agreement_items all return 'not available on your current plan.' Only read tools work. Drafts cannot be created via API until the plan is upgraded. Compose to state/drafts/ for manual paste until then.",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
