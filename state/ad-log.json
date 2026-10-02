@@ -21,6 +21,24 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "post_id": null,
+      "draft_created": false,
+      "title": "Google Unveils Gemini 4 Argon, OpenAI Ships a Cheaper GPT-6.1 Sol, and the FTC Probes AI Labs",
+      "note": "Draft could NOT be created via API: save_post/edit_post/duplicate_post/generate_image all disabled on current beehiiv plan. Ready-to-paste draft saved to drafts/2026-10-02.html and drafts/2026-10-02.md.",
+      "graded_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "date_published": "2026-08-17",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "note": "Most recent PUBLISHED post; ~46 days before this run. Nothing has been published since 2026-08-17 though drafts were generated daily through 2026-09-04."
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [],
+      "ads_shortfall": "0 of 3 slots filled. Ad-network and sponsorship tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are disabled on the current plan, so no offers/agreements could be retrieved or ranked."
     }
   ],
   "ads": [
