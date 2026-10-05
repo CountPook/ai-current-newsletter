@@ -21,6 +21,23 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "post_id": null,
+      "title": "Trump's AI Task Force, Meta's AI Math Papers, and a Cheaper Nvidia DGX Spark",
+      "note": "Draft NOT created in beehiiv: save_post/duplicate_post/edit_post and generate_image are plan-gated on the current plan. Issue content saved to repo at drafts/2026-10-05-ai-current.{html,md} for manual entry.",
+      "yesterday_graded": {
+        "last_published_post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "last_published_title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "last_published_date": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0,
+        "note": "No issue has been PUBLISHED since 2026-08-17; daily drafts accrued through 2026-09-04 then stopped. 7-day publication stats are all zero (nothing sent)."
+      },
+      "ads": [],
+      "ads_shortfall": "0 of 3 ad slots filled. Ad-network tools (list_ad_offers, list_ad_opportunities, list_sponsorship_agreement_items) are plan-gated, so no offers could be retrieved or ranked. June opportunity IDs are long expired (send_by 2026-06-22). No ads embedded."
     }
   ],
   "ads": [
