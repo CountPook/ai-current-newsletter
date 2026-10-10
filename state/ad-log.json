@@ -17,15 +17,40 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "graded_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17",
+        "note": "Most recent PUBLISHED post. Nothing has been published since 2026-08-17; daily drafts (Aug 18 - Oct 9) accumulated unscheduled.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "earnings_last_3_months": {"total": "$37.75", "ad_network": "$37.75", "other": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_b394e1a5-ed59-4756-8621-f2f42637e09c",
+      "title": "OpenAI Opens GPT-6 to Everyone, Reflection Launches Its Open Beam Model, and Microsoft Debuts the Surface Laptop Ultra",
+      "target_send": "2026-10-10T14:00:00Z",
+      "ad_source": "list_ad_opportunities (accepted) — list_ad_offers auto-accept blocked by 'can not accept any more opportunities' cap",
+      "ads": [
+        {"advertiser": "Attio", "opportunity_id": "8c69f816-1023-45a9-8431-00f25f7ff19f", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-10-13T05:50:16Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "045295f1-bd94-445d-aa1a-161218b5ccf0", "slot": "near end (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-13T05:50:16Z"},
+        {"advertiser": "TigerData", "opportunity_id": "34452bf7-4200-4d7a-965a-22206a283e29", "slot": "end (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-10-13T05:50:16Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-10", "advertiser": "Attio", "opportunity_id": "8c69f816-1023-45a9-8431-00f25f7ff19f", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-10", "advertiser": "Wispr Flow", "opportunity_id": "045295f1-bd94-445d-aa1a-161218b5ccf0", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-10-10", "advertiser": "TigerData", "opportunity_id": "34452bf7-4200-4d7a-965a-22206a283e29", "slot_position": 3, "cpc_cents": 225}
   ]
 }
