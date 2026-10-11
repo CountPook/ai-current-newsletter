@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "post_id": "post_1f1d0074-6e2f-4156-b7c0-77deaa27a56f",
+      "title": "Microsoft and Cloudflare Ship Decision Models, Broadcom Lines Up $50B for OpenAI Chips, and Alibaba Speeds Up Qwen-Image",
+      "graded_latest_published": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published": "2026-08-17",
+        "note": "Most recent PUBLISHED post; newsletter dormant since (daily drafts created but not sent).",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0}
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00", "orders": 0},
+      "ads": [
+        {"advertiser": "Attio", "opportunity_id": "8c69f816-1023-45a9-8431-00f25f7ff19f", "headline": "Some teams never seem to stop moving. They're on Attio, the agentic CRM.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-10-13T05:50:16Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "045295f1-bd94-445d-aa1a-161218b5ccf0", "headline": "Stop typing AI prompts. Start talking.", "slot": "bottom 1 (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-13T05:50:16Z"},
+        {"advertiser": "TigerData", "opportunity_id": "34452bf7-4200-4d7a-965a-22206a283e29", "headline": "Live Analytics, Sept - Text", "slot": "bottom 2 (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-10-13T05:50:16Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-11", "advertiser": "Attio", "opportunity_id": "8c69f816-1023-45a9-8431-00f25f7ff19f", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-11", "advertiser": "Wispr Flow", "opportunity_id": "045295f1-bd94-445d-aa1a-161218b5ccf0", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-10-11", "advertiser": "TigerData", "opportunity_id": "34452bf7-4200-4d7a-965a-22206a283e29", "slot_position": 3, "cpc_cents": 225}
   ]
 }
