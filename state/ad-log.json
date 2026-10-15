@@ -21,11 +21,32 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "post_id": "post_0193186b-dbb9-4292-a5a2-9fae1c46d21d",
+      "title": "Anthropic's $16.8B Pre-IPO Quarter, Gemini 4 Argon Goes Paid, DeepSeek's $14B Raise",
+      "last_published_perf": {
+        "note": "No issue has been published/sent since 2026-08-17; daily drafts since then were created but never scheduled. Most recent published post graded this run.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "published_title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "scheduled_at": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0,
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+      },
+      "ads": [
+        {"advertiser": "Atlassian", "opportunity_id": "626395bb-9d8d-49ae-b0de-8ac20d53ea3d", "headline": "State of Product reveals what AI still hasn't solved", "slot": "top (after intro)", "creative": "secondary", "cpc_cents": 375, "send_by": "2026-10-18T05:53:25Z"},
+        {"advertiser": "Atlas Salt", "opportunity_id": "c4f7d8e6-92ea-4ae9-9414-d8f5d0cb16c4", "headline": "The Mineral Everyone Forgets Until Their Driveway Freezes Over", "slot": "bottom 1 (after Research)", "creative": "secondary", "cpc_cents": 300, "send_by": "2026-10-18T05:53:25Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "858ef914-6a4b-41ef-bd19-c757eb0a028e", "headline": "Turn today's calls into tomorrow's proposal", "slot": "bottom 2 (before sign-off)", "creative": "secondary", "cpc_cents": 300, "send_by": "2026-10-18T05:53:25Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-15", "advertiser": "Atlassian", "opportunity_id": "626395bb-9d8d-49ae-b0de-8ac20d53ea3d", "slot_position": 1, "cpc_cents": 375},
+    {"date": "2026-10-15", "advertiser": "Atlas Salt", "opportunity_id": "c4f7d8e6-92ea-4ae9-9414-d8f5d0cb16c4", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-10-15", "advertiser": "Wispr Flow", "opportunity_id": "858ef914-6a4b-41ef-bd19-c757eb0a028e", "slot_position": 3, "cpc_cents": 300}
   ]
 }
