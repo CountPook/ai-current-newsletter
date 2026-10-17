@@ -21,11 +21,37 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "post_id": "post_fbcf7cf0-f58a-4caf-a5a6-058b0b639dea",
+      "title": "Meta Ships an 816B Open Model, Microsoft Unveils a 2.8T Model, and the EU Opens Its First AI Act Probes",
+      "graded_post": {
+        "note": "No post has been published/sent since 2026-08-17. Most recent published post graded as 'yesterday'.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "published": "2026-08-17",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "total_opens": 4, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "target_send_timestamp_utc": "2026-10-17T14:00:00Z",
+      "target_send_local": "2026-10-17 07:00 America/Los_Angeles (PDT)",
+      "direct_sponsorships_waiting": 0,
+      "ads": [
+        {"advertiser": "Atlassian", "opportunity_id": "626395bb-9d8d-49ae-b0de-8ac20d53ea3d", "headline": "State of Product reveals what AI still hasn't solved", "slot_position": 1, "slot": "top (after intro)", "kind": "primary", "cpc_cents": 375, "send_by": "2026-10-18T05:53:25Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "858ef914-6a4b-41ef-bd19-c757eb0a028e", "headline": "Turn today's calls into tomorrow's proposal", "slot_position": 2, "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-18T05:53:25Z"},
+        {"advertiser": "Atlas Salt", "opportunity_id": "c4f7d8e6-92ea-4ae9-9414-d8f5d0cb16c4", "headline": "The Mineral Everyone Forgets Until Their Driveway Freezes Over", "slot_position": 3, "slot": "bottom (after sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-18T05:53:25Z"}
+      ],
+      "ad_notes": "Ad network capped accepted opportunities at 3; the 3 top-CPC offers (Atlassian 375, Wispr Flow 300, Atlas Salt 300) were already accepted for this cycle (send_by 2026-10-18, after target send), so they were embedded directly. Only one 'primary' (with-logo) slot is allowed per post, so top=primary, the two bottom ads=secondary. All 3 slots filled; no shortfall."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-17", "advertiser": "Atlassian", "opportunity_id": "626395bb-9d8d-49ae-b0de-8ac20d53ea3d", "slot_position": 1, "kind": "primary", "cpc_cents": 375},
+    {"date": "2026-10-17", "advertiser": "Wispr Flow", "opportunity_id": "858ef914-6a4b-41ef-bd19-c757eb0a028e", "slot_position": 2, "kind": "secondary", "cpc_cents": 300},
+    {"date": "2026-10-17", "advertiser": "Atlas Salt", "opportunity_id": "c4f7d8e6-92ea-4ae9-9414-d8f5d0cb16c4", "slot_position": 3, "kind": "secondary", "cpc_cents": 300}
   ]
 }
