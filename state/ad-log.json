@@ -17,15 +17,41 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "post_id": "post_9d269519-3ad0-42e8-8c37-2932c98e575e",
+      "title": "NVIDIA Ships an Open 120B Agent Model, Elorian Launches Glimpse, and ServiceNow Gives AI Agents Cryptographic IDs",
+      "grading_note": "No post published since 2026-08-17; ~60 daily drafts (Aug 18-Oct 17) built but never scheduled/sent. Graded the latest published post instead of a true 'yesterday'.",
+      "latest_published_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "scheduled_at": "2026-08-17T19:12:08Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0}
+      },
+      "publication_4w": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$16.48"},
+      "orders_since_last_run": 0,
+      "ad_slots_requested": 3,
+      "ad_slots_filled": 2,
+      "ad_shortfall_reason": "Ad-network concurrent-opportunity cap ('can not accept any more opportunities') blocked a 3rd placement. Cap partly occupied by 3 stale accepted Oct-18 opportunities embedded in the unpublished Oct-17 draft (Atlas Salt, Wispr Flow, Atlassian; send_by 2026-10-18T05:53Z, expired before today's 14:00Z target send).",
+      "ads": [
+        {"advertiser": "Wispr Flow", "offer_id": 167043216, "opportunity_id": "6ed4d395-8479-4b54-a84b-4a5dcc6002af", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-10-23T05:50:16Z"},
+        {"advertiser": "Sprinto", "offer_id": 167043224, "opportunity_id": "6e1d8589-4bb6-425f-ab4b-3f3adc50b8f0", "slot": "near end (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-23T05:50:28Z"}
+      ],
+      "ad_not_placed": [
+        {"advertiser": "Greenfield Robotics", "offer_id": 167043226, "intended_slot": "near end (after sign-off)", "kind": "secondary", "cpc_cents": 243, "reason": "concurrent-opportunity cap"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-18", "advertiser": "Wispr Flow", "opportunity_id": "6ed4d395-8479-4b54-a84b-4a5dcc6002af", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-18", "advertiser": "Sprinto", "opportunity_id": "6e1d8589-4bb6-425f-ab4b-3f3adc50b8f0", "slot_position": 2, "cpc_cents": 300}
   ]
 }
