@@ -1,7 +1,8 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-10-21",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
+  "ad_placement_learning_2026-10-21": "Embed ACCEPTED opportunity IDs from list_ad_opportunities (status=accepted) as advertisementOpportunity data-id, NOT list_ad_offers IDs. On 2026-10-21 embedding an offer ID failed with 'can not accept any more opportunities' (account at accepted cap). Omit data-advertisement-kind to let the server pick the creative (matches working drafts). Ad node: <div class=\"node-advertisementOpportunity\" data-id=\"<accepted_opportunity_uuid>\" data-custom-intro=\"Together with our sponsor\" data-show-options-initially=\"true\"></div>",
   "theme_defaults": {
     "paragraph": {"font_family": "inter", "font_size": "16px", "color": "#374151"},
     "h2": {"font_family": "instrument sans", "font_size": "20px", "font_weight": "700", "color": "#111827"},
