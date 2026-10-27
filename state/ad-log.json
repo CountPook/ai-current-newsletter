@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "post_id": "post_a959ccbd-66a8-4419-b529-4e4b3eb14a06",
+      "title": "Anthropic Files for a Historic IPO, OpenAI Ships GPT-6.1 Terra, and SoftBank Bets $50B on Malaysia AI",
+      "graded_yesterday": {
+        "note": "Most recent PUBLISHED post was 2026-08-17 (publishing gap: daily drafts since have not been scheduled/sent by the operator).",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Atlassian", "opportunity_id": "04c4ef27-9767-461a-8da9-c2abf19c8277", "headline": "State of Product reveals what AI still hasn't solved", "slot": "top (primary, after intro)", "cpc_cents": 375, "send_by": "2026-10-29T05:51:30Z", "source": "accepted_opportunity"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "5955b643-3480-475a-ab18-9ad604a4e5cb", "headline": "Stop typing AI prompts. Start talking.", "slot": "bottom-1 (secondary, before sign-off)", "cpc_cents": 300, "send_by": "2026-10-29T05:51:48Z", "source": "accepted_opportunity"},
+        {"advertiser": "Gladly.ai", "opportunity_id": "ee6f4abf-93f6-4be5-b4f5-1c85ad5729a4", "headline": "A Single Typo Shouldn't Cost You a Sale", "slot": "bottom-2 (secondary, after sign-off)", "cpc_cents": 225, "send_by": "2026-10-30T05:51:06Z", "source": "accepted_opportunity"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-27", "advertiser": "Atlassian", "opportunity_id": "04c4ef27-9767-461a-8da9-c2abf19c8277", "slot_position": 1, "cpc_cents": 375},
+    {"date": "2026-10-27", "advertiser": "Wispr Flow", "opportunity_id": "5955b643-3480-475a-ab18-9ad604a4e5cb", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-10-27", "advertiser": "Gladly.ai", "opportunity_id": "ee6f4abf-93f6-4be5-b4f5-1c85ad5729a4", "slot_position": 3, "cpc_cents": 225}
   ]
 }
