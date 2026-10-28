@@ -17,15 +17,40 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "post_id": "post_9d0bba22-5cc3-4a13-9543-737c20066c48",
+      "title": "Google DeepMind Previews Genie 4, OpenAI Claims Three AI Proofs, and Nvidia and AMD Back Meta",
+      "note": "Daily draft created but NOT scheduled/sent (requires manual Schedule in beehiiv). IMPORTANT: no post has actually been SENT since 2026-08-17; daily drafts have accumulated unpublished.",
+      "grading_of_last_published": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "sent_date": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0,
+        "open_rate": 20.0, "unique_opens": 2, "total_opens": 4,
+        "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "target_send_timestamp": "2026-10-28T14:00:00Z",
+      "ads": [
+        {"advertiser": "Atlassian", "opportunity_id": "04c4ef27-9767-461a-8da9-c2abf19c8277", "headline": "State of Product reveals what AI still hasn't solved", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 375, "send_by": "2026-10-29T05:51:30Z"},
+        {"advertiser": "Wispr Flow", "opportunity_id": "5955b643-3480-475a-ab18-9ad604a4e5cb", "headline": "Stop typing AI prompts. Start talking.", "slot": "bottom 1 (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-10-29T05:51:48Z"},
+        {"advertiser": "Gladly.ai", "opportunity_id": "ee6f4abf-93f6-4be5-b4f5-1c85ad5729a4", "headline": "A Single Typo Shouldn't Cost You a Sale", "slot": "bottom 2 (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-10-30T05:51:06Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-28", "advertiser": "Atlassian", "opportunity_id": "04c4ef27-9767-461a-8da9-c2abf19c8277", "slot_position": 1, "kind": "primary", "cpc_cents": 375},
+    {"date": "2026-10-28", "advertiser": "Wispr Flow", "opportunity_id": "5955b643-3480-475a-ab18-9ad604a4e5cb", "slot_position": 2, "kind": "secondary", "cpc_cents": 300},
+    {"date": "2026-10-28", "advertiser": "Gladly.ai", "opportunity_id": "ee6f4abf-93f6-4be5-b4f5-1c85ad5729a4", "slot_position": 3, "kind": "secondary", "cpc_cents": 225}
   ]
 }
