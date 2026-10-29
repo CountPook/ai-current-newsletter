@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "post_id": "post_fb247a2e-c226-44f9-9722-95ecc9232b5d",
+      "title": "Google Launches Gemini 4 Carbon, Liquid AI Opens LFM3, and the Gemini App Hits 1 Billion Users",
+      "graded_last_published": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published": "2026-08-17",
+        "note": "Most recent PUBLISHED issue; all daily drafts since (incl. Oct 15-28) were created but never scheduled/sent, so no newer send stats exist.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0}
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "orders_since_last_run": 0,
+      "ads": [
+        {"advertiser": "ChatFeatured", "offer_id": 176967914, "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "headline": "From invisible to first in ChatGPT.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Lovable", "offer_id": 176967917, "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "headline": "Builders (Permission), Oct - Text", "slot": "bottom 1 (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Kalshi", "offer_id": 176967915, "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "headline": "The produce market that hedges heat waves", "slot": "bottom 2 (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-29", "advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-29", "advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-10-29", "advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "slot_position": 3, "cpc_cents": 225}
   ]
 }
