@@ -21,11 +21,36 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "graded_published_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "scheduled_at": "2026-08-17T19:12:08Z",
+        "note": "Newest PUBLISHED post. No issue has actually been published/sent in the last 7 days; daily drafts created through 2026-10-29 but not sent.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_7df2672d-4753-4272-bb58-d37ee869e62c",
+      "title": "Mistral Ships Large 4 Open Weights, AWS Grows 39%, and DeepSeek Nears a $15B Round",
+      "target_send_local": "2026-10-30 07:00 America/Los_Angeles",
+      "target_send_utc": "2026-10-30T14:00:00Z",
+      "ads": [
+        {"advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "headline": "From invisible to first in ChatGPT.", "kind": "primary", "slot": "top (after intro)", "cpc_cents": 300, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "headline": "Builders (Permission), Oct - Text", "kind": "secondary", "slot": "bottom (after last section)", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "headline": "The produce market that hedges heat waves", "kind": "secondary", "slot": "bottom (after sign-off, before share button)", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"}
+      ],
+      "ad_sourcing_note": "Used already-ACCEPTED opportunities (list_ad_opportunities). list_ad_offers had higher-CPC unclaimed offers (Wispr Flow/ChatFeatured $3.00, several $2.25) but placing those claims a new opportunity, which the ad network rejected with 'can not accept any more opportunities' (daily/active cap reached). The three accepted opportunities above were valid (send_by 2026-11-03, after the 14:00Z target) and were ranked by CPC: ChatFeatured $3.00 > Lovable/Kalshi $2.25. No direct sponsorship agreements were waiting."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-30", "advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-30", "advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-10-30", "advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "slot_position": 3, "cpc_cents": 225}
   ]
 }
