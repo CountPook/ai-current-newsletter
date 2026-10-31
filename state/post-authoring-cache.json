@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-10-31",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -14,7 +14,8 @@
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
-    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
+    "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\" data-advertisement-kind=\"primary|secondary\" data-custom-intro=\"A word from our sponsor\"></div>",
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "placement_note": "Prefer already-ACCEPTED opportunity UUIDs from list_ad_opportunities(status=accepted) over unclaimed integer offer IDs from list_ad_offers: placing an unclaimed offer auto-claims it and can fail with 'can not accept any more opportunities' when the publication's claim cap is reached (seen 2026-10-31)."
   }
 }

@@ -21,11 +21,26 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "post_id": "post_0c57c2ec-ccf2-4f22-8335-131ccb03d0a8",
+      "title": "Malicious Claude Code Extension Backdoors Cursor Users, OpenAI Rewrites Its Model Spec, and Pika Opens a Video Model",
+      "grading_note": "No issue has been sent since 2026-08-17 (every daily run since then produced an unscheduled draft), so there are no fresh send stats to grade. Publication 7d: 10 active subscribers, 0 opens/clicks/new/churned (nothing sent in window), $0.00 earnings. list_orders: 0. Most recent published post (2026-08-17, post_3869bf49): 10 sent, 20% open (2 unique), 0 clicks, 0 unsubscribes.",
+      "target_send": "2026-10-31T14:00:00Z",
+      "ads": [
+        {"advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "headline": "From invisible to first in ChatGPT.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "headline": "The produce market that hedges heat waves", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "headline": "Builders (Permission), Oct - Text", "slot": "bottom (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-10-31", "advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-10-31", "advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-10-31", "advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "slot_position": 3, "cpc_cents": 225}
   ]
 }
