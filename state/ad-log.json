@@ -21,11 +21,27 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "post_id": "post_d7e75577-dfee-44ea-b56d-112b6e3dcf3a",
+      "title": "Google Runs an AI Chip in Orbit, AI Giants Back a Web-Scraping Opt-Out, and xAI Must Face Its Pollution Suit",
+      "note": "Gap since last recorded run (2026-06-18). Nothing has been PUBLISHED since 2026-08-17; daily drafts are created but never scheduled/sent. No yesterday-post stats available. Publication last-7-days stats below are all zero (nothing sent).",
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0.0, "click_rate": 0.0, "earnings": "$0.00", "orders_since_last_run": 0},
+      "ads": [
+        {"advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "headline": "From invisible to first in ChatGPT.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "headline": "Builders (Permission), Oct - Text", "slot": "bottom-1 (before sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"},
+        {"advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "headline": "The produce market that hedges heat waves", "slot": "bottom-2 (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-03T05:53:03Z"}
+      ],
+      "ad_placement_note": "New ad-network offers (list_ad_offers, e.g. ChatFeatured 179583747, Mindstream 179583738, Lovable 179583740) could NOT be claimed: save/edit returned 'can not accept any more opportunities' (acceptance cap saturated by ~88 unsent daily drafts, each holding 3 claimed ads). Placed the already-accepted current-cycle opportunities instead (same advertisers/payouts, send_by 2026-11-03, unexpired for the 2026-11-02 15:00 UTC target send). All 3 slots filled."
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-02", "advertiser": "ChatFeatured", "opportunity_id": "6129de3c-cf0e-4b9d-a371-0754369d0be2", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-11-02", "advertiser": "Lovable", "opportunity_id": "ea4d739e-f34d-4c60-b92e-f6be6a1581c2", "slot_position": 2, "cpc_cents": 225},
+    {"date": "2026-11-02", "advertiser": "Kalshi", "opportunity_id": "6d0b9fd2-c157-4d2e-b7f2-a685fa31a9eb", "slot_position": 3, "cpc_cents": 225}
   ]
 }
