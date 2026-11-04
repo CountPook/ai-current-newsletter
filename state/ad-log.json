@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "graded_post": {
+        "note": "Most recent PUBLISHED post graded this run. The daily routine has produced drafts through 2026-11-03, but none since 2026-08-17 appear to have been scheduled/sent (list_posts status=published newest is 2026-08-17).",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "post_id": "post_af3e54a2-21c5-43da-b287-b9f23e15d38a",
+      "title": "Fal Hits a $16B Valuation, Anthropic's Filing Shows a Slowing Q3, and xAI Reins In Grok Bot",
+      "ads": [
+        {"advertiser": "beehiiv", "offer_id": 181492383, "accepted_opportunity_id": "d1f594ee-a607-4b39-a727-d64d500d273f", "headline": "Stop feeding the feed.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 350, "send_by": "2026-11-09T05:42:55Z"},
+        {"advertiser": "ChatFeatured", "offer_id": 181492376, "accepted_opportunity_id": "264a6320-7082-435d-8852-69b6d7d66e75", "headline": "ChatGPT just recommended your competitor", "slot": "bottom (before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-11-09T05:42:55Z"},
+        {"advertiser": "Lovable", "offer_id": 181492373, "accepted_opportunity_id": "245aa302-7db3-480f-8f42-a5f68a1b2eb5", "headline": "Test that business idea this weekend", "slot": "bottom (after sign-off)", "kind": "secondary", "cpc_cents": 225, "send_by": "2026-11-09T05:42:55Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-04", "advertiser": "beehiiv", "offer_id": 181492383, "slot_position": 1, "kind": "primary", "cpc_cents": 350},
+    {"date": "2026-11-04", "advertiser": "ChatFeatured", "offer_id": 181492376, "slot_position": 2, "kind": "secondary", "cpc_cents": 300},
+    {"date": "2026-11-04", "advertiser": "Lovable", "offer_id": 181492373, "slot_position": 3, "kind": "secondary", "cpc_cents": 225}
   ]
 }
