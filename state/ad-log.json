@@ -21,11 +21,37 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "post_id": "post_741812e1-8396-4090-9f35-35ffd1899406",
+      "title": "OpenAI Launches Images 2.6, Meta Weighs a $20B AI Bond Raise, and Salesforce Eyes Listen Labs",
+      "yesterday_graded": {
+        "note": "No post was published yesterday (2026-11-04). Latest actually-sent issue is 2026-08-17; drafts have accumulated daily but none scheduled/sent since mid-August.",
+        "latest_published_post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "latest_published_title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "latest_published_sent_at": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "beehiiv ad network rejected every placement with 'can not accept any more opportunities' (publication-wide acceptance cap, not offer-specific). Likely because ~90 accumulated unsent drafts are each still holding ad opportunities. Valid, non-expired offers were available (send_by 2026-11-10) but none could be claimed.",
+        "would_have_placed": [
+          {"advertiser": "beehiiv", "offer_id": 182454759, "slot": "top (after intro)", "cpc_cents": 350, "kind": "primary"},
+          {"advertiser": "ChatFeatured", "offer_id": 182454752, "slot": "bottom 1 (before sign-off)", "cpc_cents": 300, "kind": "secondary"},
+          {"advertiser": "Lovable", "offer_id": 182454749, "slot": "bottom 2 (after sign-off)", "cpc_cents": 225, "kind": "primary"}
+        ]
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-05", "advertiser": "(none placed)", "opportunity_id": null, "slot_position": null, "cpc_cents": null, "note": "Ad network acceptance cap reached; 0 of 3 slots filled."}
   ]
 }
