@@ -21,11 +21,27 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "post_id": "post_71ae323f-127e-4ffa-87c2-222866fc646c",
+      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2, NVIDIA Debuts the GR00T 2 Robot Model, and Grok Turns On Default Watermarks",
+      "grading_note": "No issue has been SENT since 2026-08-17; daily drafts accumulate unscheduled, so no fresh open/CTR data. Last published (2026-08-17, Alibaba Qwen3.8-27B) = 10 sent, 20% open, 0% click, 0 unsub. Publication flat at 10 active subs (0 new / 0 churn last 7d), earnings $0.00, list_orders empty since last run.",
+      "last_published_stats": {"post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f", "published_at": "2026-08-17", "emails_sent": 10, "delivered": 10, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+      "ad_network_note": "Ad-network cap of 3 concurrent accepted-but-unsent opportunities was saturated by the defunct, past-dated 2026-11-09 draft (post_c998a010). Released those 3 stale holds (removed its ad nodes) to place today's ads.",
+      "ads": [
+        {"advertiser": "Wispr Flow", "offer_id": 186431206, "opportunity_id": "5203336d-553b-4f92-9de9-d15a32663ae6", "headline": "The voice-to-text app that built its own speech model", "slot": "top (primary, after intro)", "cpc_cents": 300, "send_by": "2026-11-11T23:59:59Z"},
+        {"advertiser": "ChatFeatured", "offer_id": 186431216, "opportunity_id": "bbf3960d-b91c-4072-9c05-3af2ac1d4607", "headline": "ChatGPT just recommended your competitor", "slot": "bottom (secondary, before sign-off/share)", "cpc_cents": 300, "send_by": "2026-11-15T05:56:17Z"},
+        {"advertiser": "Lovable", "offer_id": 186431207, "opportunity_id": "4357fdf3-fbe5-48c3-b7c0-96da64d231da", "headline": "Test that business idea this weekend", "slot": "bottom (secondary, before share)", "cpc_cents": 225, "send_by": "2026-11-15T05:56:17Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-10", "advertiser": "Wispr Flow", "offer_id": 186431206, "opportunity_id": "5203336d-553b-4f92-9de9-d15a32663ae6", "slot_position": 1, "slot": "top/primary", "cpc_cents": 300},
+    {"date": "2026-11-10", "advertiser": "ChatFeatured", "offer_id": 186431216, "opportunity_id": "bbf3960d-b91c-4072-9c05-3af2ac1d4607", "slot_position": 2, "slot": "bottom/secondary", "cpc_cents": 300},
+    {"date": "2026-11-10", "advertiser": "Lovable", "offer_id": 186431207, "opportunity_id": "4357fdf3-fbe5-48c3-b7c0-96da64d231da", "slot_position": 3, "slot": "bottom/secondary", "cpc_cents": 225}
   ]
 }
