@@ -21,11 +21,33 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "post_id": "post_2b5539ce-e294-4e40-a5f3-912f4c6fd4db",
+      "title": "Google Launches Gemini 4 Hydrogen for Coding, Chinese Firms Scramble for Nvidia Compute, and New York's AI Safety Law Kicks In",
+      "graded_post": {
+        "note": "Step 1 grade of most recent PUBLISHED post. State lagged since 2026-06-18; the daily routine produced drafts through 2026-11-12 but the last post actually published/sent was 2026-08-17.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "scheduled_at": "2026-08-17T19:12:08Z",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "open_rate": 0, "click_rate": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [
+        {"advertiser": "Wispr Flow", "opportunity_id": "e16a43f7-9b05-49b7-947a-3b4be1fa67ea", "headline": "The voice-to-text app that built its own speech model", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 300, "send_by": "2026-11-14T23:59:59Z"},
+        {"advertiser": "ChatFeatured", "opportunity_id": "bbf3960d-b91c-4072-9c05-3af2ac1d4607", "headline": "ChatGPT just recommended your competitor", "slot": "bottom 1 (after sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-11-15T05:56:17Z"},
+        {"advertiser": "Tabs", "opportunity_id": "aebc2e3a-f694-401f-938d-bc94447c4f43", "headline": "PWC Usage Webinar OD - Text-Only", "slot": "bottom 2 (before share button)", "kind": "secondary", "cpc_cents": 262, "send_by": "2026-11-17T05:51:46Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-13", "advertiser": "Wispr Flow", "opportunity_id": "e16a43f7-9b05-49b7-947a-3b4be1fa67ea", "slot_position": 1, "cpc_cents": 300},
+    {"date": "2026-11-13", "advertiser": "ChatFeatured", "opportunity_id": "bbf3960d-b91c-4072-9c05-3af2ac1d4607", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-11-13", "advertiser": "Tabs", "opportunity_id": "aebc2e3a-f694-401f-938d-bc94447c4f43", "slot_position": 3, "cpc_cents": 262}
   ]
 }

@@ -1,17 +1,11 @@
 {
-  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2.",
+  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2. NOTE: file had not been maintained between 2026-06-18 and 2026-11-13; all prior (June) entries were >30 days old and dropped on the 2026-11-13 run. Daily draft titles in beehiiv were used as the practical dedup reference for the gap.",
   "topics": [
-    {"date": "2026-06-17", "title": "OpenAI details Deployment Simulation for pre-release testing", "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"},
-    {"date": "2026-06-17", "title": "Zhipu AI releases GLM-5.2 open-weight coding model", "url": "https://chatforest.com/builders-log/zhipu-glm-5-2-1m-context-open-weights-agentic-coding-builder-guide/"},
-    {"date": "2026-06-17", "title": "Google ships June 2026 Pixel Drop with Android 17", "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"},
-    {"date": "2026-06-17", "title": "xAI adds Agent Dashboard to Grok Build", "url": "https://releasebot.io/updates/xai"},
-    {"date": "2026-06-17", "title": "OpenAI launches $150M Partner Network", "url": "https://openai.com/index/introducing-openai-partner-network/"},
-    {"date": "2026-06-17", "title": "Anthropic pauses planned Agent SDK billing change", "url": "https://thenewstack.io/anthropic-agent-sdk-credits/"},
-    {"date": "2026-06-17", "title": "Anthropic works through repeated Claude outages", "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm"},
-    {"date": "2026-06-18", "title": "OpenAI releases LifeSciBench, a 750-task life-sciences benchmark", "url": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/"},
-    {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
-    {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
-    {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-11-13", "title": "Google launches Gemini 4 Hydrogen coding model (global rollout incl. Search)", "url": "https://www.gurufocus.com/news/9195466/google-launches-gemini-4-hydrogen-ai-model-globally-enhancing-search-experience-goog"},
+    {"date": "2026-11-13", "title": "Microsoft expands Agent 365 (security module) + Azure Linux GA; AMD Ryzen AI Halo supports Project Zenith", "url": "https://learn.microsoft.com/en-us/partner-center/announcements/"},
+    {"date": "2026-11-13", "title": "Google DeepMind introduces Gemini Robotics 2.5 + ASIMOV-Jailbreak safety benchmark", "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"},
+    {"date": "2026-11-13", "title": "Chinese AI firms rush to rent overseas Nvidia capacity ahead of US Commerce remote-access rule", "url": "https://www.forbes.com/sites/jonmarkman/2026/11/12/chinese-ai-firms-rush-to-rent-nvidia-chips-abroad-before-a-new-us-rule/"},
+    {"date": "2026-11-13", "title": "Malaysia probes Nvidia GPU re-exports (Speedmatrix/Megaspeed), tightens data-center rules", "url": "https://www.digitimes.com/news/a20261113VL220/data-nvidia-gpu-ai-chip-investigation.html"},
+    {"date": "2026-11-13", "title": "New York opens registration for frontier-AI safety law (OpenAI, Anthropic must register by Jan 1, 2027)", "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"}
   ]
 }
