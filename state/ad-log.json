@@ -21,11 +21,39 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "post_id": "post_86345559-9592-437b-9ab5-8238e4381746",
+      "title": "Anthropic's AI IPO Nears Pricing, Microsoft Opens Ignite 2026, and the US Targets China's Remote Chip Access",
+      "graded_post": {
+        "note": "No post was published yesterday. Publishing has been dormant since 2026-08-17 while this routine keeps creating unscheduled daily drafts. Graded the last genuinely published post instead.",
+        "last_published_post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "last_published_date": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "beehiiv ad-network returned 'can not accept any more opportunities' on every new offer placement. The 3 current high-CPC accepted opportunities (beehiiv 350c, Wispr Flow 300c, ChatFeatured 300c) are already placed in the unsent 2026-11-16 draft (post_b992b935) and cannot be reused; attempts to claim fresh offers (Mindstream/Lovable/TigerData 225c) were blocked by an acceptance cap. 0 direct sponsorship agreements were waiting. Draft was saved with no ad-network ads; ads to be added manually in the dashboard.",
+        "candidates_considered": [
+          {"advertiser": "beehiiv", "cpc_cents": 350, "status": "blocked - already placed in 2026-11-16 draft"},
+          {"advertiser": "Wispr Flow", "cpc_cents": 300, "status": "blocked - already placed; primary-only creative"},
+          {"advertiser": "ChatFeatured", "cpc_cents": 300, "status": "blocked - already placed in 2026-11-16 draft"},
+          {"advertiser": "Mindstream", "cpc_cents": 225, "status": "blocked - acceptance cap reached"},
+          {"advertiser": "Lovable", "cpc_cents": 225, "status": "blocked - acceptance cap reached"},
+          {"advertiser": "TigerData", "cpc_cents": 225, "status": "blocked - acceptance cap reached"}
+        ]
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-17", "advertiser": "(none placed - ad-network acceptance cap; see runs[].ad_shortfall)", "opportunity_id": null, "slot_position": null, "cpc_cents": null}
   ]
 }
