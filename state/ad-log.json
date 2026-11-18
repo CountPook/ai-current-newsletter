@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "post_id": "post_0fe4fc64-18c5-4933-bdb1-bc6e00bbde60",
+      "title": "OpenAI Launches GPT-6.2 Astra and Sol, Microsoft Debuts Cheaper MAI Models at Ignite, and Anthropic Tightens Bug Disclosure",
+      "graded_post": {
+        "note": "No post has been PUBLISHED since 2026-08-17; daily drafts (through 2026-11-17) are created but never scheduled/sent. Graded the most recent published post as a proxy.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe (published 2026-08-17)",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ad_cap_note": "Ad network refused a 3rd placement ('can not accept any more opportunities') — effective cap of 2 accepted opportunities for this post. 1 of 3 slots left unfilled by design rather than forcing a low-value ad.",
+      "ads": [
+        {"advertiser": "beehiiv", "offer_id": "193832404", "advertisement_id": "3a0ece60-69c9-44cf-bb1f-a08e3d5cad37", "headline": "Stop feeding the feed.", "slot": "top (after intro)", "kind": "primary", "cpc_cents": 350, "send_by": "2026-11-23T05:51:32Z"},
+        {"advertiser": "Bezel", "offer_id": "193832405", "advertisement_id": "1f74f99a-d56a-40dc-ad0d-de66749573d9", "headline": "Agencies & manufacturers: your workflows have a new buyer", "slot": "bottom (after last section, before sign-off)", "kind": "secondary", "cpc_cents": 300, "send_by": "2026-11-23T05:51:59Z"}
+      ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-18", "advertiser": "beehiiv", "offer_id": "193832404", "slot_position": 1, "kind": "primary", "cpc_cents": 350},
+    {"date": "2026-11-18", "advertiser": "Bezel", "offer_id": "193832405", "slot_position": 2, "kind": "secondary", "cpc_cents": 300}
   ]
 }
