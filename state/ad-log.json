@@ -21,11 +21,38 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "post_id": "post_a770e488-4c6e-4be0-b620-85ed3d10360a",
+      "title": "Anthropic Prices Its $81B IPO, Nvidia Posts a Record Quarter, and Isomorphic Labs Raises $5B",
+      "graded_post": {
+        "note": "Most recent PUBLISHED post is from 2026-08-17; publishing has been paused since then (daily drafts created but not scheduled/sent).",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_shortfall": {
+        "target_send_timestamp_utc": "2026-11-19T15:00:00Z",
+        "slots_requested": 3,
+        "slots_filled": 0,
+        "direct_sponsorships_waiting": 0,
+        "reason": "No ads placeable. (1) list_ad_offers returned 15 available offers but placing any requires ACCEPTING it, which the API rejected: 'can not accept any more opportunities' (ad-network acceptance cap reached). (2) Of accepted opportunities, only 5 are still valid by send_by after the target send; all 5 are already placed in prior unsent drafts and the API rejects reuse ('already placed in another post'): 3a0ece60 beehiiv + 1f74f99a Bezel (in Nov 18 draft); 891e550a beehiiv + 9781fe4a Wispr Flow + f114e990 ChatFeatured (in Nov 16 draft). Per STEP 3d, ran fewer rather than forcing expired/unavailable ads.",
+        "top_available_offers_blocked_by_cap": [
+          {"advertiser": "Wispr Flow", "offer_id": 194849249, "cpc_cents": 300, "send_by": "2026-11-23T23:59:59Z"},
+          {"advertiser": "ChatFeatured", "offer_id": 194849252, "cpc_cents": 300, "send_by": "2026-11-24T05:43:23Z"},
+          {"advertiser": "Lovable", "offer_id": 194849247, "cpc_cents": 225, "send_by": "2026-11-24T05:43:23Z"}
+        ]
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-19", "advertiser": "(none placed — see runs[].ads_shortfall)", "opportunity_id": null, "slot_position": null, "cpc_cents": null}
   ]
 }

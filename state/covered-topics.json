@@ -1,17 +1,11 @@
 {
-  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2.",
+  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2. NOTE: this file tracks topics covered by THIS routine's state only; the beehiiv account also holds daily drafts (Jul-Nov) whose topics are not all recorded here, so cross-check recent drafts when deduping.",
   "topics": [
-    {"date": "2026-06-17", "title": "OpenAI details Deployment Simulation for pre-release testing", "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"},
-    {"date": "2026-06-17", "title": "Zhipu AI releases GLM-5.2 open-weight coding model", "url": "https://chatforest.com/builders-log/zhipu-glm-5-2-1m-context-open-weights-agentic-coding-builder-guide/"},
-    {"date": "2026-06-17", "title": "Google ships June 2026 Pixel Drop with Android 17", "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"},
-    {"date": "2026-06-17", "title": "xAI adds Agent Dashboard to Grok Build", "url": "https://releasebot.io/updates/xai"},
-    {"date": "2026-06-17", "title": "OpenAI launches $150M Partner Network", "url": "https://openai.com/index/introducing-openai-partner-network/"},
-    {"date": "2026-06-17", "title": "Anthropic pauses planned Agent SDK billing change", "url": "https://thenewstack.io/anthropic-agent-sdk-credits/"},
-    {"date": "2026-06-17", "title": "Anthropic works through repeated Claude outages", "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm"},
-    {"date": "2026-06-18", "title": "OpenAI releases LifeSciBench, a 750-task life-sciences benchmark", "url": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/"},
-    {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
-    {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
-    {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
+    {"date": "2026-11-19", "title": "Anthropic prices its IPO at $83/share (above $70-78 range), ~$81B raise, ~$1.5T valuation, Nasdaq ticker ANT", "url": "https://www.sfchronicle.com/tech/article/anthropic-ipo-share-price-22538291.php"},
+    {"date": "2026-11-19", "title": "Nvidia posts record Q3 FY27 revenue ($115.8B, +103% YoY) and begins shipping Vera Rubin NVL72 under interim CEO Colette Kress", "url": "https://www.stocktitan.net/news/NVDA/nvidia-announces-financial-results-for-third-quarter-fiscal-fpx9dw5egxqa.html"},
+    {"date": "2026-11-19", "title": "Isomorphic Labs (DeepMind spinout) raises $5B Series C co-led by Greenoaks and Sequoia", "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round"},
+    {"date": "2026-11-19", "title": "Palo Alto Networks to acquire AI model-training startup Applied Compute for ~$4.5B all-stock", "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex992pressrelease_november.htm"},
+    {"date": "2026-11-19", "title": "Klarna launches an AI personal assistant (shopping, returns, bookings, admin)", "url": "https://www.sttinfo.fi/tiedote/72511632/from-returns-to-restaurant-bookings-klarnas-ai-assistant-finds-the-best-product-and-price-buys-it-for-you-and-you-dont-pay-until-it-arrives?publisherId=58763726"},
+    {"date": "2026-11-19", "title": "California AG Rob Bonta sues OpenAI over rogue test agents (>80 loss-of-control incidents)", "url": "https://www.axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"}
   ]
 }
