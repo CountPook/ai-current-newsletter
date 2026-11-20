@@ -1,17 +1,17 @@
 {
-  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2.",
+  "_comment": "Rolling memory of covered story topics. Entries older than 30 days are dropped each run. Used for 14-day dedup in Step 2. NOTE: all pre-2026-11 entries were dropped on the 2026-11-20 run (last recorded run was 2026-06-18; the gap exceeds 30 days).",
   "topics": [
-    {"date": "2026-06-17", "title": "OpenAI details Deployment Simulation for pre-release testing", "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"},
-    {"date": "2026-06-17", "title": "Zhipu AI releases GLM-5.2 open-weight coding model", "url": "https://chatforest.com/builders-log/zhipu-glm-5-2-1m-context-open-weights-agentic-coding-builder-guide/"},
-    {"date": "2026-06-17", "title": "Google ships June 2026 Pixel Drop with Android 17", "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"},
-    {"date": "2026-06-17", "title": "xAI adds Agent Dashboard to Grok Build", "url": "https://releasebot.io/updates/xai"},
-    {"date": "2026-06-17", "title": "OpenAI launches $150M Partner Network", "url": "https://openai.com/index/introducing-openai-partner-network/"},
-    {"date": "2026-06-17", "title": "Anthropic pauses planned Agent SDK billing change", "url": "https://thenewstack.io/anthropic-agent-sdk-credits/"},
-    {"date": "2026-06-17", "title": "Anthropic works through repeated Claude outages", "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm"},
-    {"date": "2026-06-18", "title": "OpenAI releases LifeSciBench, a 750-task life-sciences benchmark", "url": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/"},
-    {"date": "2026-06-18", "title": "OpenAI updates GPT-Rosalind life-sciences model", "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"},
-    {"date": "2026-06-18", "title": "SpaceX to acquire Cursor maker Anysphere for ~$60B", "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"},
-    {"date": "2026-06-18", "title": "DeepSeek closes first external funding round ($7.4B, >$50B valuation)", "url": "https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm"},
-    {"date": "2026-06-18", "title": "Anthropic's Fable 5 and Mythos 5 stay offline under US export order", "url": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226"}
-  ]
+    {"date": "2026-11-20", "title": "Anthropic jumps on its Nasdaq debut (ANT), closing +17% after briefly topping $2T", "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"},
+    {"date": "2026-11-20", "title": "Google releases Gemini 4 Neon (1M context), its 4th Gemini 4 model in under two months", "url": "https://therundown.ai/news/google-gemini-4-neon-release"},
+    {"date": "2026-11-20", "title": "DeepSeek closes a second funding round of ~105.5B yuan (~$15.8B); CITIC Securities engaged for STAR Market IPO", "url": "https://www.digitimes.com/news/a20261120VL207/deepseek-computing-power-financing-funding.html"},
+    {"date": "2026-11-20", "title": "Nvidia and Microsoft expand collaboration at Ignite (Vera Rubin NVL72 on Azure, Nemotron in Foundry)", "url": "https://www.unite.ai/nvidia-expands-microsoft-ai-collaboration-with-vera-rubin-and-nemotron/"},
+    {"date": "2026-11-20", "title": "Microsoft launches AI transparency initiative with 40+ organizations to verify AI agent actions", "url": "https://www.hpcwire.com/aiwire/2026/11/18/microsoft-launches-ai-transparency-initiative-to-help-enterprises-verify-agent-actions/"}
+  ],
+  "recently_drafted_not_to_repeat": {
+    "_comment": "Lead topics from the daily drafts of 2026-11-16 to 2026-11-19 (kept to avoid repeating within 14 days; these drafts were created but not sent).",
+    "2026-11-19": ["Anthropic prices its $81B IPO at $83/share", "Nvidia record quarter / first results under new leadership", "Isomorphic Labs $5B Series C", "Palo Alto Networks acquires Applied Compute $4.5B", "Klarna AI personal assistant", "California AG sues OpenAI over test agents"],
+    "2026-11-18": ["OpenAI launches GPT-6.2 Astra and Sol", "Microsoft debuts cheaper MAI models at Ignite", "Anthropic tightens bug disclosure"],
+    "2026-11-17": ["Anthropic IPO nears pricing", "Microsoft opens Ignite 2026", "US targets China remote chip access"],
+    "2026-11-16": ["Nvidia replaces CEO Jensen Huang", "Alibaba launches Qwen4-Max", "OpenAI gives ChatGPT a shopping wallet"]
+  }
 }
