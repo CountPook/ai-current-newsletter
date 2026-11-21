@@ -17,15 +17,38 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "post_id": "post_8fde9e83-74bb-48c9-a3ef-7c0c14912be2",
+      "title": "Anthropic's Nasdaq Debut, Tencent Opens Hy4 Flash, and Microsoft Launches Agent 365",
+      "note": "Routine resumed after a gap in this state file (last logged run 2026-06-18; daily drafts were produced through 2026-11-20 outside this log). Last PUBLISHED/sent post was 2026-08-17.",
+      "graded_previous_published": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "target_send": "2026-11-21T15:00:00Z (7:00 AM America/Los_Angeles, PST)",
+      "ads": [
+        {"advertiser": "Atlassian", "offer_id": "196786553", "placed_opportunity_id": "89659b43-d9a2-4e38-8998-91a524099360", "headline": "State of Product reveals what AI still hasn't solved", "slot": "top (after intro)", "cpc_cents": 375, "send_by": "2026-11-26T05:47:41Z"},
+        {"advertiser": "Tabs", "offer_id": "196786555", "placed_opportunity_id": "06284760-82e7-4ca4-a850-848d0a917d6a", "headline": "The Hidden Cost of Slow SaaS Billing", "slot": "bottom 1 (after last section)", "cpc_cents": 262, "send_by": "2026-11-26T05:47:41Z"},
+        {"advertiser": "Mindstream", "offer_id": "196786546", "placed_opportunity_id": "2d5fb035-2d4f-44d3-b194-7f57d18473c5", "headline": "Master Claude AI (Free Guide)", "slot": "bottom 2 (after sign-off)", "cpc_cents": 225, "send_by": "2026-11-26T05:47:41Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-21", "advertiser": "Atlassian", "offer_id": "196786553", "slot_position": 1, "cpc_cents": 375},
+    {"date": "2026-11-21", "advertiser": "Tabs", "offer_id": "196786555", "slot_position": 2, "cpc_cents": 262},
+    {"date": "2026-11-21", "advertiser": "Mindstream", "offer_id": "196786546", "slot_position": 3, "cpc_cents": 225}
   ]
 }
