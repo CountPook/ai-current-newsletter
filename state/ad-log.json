@@ -21,11 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "post_id": "post_64d371c4-ddb8-42a9-a012-896de6a91c0f",
+      "title": "Gemini Takes Control of Your Mac, Anthropic's Model Finds OS Bugs, and the U.S. Cleared 900K AI Chips for China",
+      "grading_of_last_sent_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "sent_date": "2026-08-17",
+        "emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1
+      },
+      "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+      "ads": [],
+      "ad_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "Ad network would not accept new placements: 'can not accept any more opportunities'. list_ad_opportunities(status=accepted) returned 69 outstanding accepted opportunities accumulated from prior daily drafts that were never scheduled/sent. All future-valid opportunities (Atlassian 375c, Tabs 262c, Mindstream 225c, Bezel 300c, beehiiv 350c) are already embedded in other unsent drafts, so none could be placed or reused without harming those drafts. No direct sponsorship agreements (status=waiting was empty). Ranked offers that would have been placed: Atlassian id 197325984 (375c, top), Tabs id 197325987 (262c, bottom), Mindstream id 197325978 (225c, bottom).",
+        "resolution": "Human should either place ads in the beehiiv editor manually, or clear the backlog by scheduling/sending prior drafts so their accepted opportunities release."
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-22", "advertiser": "(none placed - ad network saturated)", "opportunity_id": null, "slot_position": null, "cpc_cents": null}
   ]
 }
