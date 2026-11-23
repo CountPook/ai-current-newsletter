@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-18",
+  "cached_at": "2026-11-23",
   "publication_id": "pub_0d0a1cec-09d3-47fe-8b91-d7b7ad38c0ff",
   "note": "Cached canonical HTML contract essentials from learn_post_authoring. Reuse across daily runs.",
   "theme_defaults": {
@@ -8,13 +8,21 @@
     "link_color": "#0C4A6E"
   },
   "established_template": {
-    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222 and data-color #FFFFFF, padding 20. Cover image is a 16:9 imageBlock figure with 30px rounded corners. Story sections use h2 headings (Models & Research, Industry & Business). Sign-off + Share button at the end. Sponsor slots use advertisementOpportunity nodes labeled 'A word from our sponsor' only when offers/agreements exist.",
-    "section_attrs": "data-background-color=#222222 data-color=#FFFFFF data-padding-*=20 data-type=section class=node-section",
+    "reference_draft": "Template Newsletter (post_c0cde14a-1804-4b10-8615-2f17a1a9507a) and the live daily series (e.g. post_64d371c4 from 2026-11-22).",
+    "description": "AI Current dark theme. Each block wrapped in a node-section div with data-background-color #222222; text sections also set data-color #FFFFFF; padding 20 (18 for section-image blocks). Cover image is a 16:9 imageBlock figure with 30px rounded corners. Structure: cover -> intro paragraph ('Good morning. It's <day>, <date>...') -> for each category: h2 heading section + 16:9 category image section (no rounding) + story paragraphs section (bold lead sentence + source link) -> sign-off paragraph -> full-width 'Share AI Current' button linking to {{rp_referral_hub_url}}.",
+    "category_headings_used": ["Models & Research", "Products & Platforms", "Business & Markets", "Security & Policy", "Policy & Society"],
+    "reusable_category_images": {
+      "models_research": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/48811099-f95d-44d2-adc2-9983ba7ab3f5/ai_generated_27cb0ed0c59d7b50.jpg",
+      "products_platforms": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/00c0b19e-3586-4de5-b177-20ef8da22581/ai_generated_34c69670494aeeaf.jpg",
+      "security_policy": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/85aab475-e75d-49b4-b83d-489cec84b424/ai_generated_4367ed0c702b9fc9.jpg"
+    },
     "cover_image_radius": 30
   },
   "key_merge_tags": ["{{rp_referral_hub_url}}", "{{unsubscribe_url}}", "{{subscriber_preferences_url}}", "{{publication_name}}", "{{current_date_full}}"],
   "ad_nodes": {
     "ad_network_offer": "<div class=\"node-advertisementOpportunity\" data-id=\"<offer_or_opportunity_id>\"></div>",
-    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>"
-  }
+    "direct_sponsorship": "<div class=\"node-sponsorship\" data-agreement-item-id=\"<uuid>\"></div>",
+    "notes": "Place ads AFTER creating the post, one at a time, via edit_post_content; do NOT set data-advertisement-kind (lets server assign). Use fresh ids from list_ad_offers (available_offers auto-claim on placement). Accepted opportunities already in another post cannot be reused. IMPORTANT: ad network caps this publication at 2 placements per post; a 3rd fails with 'can not accept any more opportunities' / 'No primary ad slot available'."
+  },
+  "recipients_note": "Publication has no paid tier (list_tiers = 0); save_post defaults to free tier on web+email, which matches prior sends. No override needed."
 }

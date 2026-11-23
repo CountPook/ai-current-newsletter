@@ -1,5 +1,5 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. NOTE: beehiiv ad network caps this publication at 2 ad placements per post; requesting 3 fails with 'can not accept any more opportunities'.",
   "runs": [
     {
       "date": "2026-06-17",
@@ -17,15 +17,45 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "post_id": "post_68c6a630-e50f-493c-ac87-b10ae4df974f",
+      "title": "OpenAI Floats a Frontier Training Limit, AI Agents Design a New CPU, and Amazon Nears a $7.5B Decart Deal",
+      "graded_prior_post": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published": "2026-08-17",
+        "note": "Most recent PUBLISHED post; daily drafts since have not been scheduled/sent.",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_last_30d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+      },
+      "target_send_utc": "2026-11-23T15:00:00Z",
+      "ad_slots_target": 3,
+      "ad_slots_filled": 2,
+      "shortfall_reason": "beehiiv ad network capped the post at 2 placements ('can not accept any more opportunities'); third ad (Mindstream, $2.25 CPC) could not be placed.",
+      "ads": [
+        {"advertiser": "Atlassian", "offer_id": 198001403, "opportunity_id": "47b328e5-4940-48e0-8718-1c589c83abba", "headline": "State of Product reveals what AI still hasn't solved", "slot": "top (after intro)", "slot_position": 1, "cpc_cents": 375, "send_by": "2026-11-28T05:54:56Z"},
+        {"advertiser": "Tabs", "offer_id": 198001406, "opportunity_id": "81f1d0d9-3f01-4c95-90c3-4425e6e7137c", "headline": "PWC Usage Webinar OD", "slot": "bottom (before sign-off)", "slot_position": 2, "cpc_cents": 262, "send_by": "2026-11-28T05:55:06Z"}
+      ],
+      "not_placed": [
+        {"advertiser": "Mindstream", "offer_id": 198001398, "headline": "Master Claude AI (Free Guide)", "cpc_cents": 225, "reason": "ad-network per-post cap of 2 reached"}
+      ],
+      "expired_dropped": [
+        {"advertiser": "Bezel", "opportunity_id": "1f74f99a-d56a-40dc-ad0d-de66749573d9", "cpc_cents": 300, "send_by": "2026-11-23T05:51:59Z", "reason": "send_by before target send 15:00Z"},
+        {"advertiser": "beehiiv", "opportunity_id": "3a0ece60-69c9-44cf-bb1f-a08e3d5cad37", "cpc_cents": 350, "send_by": "2026-11-23T05:51:32Z", "reason": "send_by before target send 15:00Z"}
       ]
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-23", "advertiser": "Atlassian", "opportunity_id": "47b328e5-4940-48e0-8718-1c589c83abba", "slot_position": 1, "cpc_cents": 375},
+    {"date": "2026-11-23", "advertiser": "Tabs", "opportunity_id": "81f1d0d9-3f01-4c95-90c3-4425e6e7137c", "slot_position": 2, "cpc_cents": 262}
   ]
 }
