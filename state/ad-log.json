@@ -1,31 +1,40 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. NOTE: Runs between 2026-06-18 and 2026-11-23 created beehiiv drafts but were not committed to this branch, so this log jumps from June to November.",
   "runs": [
-    {
-      "date": "2026-06-17",
-      "post_id": "post_16dcd8ee-e004-4eeb-b2d9-ce830f029b42",
-      "title": "OpenAI Tests Models Before Launch, Zhipu Opens GLM-5.2, Google Ships June Pixel Drop",
-      "stats": {"emails_sent": 12, "delivered": 12, "delivery_rate": 100.0, "open_rate": 33.33, "unique_opens": 4, "click_rate": 25.0, "unique_clicks": 1, "unsubscribe_rate": 16.67, "unsubscribes": 2, "spam_reports": 0},
-      "publication_7d": {"active_subscribers": 10, "new_subscribers": 1, "churned": 2, "net": -1, "earnings": "$0.00"},
-      "ads": [
-        {"advertiser": "The Code", "opportunity_id": "656779a5-5956-42bb-b3ae-5bf9ae6efdd1", "slot": "primary", "cpc_cents": 150},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "secondary", "cpc_cents": 131}
-      ]
-    },
     {
       "date": "2026-06-18",
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post_id": "post_139b1f91-cd31-42db-b635-e2f8143e36b7",
+      "title": "CrowdStrike's $43.9B Zscaler Deal, Elastic Buys an AI Eval Startup, Runway Opens a Robotics Model",
+      "target_send": "2026-11-24T15:00:00Z (7:00 AM America/Los_Angeles)",
+      "yesterday_graded": {
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "note": "Most recent PUBLISHED issue (2026-08-17); no issue has been published since August.",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads_requested": 3,
+      "ads_placed": 0,
+      "ads": [],
+      "ad_shortfall": true,
+      "ad_shortfall_reason": "0 of 3 slots filled via API. Direct sponsorships waiting: 0. list_ad_offers had 16 valid CPC offers (send_by 2026-11-29, all after target), but placing any offer triggers 'can not accept any more opportunities' (ad-network acceptance cap reached). All non-expired ACCEPTED opportunities (Atlassian 375c id 89659b43 / 47b328e5; Tabs 262c id 06284760 / 81f1d0d9; Mindstream 225c id 2d5fb035) are 'already placed in another post' — tied up in the backlog of unsent daily drafts (Nov 10-23). No embeddable ad was available. User must place ads manually in the beehiiv editor or clear old drafts to free the cap.",
+      "top_offers_available": [
+        {"advertiser": "Atlassian", "offer_id": 199072004, "cpc_cents": 348},
+        {"advertiser": "Wispr Flow", "offer_id": 199072002, "cpc_cents": 300},
+        {"advertiser": "Mindstream", "offer_id": 199071994, "cpc_cents": 225}
       ]
     }
   ],
-  "ads": [
-    {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
-  ]
+  "ads": []
 }
