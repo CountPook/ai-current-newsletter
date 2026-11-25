@@ -21,6 +21,31 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "post_id": "post_a980fa82-058c-4f86-a3e4-ea74612033de",
+      "title": "Anthropic Launches Claude Ship, Meta Opens Muse to the UK, and DeepMind's Agents Take On Quantum",
+      "graded_post": {
+        "note": "Most recent PUBLISHED post was 2026-08-17 (3-month gap); no issue has been sent since. Graded that one.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"}
+      },
+      "ads": [],
+      "ads_shortfall": {
+        "slots_target": 3,
+        "slots_filled": 0,
+        "reason": "Direct sponsorships waiting: 0. New ad-network offers (list_ad_offers) could not be placed: API returned 'can not accept any more opportunities' (accept cap reached). All currently-accepted, still-valid opportunities (Atlassian 47b328e5, Tabs 81f1d0d9, Mindstream 2d5fb035) are already attached to the backlog of ~24 unsent daily drafts and cannot be reused. Older accepted opportunities have send_by before the 2026-11-25T15:00Z target and are expired.",
+        "candidates_considered": [
+          {"advertiser": "Atlassian", "opportunity_id": "47b328e5-4940-48e0-8718-1c589c83abba", "cpc_cents": 375, "send_by": "2026-11-28T05:54:56Z", "result": "already placed in another post"},
+          {"advertiser": "Tabs", "opportunity_id": "81f1d0d9-3f01-4c95-90c3-4425e6e7137c", "cpc_cents": 262, "send_by": "2026-11-28T05:55:06Z", "result": "would reuse a placed opportunity"},
+          {"advertiser": "Mindstream", "opportunity_id": "2d5fb035-2d4f-44d3-b194-7f57d18473c5", "cpc_cents": 225, "send_by": "2026-11-26T05:57:51Z", "result": "would reuse a placed opportunity"},
+          {"advertiser": "Sprinto (offer)", "offer_id": "200106330", "cpc_cents": 300, "send_by": "2026-11-30T05:43:02Z", "result": "accept cap reached"},
+          {"advertiser": "Wispr Flow (offer)", "offer_id": "200106341", "cpc_cents": 300, "send_by": "2026-11-30T05:43:02Z", "result": "accept cap reached"}
+        ]
+      }
     }
   ],
   "ads": [
