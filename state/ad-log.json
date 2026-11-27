@@ -1,5 +1,5 @@
 {
-  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking.",
+  "_comment": "Per-run ad placements and post performance, used to blend realized CTR into ad ranking. NOTE: between 2026-06-18 and 2026-11-27 the routine kept producing daily DRAFTS that were never scheduled/sent, so no new send stats accrued; the only published post in that span is the 2026-08-17 issue graded below.",
   "runs": [
     {
       "date": "2026-06-17",
@@ -17,15 +17,34 @@
       "post_id": "post_f369f88d-1251-4d37-bb43-8ca6fc6629ee",
       "title": "SpaceX to Buy Cursor for $60B, DeepSeek Raises $7.4B, OpenAI Ships LifeSciBench",
       "ads": [
-        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "headline": "Learn how to code faster with AI in 5 mins a day", "slot": "top (after intro)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
-        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
+        {"advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot": "top (after intro)", "cpc_cents": 150},
+        {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot": "mid (between sections)", "cpc_cents": 150},
+        {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot": "near end (before sign-off)", "cpc_cents": 131}
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+      "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+      "note": "Newest PUBLISHED post as of 2026-11-27; graded as 'yesterday' since no post has been sent since.",
+      "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1}
+    },
+    {
+      "date": "2026-11-27",
+      "post_id": "post_ff9c1604-8c0d-4331-a885-ce852fe92477",
+      "title": "US Chip Curbs Delay China's AI Models, Nvidia Halts Southeast Asia Shipments, and OpenAI Tests Private Inference",
+      "target_send": "2026-11-27T15:00:00Z (7:00 AM America/Los_Angeles)",
+      "ad_source": "list_ad_offers available_offers (sponsorships: 0 waiting). Ranked by payout_per_click_cents desc; no repeat-advertiser CTR history to blend. All offers send_by 2026-12-02, valid for the target send.",
+      "ads": [
+        {"advertiser": "Atlassian", "offer_id": "201762057", "minted_opportunity_id": "a6bcce1c-0ca4-4cb9-a552-d3c8f2d1c22e", "slot_position": 1, "slot": "top (after intro)", "cpc_cents": 375, "send_by": "2026-12-02T05:43:41Z"},
+        {"advertiser": "ChatFeatured", "offer_id": "201762055", "minted_opportunity_id": "67a1a75a-3e1a-4495-88ab-0e484aeb2177", "slot_position": 2, "slot": "bottom (after last section)", "cpc_cents": 300, "send_by": "2026-12-02T05:43:41Z"},
+        {"advertiser": "Wispr Flow", "offer_id": "201762056", "minted_opportunity_id": "6b47143e-f7a1-466f-abd6-8f638708ed0f", "slot_position": 3, "slot": "bottom (after sign-off, before share button)", "cpc_cents": 300, "send_by": "2026-12-02T05:43:41Z"}
       ]
     }
   ],
   "ads": [
-    {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-11-27", "advertiser": "Atlassian", "offer_id": "201762057", "slot_position": 1, "cpc_cents": 375},
+    {"date": "2026-11-27", "advertiser": "ChatFeatured", "offer_id": "201762055", "slot_position": 2, "cpc_cents": 300},
+    {"date": "2026-11-27", "advertiser": "Wispr Flow", "offer_id": "201762056", "slot_position": 3, "cpc_cents": 300}
   ]
 }
