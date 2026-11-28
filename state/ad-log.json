@@ -21,11 +21,40 @@
         {"advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "headline": "Find your balance this spring (free gummies!)", "slot": "mid (between sections)", "cpc_cents": 150, "send_by": "2026-06-22T02:03:54Z"},
         {"advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "headline": "The free newsletter making HR less lonely", "slot": "near end (before sign-off)", "cpc_cents": 131, "send_by": "2026-06-22T10:08:42Z"}
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "post_id": "post_dfb1d41a-0ef4-4e0b-a756-f5ec0ab619e2",
+      "title": "US Chip Rules Pause Nvidia's Southeast Asia Shipments, OpenAI Reworks GPT-6.2 Pricing, and Sierra Raises $1.75B",
+      "graded_yesterday": {
+        "note": "No daily publishes since 2026-08-17; last PUBLISHED post graded as 'yesterday'.",
+        "post_id": "post_3869bf49-38fe-4670-ba34-ac72b0c07f3f",
+        "title": "Alibaba Open-Sources Qwen3.8-27B, Google Ships a Cheaper Gemini 3.7 Flash, and ChatGPT Ads Come to Europe",
+        "published_at": "2026-08-17",
+        "stats": {"emails_sent": 10, "delivered": 10, "delivery_rate": 100.0, "open_rate": 20.0, "unique_opens": 2, "click_rate": 0.0, "unique_clicks": 0, "unsubscribe_rate": 0.0, "unsubscribes": 0, "spam_reports": 0, "web_views": 1},
+        "publication_7d": {"active_subscribers": 10, "new_subscribers": 0, "churned": 0, "net": 0, "earnings": "$0.00"},
+        "orders_since_last_run": 0
+      },
+      "ads": [],
+      "ads_shortfall": {
+        "target_send_utc": "2026-11-28T15:00:00Z",
+        "slots_target": 3,
+        "slots_filled": 0,
+        "direct_sponsorships_waiting": 0,
+        "reason": "Ad network blocked. (1) Fresh available_offers (Sprinto/Wispr Flow/ChatFeatured at $3.00 CPC; others up to Atlassian via opportunity at $3.75) could not be placed: save rejected with 'can not accept any more opportunities' (publication acceptance cap reached). (2) The only non-expired already-accepted opportunities (Atlassian a6bcce1c $3.75, Wispr Flow 6b47143e $3.00, ChatFeatured 67a1a75a $3.00, all send_by 2026-12-02) are each already placed in the unsent 2026-11-27 draft; save rejected with 'already placed in another post'. Chose not to cannibalize another day's draft. Draft shipped with 0 ads; owner can add offers in the beehiiv ad-network panel at schedule time.",
+        "valid_offers_available": [
+          {"advertiser": "Sprinto", "offer_id": 202481041, "cpc_cents": 300, "send_by": "2026-12-03T05:43:55Z"},
+          {"advertiser": "Wispr Flow", "offer_id": 202481045, "cpc_cents": 300, "send_by": "2026-12-03T05:43:55Z"},
+          {"advertiser": "ChatFeatured", "offer_id": 202481051, "cpc_cents": 300, "send_by": "2026-12-03T05:43:55Z"},
+          {"advertiser": "Tabs", "offer_id": 202481049, "cpc_cents": 262, "send_by": "2026-12-03T05:43:55Z"}
+        ]
+      }
     }
   ],
   "ads": [
     {"date": "2026-06-18", "advertiser": "The Code", "opportunity_id": "a4f77cf0-600f-4181-81ed-4783d6775a05", "slot_position": 1, "cpc_cents": 150},
     {"date": "2026-06-18", "advertiser": "Lazarus", "opportunity_id": "0cdac272-ad12-4fed-ae22-fc409999188b", "slot_position": 2, "cpc_cents": 150},
-    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131}
+    {"date": "2026-06-18", "advertiser": "I Hate It Here", "opportunity_id": "eed626e8-a099-4f07-89f5-1ed29f8a1e87", "slot_position": 3, "cpc_cents": 131},
+    {"date": "2026-11-28", "advertiser": null, "opportunity_id": null, "slot_position": null, "cpc_cents": null, "note": "No ads placed — see runs[].ads_shortfall for 2026-11-28."}
   ]
 }
